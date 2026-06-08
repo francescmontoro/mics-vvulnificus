@@ -240,7 +240,7 @@ def make_dotplot(df: pd.DataFrame,
 
     for ext in ["pdf", "png"]:
         out = out_prefix.with_suffix(f".{ext}")
-        fig.savefig(out, dpi=300, bbox_inches="tight", facecolor="white")
+        fig.savefig(out, dpi=900, bbox_inches="tight", facecolor="white")
         print(f"  Saved: {out}")
 
     plt.close(fig)

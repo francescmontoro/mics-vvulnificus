@@ -284,7 +284,7 @@ def make_phylo_figure(tree_file, mics, lineage_map, out_prefix):
     # ── Save ──────────────────────────────────────────────────────────────────
     for ext in ["pdf", "png"]:
         out = out_prefix.with_suffix(f".{ext}")
-        fig.savefig(out, dpi=300, bbox_inches="tight", facecolor="white")
+        fig.savefig(out, dpi=900, bbox_inches="tight", facecolor="white")
         print(f"  Saved: {out}")
 
     plt.close(fig)
