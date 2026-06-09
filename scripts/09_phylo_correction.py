@@ -21,7 +21,7 @@ Inputs:
     ../data/processed/SNP_significant.tsv
     ../data/processed/MICs_converted.tsv
     ../data/raw/phylo_tree_renamed.nwk
-    ../data/raw/allnsSNP.tsv
+    ../data/raw/allnsSNP_v2.tsv
 
 Outputs:
     ../data/processed/SNP_phylo_corrected.tsv
@@ -128,7 +128,7 @@ if __name__ == "__main__":
     # Load raw SNPs (only significant)
     print("\nLoading raw SNPs...")
     sig_snp_ids = set(sig["snp_id"].unique())
-    snp_raw = pd.read_csv(RAW / "allnsSNP.tsv", sep="\t")
+    snp_raw = pd.read_csv(RAW / "allnsSNP_v2.tsv", sep="\t")
     snp_raw.columns = snp_raw.columns.str.strip()
     snp_raw["Strain"] = snp_raw["Strain"].astype(str).str.strip()
     snp_raw["strain_mic"] = snp_raw["Strain"].map(SNP_TO_MIC)

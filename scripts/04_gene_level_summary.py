@@ -22,7 +22,7 @@ Usage:
 Inputs:
     ../data/processed/SNP_significant.tsv
     ../data/processed/MICs_converted.tsv
-    ../data/raw/allnsSNP.tsv
+    ../data/raw/allnsSNP_v2.tsv
 
 Outputs:
     ../results/gene_level_per_ab.tsv
@@ -260,7 +260,7 @@ if __name__ == "__main__":
     print("  Part 2 — Antibiotic family analysis")
     print("=" * 65)
 
-    snps_raw = pd.read_csv(RAW / "allnsSNP.tsv", sep="\t")
+    snps_raw = pd.read_csv(RAW / "allnsSNP_v2.tsv", sep="\t")
     snps_raw.columns = snps_raw.columns.str.strip()
     snps_raw["Strain"] = snps_raw["Strain"].astype(str).str.strip()
     snps_raw["strain_mic"] = snps_raw["Strain"].map(SNP_TO_MIC)

@@ -26,7 +26,7 @@ Usage:
     python3 03_snp_association.py
 
 Inputs:
-    ../data/raw/allnsSNP.tsv
+    ../data/raw/allnsSNP_v2.tsv
     ../data/processed/MICs_converted.tsv
 
 Outputs:
@@ -54,7 +54,7 @@ RES.mkdir(parents=True, exist_ok=True)
 # ── Parameters ────────────────────────────────────────────────────────────────
 REFERENCE     = "CECT_5769"
 FDR_THRESHOLD = 0.05
-MIN_STRAINS   = 2
+MIN_STRAINS   = 5
 MIN_DELTA     = 0.5   # minimum score difference above reference to call resistant
                       # justification: avoids sub-scale noise; conservative threshold
                       # consistent with absence of species-specific breakpoints
@@ -210,7 +210,7 @@ if __name__ == "__main__":
     print(f"  Resistance threshold: ref_score + {MIN_DELTA}")
     print("=" * 65)
 
-    snps = load_snps(RAW  / "allnsSNP.tsv")
+    snps = load_snps(RAW  / "allnsSNP_v2.tsv")
     mics = load_mics(PROC / "MICs_converted.tsv")
 
     mapped_mic_names = set(snps["strain_mic"].dropna().unique())
