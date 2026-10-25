@@ -21,7 +21,7 @@ results/        result tables that support the tables and figures of the article
 | Dataset | Where |
 |---|---|
 | MIC values, 116 isolates (Sensititre GN2F and AVIAN1F) | Zenodo, [doi:10.5281/zenodo.20679806](https://doi.org/10.5281/zenodo.20679806) |
-| Filtered assemblies of the 29 strains analysed | Zenodo, doi:ZENODO_ASSEMBLIES_DOI |
+| Filtered assemblies of the 29 strains analysed | Zenodo, [doi:10.5281/zenodo.23639878](https://doi.org/10.5281/zenodo.23639878) |
 | Deposited assemblies and reference genome YJ016 | NCBI; accessions in `data/strains.tsv` (Table S1 of the article) |
 
 Place the MIC workbook at `data/mic/MICs_all_Vv.xlsx` and the assemblies in `data/genomes/` before running the pipeline. File names in the analysis use the identifiers in the `file_id` column of `data/strains.tsv`; three of them differ from the published strain designations (94-9-112 = 94-8-112, Ra_3 = Ra3, RIU1 = Riu1), and figures display the published names.
@@ -94,7 +94,7 @@ python3 scripts/23_figure_calibration.py --calib results/calibration --outdir fi
 
 ## Citation
 
-If you use this code, please cite the article above and the archived release of this repository (DOI in `CITATION.cff` once issued).
+If you use this code, please cite the article above and the archived release of this repository ([doi:10.5281/zenodo.23639674](https://doi.org/10.5281/zenodo.23639674), which always resolves to the latest version).
 
 ## Licence
 
