@@ -110,6 +110,9 @@ def main():
     outdir = Path(a.outdir); outdir.mkdir(parents=True, exist_ok=True)
 
     d = pd.read_excel(a.mic_xlsx, sheet_name=a.sheet)
+    # duplicated headers read by pandas as GEN.1/SXT.1, or plate-suffixed names
+    d = d.rename(columns={"GEN_GN2F": "GEN", "GEN_AVIAN1F": "GEN.1",
+                          "SXT_GN2F": "SXT", "SXT_AVIAN1F": "SXT.1"})
     d["STRAIN"] = d["STRAIN"].astype(str).str.strip()
 
     print("=" * 74)

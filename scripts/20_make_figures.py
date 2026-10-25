@@ -94,11 +94,22 @@ def save(fig, outdir, name):
     print(f"  wrote {name}.pdf (vector) / {name}.png (900 dpi)")
 
 
+# Column names of agents tested on both plates. In the workbook the duplicated
+# headers are read by pandas as GEN/GEN.1 and SXT/SXT.1; the Zenodo release may
+# instead carry the plate as a suffix. Both forms are accepted.
+MIC_COLUMNS = {"GEN_GN2F": "GEN", "GEN_AVIAN1F": "GEN.1",
+               "SXT_GN2F": "SXT", "SXT_AVIAN1F": "SXT.1"}
+
+
+def read_mics(mic_xlsx):
+    return pd.read_excel(mic_xlsx, sheet_name="MICs").rename(columns=MIC_COLUMNS)
+
+
 # ════════════════════════════════════════════════════════════════════════════
 # Figure 1 — MIC distributions
 # ════════════════════════════════════════════════════════════════════════════
 def figure1(mic_xlsx, outdir):
-    d = pd.read_excel(mic_xlsx, sheet_name="MICs")
+    d = read_mics(mic_xlsx)
 
     gen_levels = ["<0.5", "0.5", "1", "2", "4"]
     stz_levels = ["<32", "64", "128", "256", ">256"]
@@ -119,7 +130,7 @@ def figure1(mic_xlsx, outdir):
             bars[i].set_color(C["orange"])
     ax.set_xticks(range(len(gen_levels)))
     ax.set_xticklabels(gen_levels)
-    ax.set_xlabel("Gentamicin MIC (µg/mL)")
+    ax.set_xlabel("Gentamicin MIC (µg ml$^{-1}$)")
     ax.set_ylabel("Number of isolates")
     ax.set_title("a", loc="left", fontweight="bold")
     # bracket over the bars called resistant by a reference-anchored cut-off
@@ -145,7 +156,7 @@ def figure1(mic_xlsx, outdir):
             bars[i].set_color(C["sky"])
     ax.set_xticks(range(len(stz_levels)))
     ax.set_xticklabels(stz_levels)
-    ax.set_xlabel("Sulphathiazole MIC (µg/mL)")
+    ax.set_xlabel("Sulphathiazole MIC (µg ml$^{-1}$)")
     ax.set_ylabel("Number of isolates")
     ax.set_title("b", loc="left", fontweight="bold")
     ax.axvline(1.5, color=C["dark"], lw=1.0, ls="-")
@@ -186,8 +197,8 @@ def figure3(outdir, n_strains=29, n_tests_core=2614, n_tests_pan=636):
 
     # Annotation anchors placed clear of the legend and threshold lines.
     for r, lab, col, xy, ha, va in (
-            (4, "this study\n(\u2265128 µg/mL)", C["dark"], (-2, -50), "right", "top"),
-            (7, "sensitivity\n(\u226564 µg/mL)", C["grey"], (8, 10), "left", "bottom")):
+            (4, "this study\n(\u2265128 µg ml$^{-1}$)", C["dark"], (-2, -50), "right", "top"),
+            (7, "sensitivity\n(\u226564 µg ml$^{-1}$)", C["grey"], (8, 10), "left", "bottom")):
         f = 1.0 / math.comb(n_strains, r)
         ax.plot([r], [f], "o", ms=7, mfc="none", mec=col, mew=1.4)
         ax.annotate(lab, (r, f), textcoords="offset points", xytext=xy,
@@ -204,21 +215,23 @@ def figure3(outdir, n_strains=29, n_tests_core=2614, n_tests_pan=636):
     # ── (b) phylogenetic bound ──
     ax = axes[1]
     ks = np.arange(1, 11)
-    pmin = 0.5 ** ks
+    # Scoary reports the two-sided binomial p-value; with k non-overlapping
+    # pairs, all supporting the association, the smallest value is 2 x 0.5^k.
+    pmin = np.minimum(1.0, 2 * 0.5 ** ks)
     ax.semilogy(ks, pmin, "s-", color=C["green"], ms=3.5, lw=1.2,
-                label=r"minimum attainable $p$ = $0.5^{k}$")
+                label=r"minimum attainable $p$ = $2 \times 0.5^{k}$")
     ax.axhline(0.05, color=C["grey"], lw=0.8, ls=":", label=r"$\alpha=0.05$")
 
     for k, lab, col, xy in (
-            (3, "sulphathiazole, $k$ = 3", C["blue"], (10, 10)),
-            (5, "gentamicin, $k$ = 5", C["orange"], (12, 24))):
-        ax.plot([k], [0.5 ** k], "o", ms=7, mfc="none", mec=col, mew=1.4)
-        ax.annotate(lab, (k, 0.5 ** k), textcoords="offset points", xytext=xy,
+            (4, "sulphathiazole, $k$ = 4", C["blue"], (10, 10)),
+            (6, "gentamicin, $k$ = 6", C["orange"], (12, 24))):
+        ax.plot([k], [2 * 0.5 ** k], "o", ms=7, mfc="none", mec=col, mew=1.4)
+        ax.annotate(lab, (k, 2 * 0.5 ** k), textcoords="offset points", xytext=xy,
                     fontsize=7.0, color=col, ha="left", va="bottom",
                     arrowprops=dict(arrowstyle="-", lw=0.6, color=col,
                                     shrinkA=0, shrinkB=6))
 
-    ax.set_xlabel("Supporting phylogenetically independent pairs, $k$")
+    ax.set_xlabel("Phylogenetically independent pairs available, $k$")
     ax.set_ylabel("Minimum attainable $p$-value")
     ax.set_title("b", loc="left", fontweight="bold")
     ax.legend(frameon=False, loc="lower left", fontsize=7.0)
@@ -341,7 +354,7 @@ def figure2(genopheno, outdir, mic_xlsx=None):
     if not (mic_xlsx and Path(mic_xlsx).exists()):
         print("  [SKIP] Figure 2: raw MIC file required")
         return
-    raw = pd.read_excel(mic_xlsx, sheet_name="MICs")
+    raw = read_mics(mic_xlsx)
     raw["STRAIN"] = raw["STRAIN"].astype(str).str.strip()
     raw = raw.set_index("STRAIN")
 

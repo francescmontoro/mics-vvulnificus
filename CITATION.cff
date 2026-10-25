@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite the article and this archived release."
 title: "mics-vvulnificus: analysis code for 'Evaluating the interpretability of bacterial resistance GWAS in small collections: a case study in Vibrio vulnificus'"
-version: 1.0.0
+version: 1.0.2
 license: MIT
 repository-code: "https://github.com/francescmontoro/mics-vvulnificus"
 authors:
