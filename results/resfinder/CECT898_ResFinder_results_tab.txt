@@ -1,0 +1,4 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+aadA13	100.00	798/798	100.0	1..798	NODE_1_length_290204_cov_3.30591_ID_11161	289019..289816	Spectinomycin, Streptomycin	AY713504
+catA2	99.69	642/642	100.0	1..642	NODE_111_length_5233_cov_3.3582_ID_11381	2782..3423	Chloramphenicol	X53796
+sul1	100.00	840/840	100.0	1..840	NODE_111_length_5233_cov_3.3582_ID_11381	4370..5209	Sulfamethoxazole	U12338

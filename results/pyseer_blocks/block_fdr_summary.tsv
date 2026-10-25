@@ -1,0 +1,5 @@
+antibiotic	mode	variants	patterns	significant_blocks	min_pvalue	bonferroni_threshold
+GEN2	binary	19525	2614	0	0.000115	1.912777352716144e-05
+GEN2	continuous	19525	2614	0	0.000107	1.912777352716144e-05
+STZ	binary	19525	2614	2	2.35e-05	1.912777352716144e-05
+STZ	continuous	19525	2614	0	0.000163	1.912777352716144e-05

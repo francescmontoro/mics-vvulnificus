@@ -1,107 +1,101 @@
-# SNP-MIC pipeline for antibiotic resistance prediction in *Vibrio vulnificus*
+# mics-vvulnificus
 
-This repository contains the bioinformatic pipeline described in:
+Code and derived data for:
 
-> Montoro *et al.* (2025). *New pipeline for antibiotic resistance gene prediction
-> using MIC and WGS: a practical approach for Vibrio vulnificus.*
+> Montoro Salvador FJ, Amaro C, Roig Molina FJ. **Evaluating the interpretability of bacterial resistance GWAS in small collections: a case study in *Vibrio vulnificus*.** Submitted to *Microbial Genomics*.
 
-## Overview
+The repository contains every script used for the analyses, tables and figures of the article, the conda environment specifications, the patches needed to run two packages under current SciPy, and the small result tables from which the numbers in the text are taken. Large inputs (assemblies, databases) are not stored here; [Data](#data) says where to obtain them.
 
-The pipeline identifies non-synonymous SNPs in the core genome of
-*V. vulnificus* that are statistically associated with changes in minimum
-inhibitory concentrations (MICs), using Fisher's exact test with
-Benjamini-Hochberg FDR correction.
-
-## Pipeline scripts
-
-| Script | Description |
-|--------|-------------|
-| `01_convert_mics.py` | Converts raw MIC values (mg/L) to a normalised scale [0–5] |
-| `02_figure_heatmap.py` | Publication-quality heatmap of MIC profiles (Fig. 1) |
-| `03_snp_association.py` | Fisher's exact test for each SNP–antibiotic pair + BH FDR |
-| `04_gene_level_summary.py` | Collapses SNP associations to gene level; family-level analysis |
-| `05_figure_volcano.py` | Volcano plot of gene-level associations (Fig. 2, supplementary) |
-| `05_figure_dotplot.py` | Dot plot of top significant genes (Fig. 2) |
-| `06_figure_phylo.py` | Phylogenetic tree + resistance heatmap (Fig. 3) |
-| `07_resfinder_comparison.py` | ResFinder 4.x comparison (Fig. 4) |
-
-## Requirements
+## Contents
 
 ```
-Python >= 3.9
-pandas >= 1.4
-scipy >= 1.7
-numpy >= 1.20
-matplotlib >= 3.5
-biopython >= 1.79
-adjustText
-resfinder >= 4.7
-BLAST+ >= 2.12 (blastn must be in PATH)
-MAFFT >= 7
-PhyML >= 3.0
+environments/   conda environment specifications (one .yml per environment)
+patches/        compatibility patch for Scoary 1.6.16 and the script that applies it
+scripts/        analysis pipeline, numbered in the order in which it is run
+data/           strain list with accessions; pointers to the external datasets
+results/        result tables that support the tables and figures of the article
 ```
 
-Install Python dependencies:
-```bash
-pip install pandas scipy numpy matplotlib biopython adjustText resfinder
-```
+## Data
 
-## Input data
+| Dataset | Where |
+|---|---|
+| MIC values, 116 isolates (Sensititre GN2F and AVIAN1F) | Zenodo, [doi:10.5281/zenodo.20679806](https://doi.org/10.5281/zenodo.20679806) |
+| Filtered assemblies of the 29 strains analysed | Zenodo, doi:ZENODO_ASSEMBLIES_DOI |
+| Deposited assemblies and reference genome YJ016 | NCBI; accessions in `data/strains.tsv` (Table S1 of the article) |
 
-| File | Description |
-|------|-------------|
-| `data/raw/MICs_all_Vv.xlsx` | Raw MIC data (116 strains × 41 antibiotics) |
-| `data/raw/allnsSNP.tsv` | Non-synonymous SNPs from core-genome MSA |
-| `data/raw/genomes/*.fasta` | 30 *V. vulnificus* genome assemblies |
-| `data/raw/lineage_manual_mapping.tsv` | Lineage assignments (L1–L4) per strain |
-| `data/raw/phylo_tree.nwk` | Newick phylogenetic tree |
-| `data/raw/resfinder_db/` | ResFinder acquired resistance database |
-| `data/raw/pointfinder_db/` | PointFinder chromosomal mutation database |
+Place the MIC workbook at `data/mic/MICs_all_Vv.xlsx` and the assemblies in `data/genomes/` before running the pipeline. File names in the analysis use the identifiers in the `file_id` column of `data/strains.tsv`; three of them differ from the published strain designations (94-9-112 = 94-8-112, Ra_3 = Ra3, RIU1 = Riu1), and figures display the published names.
 
-> MIC data belong to the Department of Microbiology, University of Valencia,
-> and are available from the corresponding author upon reasonable request.
+## Software
 
-## Usage
+Analyses were run under Windows Subsystem for Linux 2 (Ubuntu 24.04) on a 12-core machine with 13 GB of RAM, in conda environments kept separate to avoid dependency conflicts:
 
-Run scripts sequentially from the `scripts/` directory:
+| Environment | Used for |
+|---|---|
+| `vv_annot` | Bakta, AMRFinderPlus, BLAST+, contamination screening |
+| `vv_core` | Panaroo, IQ-TREE, SNP-sites |
+| `vv_assoc` | pyseer, Scoary, statistics and figures |
+| `snippy` | Snippy and its dependencies |
+| `resfinder` | ResFinder 4.7.2 (minimal environment; see `environments/README.md`) |
 
 ```bash
-cd scripts/
-python3 01_convert_mics.py
-python3 02_figure_heatmap.py
-python3 03_snp_association.py    # ~10 min
-python3 04_gene_level_summary.py # ~10 min
-python3 05_figure_dotplot.py
-python3 06_figure_phylo.py
-python3 07_resfinder_comparison.py
+for f in environments/*.yml; do mamba env create -f "$f"; done
+bash patches/apply_patches.sh          # patches Scoary inside vv_assoc
 ```
 
-## Output structure
+Exact versions, and the commit of every package installed from a development branch, are listed in Table S2 of the article. Two points are worth knowing in advance:
 
+* **pyseer** and **Panaroo** are installed from GitHub at fixed commits (pyseer `43cfb30fdd0cf553086c4bb492a80bb8db830bdf`, Panaroo `e96b4978327536256b5c663f741138fc7aabed64`); for pyseer this is because the bioconda release is incompatible with SciPy ≥ 1.12. Its bioconda package also lacks the helper `phylogeny_distance.py`; the kinship calculation it performs is implemented directly in `scripts/07_run_pyseer.py`, so no patch is required. pyseer is run single-threaded (its multiprocessing pool deadlocks under WSL2 with a threaded BLAS; results are identical).
+* **Scoary 1.6.16** calls `scipy.stats.binom_test`, removed in SciPy 1.12. `patches/` contains a shim that maps it to `scipy.stats.binomtest`; the p-values returned are identical. Note that Scoary reports the two-sided binomial p-value for the pairwise comparisons.
+
+Bakta was run with the light database v6.0 ([doi:10.5281/zenodo.14916843](https://doi.org/10.5281/zenodo.14916843)) because the full database does not fit in 13 GB of memory.
+
+## Pipeline
+
+Each script documents its inputs and options in its header (`python3 scripts/<script> --help`). Steps are listed in the order in which they were run.
+
+| Step | Script | What it does | Article |
+|---|---|---|---|
+| 1 | `13_contamination_check.py` | Length-weighted GC profile and 16S assignment of every assembly | Table 1 |
+| 2 | `14_decontaminate.py` | Uniform contig filter (no homology to YJ016 **and** atypical GC; < 200 bp) | Methods, Table 1 |
+| 3 | `16_compare_assemblies.py` | Filtered assemblies against the deposited NCBI versions | Table S1, note b |
+| 4 | `run_vv_variants.sh` (calls `build_snp_matrix.py`, `make_rename_map.py`) | Bakta annotation, Panaroo pan-genome, Snippy variants against YJ016, variant matrix | Methods |
+| 5 | `10_assembly_qc.py` | Assembly statistics | Table S1 |
+| 6 | `11_run_amrfinder.py`, `21_run_resfinder.py` | Acquired resistance determinants, with explicit failure handling | Table 2 |
+| 7 | `12_genotype_phenotype_check.py` | Determinants against MICs | Table 2, Fig. 3 |
+| 8 | `19_map_resistance_to_pangenome.py` | Determinants located in the pan-genome through locus tags | Results, short contigs |
+| 9 | `00_signal_check.py` | Independent groups of resistant strains on the tree | Results |
+| 10 | `17_define_phenotypes.py` | Distribution-based phenotypes and sensitivity cut-off | Methods, Fig. 2 |
+| 11 | `07_run_pyseer.py` | IQ-TREE phylogeny, kinship matrix and pyseer LMM on core-genome variants | Results |
+| 12 | `08_run_scoary.py` | Fisher + BH and pairwise comparisons over the tree | Fig. 4 |
+| 13 | `09_linkage_blocks.py`, `15_block_level_fdr.py` | Variants collapsed to presence/absence patterns; correction per pattern | Results |
+| 14 | `18_pangenome_association.py` | Gene presence/absence association and exact re-testing | Table 3 |
+| 15 | `22_calibration_simulation.py` | 10 000 label permutations at r = 4, 6, 8; LMM, Fisher control and Fitch emergences | Results |
+| 16 | `23_figure_calibration.py` | Calibration summary and figure | Fig. 7 |
+| 17 | `20_make_figures.py` | Remaining data figures | Figs 2–6 |
+
+Fig. 1 (diagnostic workflow) is a schematic and is not generated by code.
+
+Example for the calibration step, as run for the article:
+
+```bash
+mamba run -n vv_assoc python3 scripts/22_calibration_simulation.py \
+    --rtab     results/pangenome_assoc/pangenome.Rtab \
+    --kinship  results/pyseer/phylogeny_K.tsv \
+    --tree     results/pyseer/core.treefile \
+    --outdir   results/calibration \
+    --n-perm   10000 --r-values 4 6 8 --env vv_assoc
+python3 scripts/23_figure_calibration.py --calib results/calibration --outdir figures
 ```
-PAPER_V2/
-├── data/
-│   ├── raw/          # Input data
-│   └── processed/    # Intermediate results (TSV files)
-├── results/          # Final tables (gene-level associations, summaries)
-├── figures/          # Publication figures (PDF + PNG)
-└── scripts/          # Pipeline scripts (this repository)
-```
 
-## Key results
+## Results included
 
-- **ResFinder**: 0/30 strains with detected acquired resistance genes
-- **Our pipeline**: 4,316 significant SNP–antibiotic associations (FDR < 0.05)
-  - GEN2 (gentamicin): 1,062 significant genes
-  - STZ (sulphathiazole): 547 significant genes
-  - Sulfonamide family: 1,528 significant genes (top hit: *zwf*, *vexH*)
+`results/` holds the tables behind the numbers reported in the article (see `results/README.md`). Intermediate files that are large or fully regenerated by the pipeline (annotations, alignments, per-variant pyseer output) are not included.
 
-## Authors
+## Citation
 
-- Francesc Josep Montoro Salvador (pipeline development)
-- Francisco José Roig Molina (supervision)
-- Carmen Amaro (MIC data, supervision)
+If you use this code, please cite the article above and the archived release of this repository (DOI in `CITATION.cff` once issued).
 
-## License
+## Licence
 
-MIT License
+Code: MIT (see `LICENSE`). Data files in `results/` and `data/`: CC BY 4.0.

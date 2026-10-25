@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article and this archived release."
+title: "mics-vvulnificus: analysis code for 'Evaluating the interpretability of bacterial resistance GWAS in small collections: a case study in Vibrio vulnificus'"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/francescmontoro/mics-vvulnificus"
+authors:
+  - family-names: Montoro Salvador
+    given-names: Francesc Josep
+    orcid: "https://orcid.org/0009-0004-7247-3912"
+    affiliation: "Universidad San Jorge; BIAMICS, Servicios de Bioinformática S.L."
+  - family-names: Amaro
+    given-names: Carmen
+    affiliation: "Universitat de València"
+  - family-names: Roig Molina
+    given-names: Francisco José
+    affiliation: "Universidad San Jorge"
+keywords:
+  - Vibrio vulnificus
+  - bacterial GWAS
+  - antimicrobial resistance
+  - minimum inhibitory concentration

@@ -1,0 +1,87 @@
+====================================================================
+  SIGNAL CHECK (Fran's step 1) — is there recoverable signal?
+====================================================================
+
+  Tree tips: 30
+  Tree has branch lengths: False
+  -> using TOPOLOGICAL distances (edge counts) for test (C).
+  Building topological distance matrix...
+
+────────────────────────────────────────────────────────────────────
+  GEN2: 14 resistant strains
+    ['94-3-85', '95-8-161', 'BT3_11028', 'BT3_12', 'BT3_162', 'BT3_32', 'CECT_4604', 'CECT_4865', 'CECT_4866', 'CECT_5198', 'CG_100', 'RIU1', 'V_4', 'YJ016']
+
+  (A) Independent monophyletic resistant clusters: 10
+        cluster 1 (4 strains): ['BT3_11028', 'BT3_12', 'BT3_162', 'BT3_32']
+        cluster 2 (2 strains): ['CG_100', 'YJ016']
+        singletons (8): ['94-3-85', '95-8-161', 'CECT_4604', 'CECT_4865', 'CECT_4866', 'CECT_5198', 'RIU1', 'V_4']
+
+  (B) Minimum state changes (Fitch parsimony): 7
+
+  (C) Topological clustering test (1000 permutations):
+        observed mean pairwise topo-distance : 8.473
+        null mean (random labels)            : 8.742
+        p-value (clustered)                  : 0.2857
+        -> resistant strains NOT more clustered than random
+
+  (D) Parsimony permutation test (1000 permutations):
+        observed changes            : 7
+        null mean changes (random)  : 10.19
+        percentile of observed      : 3.3%
+
+  ==> VERDICT [GEN2]: Signal potentially recoverable (>=4 independent events)
+
+────────────────────────────────────────────────────────────────────
+  STZ: 8 resistant strains
+    ['BT3_11028', 'BT3_162', 'BT3_32', 'CECT_4606', 'CECT_4608', 'CECT_898', 'CG_100', 'YJ016']
+
+  (A) Independent monophyletic resistant clusters: 4
+        cluster 1 (3 strains): ['BT3_11028', 'BT3_162', 'BT3_32']
+        cluster 2 (3 strains): ['CECT_4608', 'CG_100', 'YJ016']
+        singletons (2): ['CECT_4606', 'CECT_898']
+
+  (B) Minimum state changes (Fitch parsimony): 4
+
+  (C) Topological clustering test (1000 permutations):
+        observed mean pairwise topo-distance : 8.179
+        null mean (random labels)            : 8.761
+        p-value (clustered)                  : 0.2418
+        -> resistant strains NOT more clustered than random
+
+  (D) Parsimony permutation test (1000 permutations):
+        observed changes            : 4
+        null mean changes (random)  : 7.25
+        percentile of observed      : 0.2%
+
+  ==> VERDICT [STZ]: Signal potentially recoverable (>=4 independent events)
+
+====================================================================
+  SUMMARY
+====================================================================
+antibiotic  n_resistant  monophyletic_clusters  fitch_changes  independent_events  topo_obs  topo_null  topo_p_clustered  parsimony_null_mean  parsimony_percentile                                                 verdict
+      GEN2           14                     10              7                  10     8.473      8.742            0.2857                10.19                   3.3 Signal potentially recoverable (>=4 independent events)
+       STZ            8                      4              4                   4     8.179      8.761            0.2418                 7.25                   0.2 Signal potentially recoverable (>=4 independent events)
+
+  Saved: /mnt/c/PACO/MICS_PAPER/PAPER_V3/results/00_signal_check/signal_check_summary.tsv
+
+  INTERPRETATION GUIDE (Fran's criterion):
+    independent_events <= 2  ->  no correction can recover signal;
+                                 paper becomes methodological.
+    independent_events >= 4  ->  signal is testable; proceed with the full
+                                 Prokka/Panaroo/Snippy/pyseer pipeline.
+    == 3                     ->  borderline; proceed but interpret with care.
+
+  Test (C) topological clustering: p >= 0.05 means resistant strains are NOT
+  significantly more clustered than random tips -> supports recoverable signal.
+  A very low p means strong lineage confounding.
+
+  Test (D) parsimony percentile: the percentile of the observed number of
+  state changes within the null distribution. A high percentile means
+  resistance arose independently more times than a random labelling would
+  -> strong, non-lineage signal.
+
+  NOTE: this tree has no branch lengths, so (C) uses topological (edge-count)
+  distances. When the new IQ-TREE tree (with branch lengths) from the Panaroo
+  core alignment is available, re-run this script on it to get patristic
+  distances as an additional robustness check.
+

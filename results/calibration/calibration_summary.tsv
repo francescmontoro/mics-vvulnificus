@@ -1,0 +1,4 @@
+r	permutations	floor	expected_pct	pct_lmm_below_floor	pct_fisher_below_floor	median_lambda	median_h2	pct_h2_zero	median_fitch
+4	10000	4.210349037935245e-05	2.68	18.16	0.14	1.0	0.0	64.9	4.0
+6	10000	2.1051745189676224e-06	0.13	2.09	0.0	1.137	0.0	67.5	6.0
+8	10000	2.329837412296183e-07	0.01	0.24	0.0	1.097	0.0	61.4	7.0

@@ -1,0 +1,5 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+aadA1	100.00	789/789	100.0	1..789	NODE_3_length_307431_cov_2.82214_ID_14979	183690..184478	Spectinomycin, Streptomycin	JQ480156
+sul2	100.00	816/816	100.0	1..816	NODE_15_length_106236_cov_2.91407_ID_15005	27995..28810	Sulfamethoxazole	AY034138
+tet(59)	99.67	1203/1203	100.0	1..1203	NODE_73_length_2350_cov_2.81964_ID_15121	234..1436	Doxycycline, Tetracycline	KU736878
+dfrA1	100.00	474/474	100.0	1..474	NODE_3_length_307431_cov_2.82214_ID_14979	182540..183013	Trimethoprim	X00926

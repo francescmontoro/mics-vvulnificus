@@ -1,0 +1,22 @@
+# credentials: never commit
+*token*
+*.token
+.env
+
+# large or regenerated inputs
+data/genomes*/
+data/bakta_db*/
+data/blastdb/
+data/mic/*.xlsx
+data/reference/*.fna
+data/reference/*.faa
+data/reference/*.gff
+figures/
+
+# Python / OS
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+~$*

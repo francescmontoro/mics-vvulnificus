@@ -1,0 +1,1418 @@
+contig	length	GC	spades_cov	ref_cov_pct	ref_pident	decision	reason
+CECT5198_NODE_1_length_149270_cov_94.9137_ID_1	149270	47.1	94.9137	99.0	100.0	kept	reference hit
+CECT5198_NODE_2_length_129690_cov_82.7668_ID_3	129690	46.6	82.7668	98.8	100.0	kept	reference hit
+CECT5198_NODE_3_length_126422_cov_102.348_ID_5	126422	45.9	102.348	80.3	96.4	kept	reference hit
+CECT5198_NODE_4_length_117509_cov_115.797_ID_7	117509	47.5	115.797	99.5	100.0	kept	reference hit
+CECT5198_NODE_5_length_115910_cov_80.7317_ID_9	115910	46.8	80.7317	99.6	98.8	kept	reference hit
+CECT5198_NODE_6_length_114887_cov_96.8459_ID_11	114887	46.4	96.8459	96.8	98.5	kept	reference hit
+CECT5198_NODE_7_length_112007_cov_104.5_ID_13	112007	47.2	104.5	79.9	97.1	kept	reference hit
+CECT5198_NODE_8_length_111597_cov_77.089_ID_15	111597	47.2	77.089	97.5	96.0	kept	reference hit
+CECT5198_NODE_9_length_108515_cov_106.233_ID_17	108515	47.9	106.233	99.5	96.6	kept	reference hit
+CECT5198_NODE_10_length_83191_cov_107.471_ID_19	83191	48.6	107.471	85.1	97.5	kept	reference hit
+CECT5198_NODE_11_length_75659_cov_104.462_ID_21	75659	47.0	104.462	98.9	96.6	kept	reference hit
+CECT5198_NODE_12_length_74380_cov_111.068_ID_23	74380	49.3	111.068	95.6	96.2	kept	reference hit
+CECT5198_NODE_13_length_73900_cov_83.8723_ID_25	73900	46.0	83.8723	99.6	100.0	kept	reference hit
+CECT5198_NODE_14_length_72181_cov_93.0855_ID_27	72181	45.3	93.0855	70.4	97.5	kept	reference hit
+CECT5198_NODE_15_length_72003_cov_124.535_ID_29	72003	43.8	124.535	50.7	96.7	kept	reference hit
+CECT5198_NODE_16_length_71662_cov_92.4491_ID_31	71662	46.4	92.4491	99.0	100.0	kept	reference hit
+CECT5198_NODE_17_length_71347_cov_91.9136_ID_33	71347	48.3	91.9136	99.0	97.9	kept	reference hit
+CECT5198_NODE_18_length_70168_cov_107.678_ID_35	70168	47.3	107.678	95.1	96.6	kept	reference hit
+CECT5198_NODE_19_length_69091_cov_110.551_ID_37	69091	47.8	110.551	99.8	96.8	kept	reference hit
+CECT5198_NODE_20_length_68751_cov_75.0691_ID_39	68751	46.4	75.0691	96.7	96.9	kept	reference hit
+CECT5198_NODE_21_length_68382_cov_75.8877_ID_41	68382	45.8	75.8877	88.4	96.1	kept	reference hit
+CECT5198_NODE_22_length_67988_cov_78.6754_ID_43	67988	46.6	78.6754	94.2	100.0	kept	reference hit
+CECT5198_NODE_23_length_67969_cov_141.314_ID_45	67969	46.6	141.314	84.8	100.0	kept	reference hit
+CECT5198_NODE_24_length_67727_cov_118.893_ID_47	67727	49.2	118.893	95.4	98.8	kept	reference hit
+CECT5198_NODE_25_length_67233_cov_88.2686_ID_49	67233	47.6	88.2686	98.6	96.2	kept	reference hit
+CECT5198_NODE_26_length_66021_cov_118.81_ID_51	66021	47.9	118.81	99.8	96.5	kept	reference hit
+CECT5198_NODE_27_length_63826_cov_259.822_ID_53	63826	48.0	259.822	92.9	100.0	kept	reference hit
+CECT5198_NODE_28_length_63777_cov_127.705_ID_55	63777	45.7	127.705	99.6	95.9	kept	reference hit
+CECT5198_NODE_29_length_63560_cov_76.9926_ID_57	63560	45.6	76.9926	99.3	100.0	kept	reference hit
+CECT5198_NODE_30_length_62442_cov_81.7901_ID_59	62442	47.7	81.7901	97.9	100.0	kept	reference hit
+CECT5198_NODE_31_length_61442_cov_110.847_ID_61	61442	47.2	110.847	95.3	100.0	kept	reference hit
+CECT5198_NODE_32_length_57637_cov_78.8719_ID_63	57637	44.9	78.8719	95.8	100.0	kept	reference hit
+CECT5198_NODE_33_length_57030_cov_112.762_ID_65	57030	46.5	112.762	99.6	100.0	kept	reference hit
+CECT5198_NODE_34_length_52284_cov_90.7914_ID_67	52284	45.7	90.7914	99.7	96.5	kept	reference hit
+CECT5198_NODE_35_length_51639_cov_116.582_ID_69	51639	44.9	116.582	74.2	98.4	kept	reference hit
+CECT5198_NODE_36_length_51305_cov_110.695_ID_71	51305	46.4	110.695	99.8	100.0	kept	reference hit
+CECT5198_NODE_37_length_51140_cov_117.451_ID_73	51140	47.9	117.451	98.1	100.0	kept	reference hit
+CECT5198_NODE_38_length_50642_cov_99.9078_ID_75	50642	47.6	99.9078	85.7	95.5	kept	reference hit
+CECT5198_NODE_39_length_49753_cov_125.143_ID_77	49753	47.6	125.143	99.9	100.0	kept	reference hit
+CECT5198_NODE_40_length_49346_cov_96.8888_ID_79	49346	46.9	96.8888	87.5	100.0	kept	reference hit
+CECT5198_NODE_41_length_49113_cov_100.45_ID_81	49113	47.9	100.45	61.8	96.4	kept	reference hit
+CECT5198_NODE_42_length_44600_cov_121.985_ID_83	44600	47.4	121.985	77.2	96.1	kept	reference hit
+CECT5198_NODE_43_length_43673_cov_111.822_ID_85	43673	47.0	111.822	99.7	100.0	kept	reference hit
+CECT5198_NODE_44_length_41286_cov_80.0863_ID_87	41286	47.3	80.0863	99.5	100.0	kept	reference hit
+CECT5198_NODE_45_length_40515_cov_85.1951_ID_89	40515	46.7	85.1951	99.9	100.0	kept	reference hit
+CECT5198_NODE_46_length_40371_cov_117.605_ID_91	40371	47.3	117.605	100.0	96.5	kept	reference hit
+CECT5198_NODE_47_length_39347_cov_124.889_ID_93	39347	44.9	124.889	55.3	97.2	kept	reference hit
+CECT5198_NODE_48_length_39337_cov_119.619_ID_95	39337	47.5	119.619	97.6	100.0	kept	reference hit
+CECT5198_NODE_49_length_39107_cov_75.5982_ID_97	39107	47.8	75.5982	99.0	93.4	kept	reference hit
+CECT5198_NODE_50_length_35790_cov_99.3785_ID_99	35790	48.1	99.3785	99.9	100.0	kept	reference hit
+CECT5198_NODE_51_length_35537_cov_98.1727_ID_101	35537	47.0	98.1727	99.8	96.3	kept	reference hit
+CECT5198_NODE_52_length_33082_cov_114.498_ID_103	33082	45.2	114.498	92.6	100.0	kept	reference hit
+CECT5198_NODE_53_length_32822_cov_118.414_ID_105	32822	49.8	118.414	76.4	100.0	kept	reference hit
+CECT5198_NODE_54_length_32581_cov_108.247_ID_107	32581	45.6	108.247	84.4	100.0	kept	reference hit
+CECT5198_NODE_55_length_31778_cov_105.056_ID_109	31778	45.2	105.056	93.9	100.0	kept	reference hit
+CECT5198_NODE_56_length_30763_cov_121.496_ID_111	30763	48.8	121.496	100.0	100.0	kept	reference hit
+CECT5198_NODE_57_length_30660_cov_87.5984_ID_113	30660	46.0	87.5984	99.6	100.0	kept	reference hit
+CECT5198_NODE_58_length_30001_cov_88.1498_ID_115	30001	46.4	88.1498	99.1	96.3	kept	reference hit
+CECT5198_NODE_59_length_28936_cov_97.7211_ID_117	28936	46.8	97.7211	99.9	100.0	kept	reference hit
+CECT5198_NODE_60_length_28863_cov_106.295_ID_119	28863	48.1	106.295	97.6	100.0	kept	reference hit
+CECT5198_NODE_61_length_26961_cov_132.809_ID_121	26961	41.1	132.809	37.8	95.7	kept	reference hit
+CECT5198_NODE_62_length_26628_cov_94.6931_ID_123	26628	44.4	94.6931	99.4	97.4	kept	reference hit
+CECT5198_NODE_63_length_26424_cov_81.5281_ID_125	26424	46.4	81.5281	99.6	94.4	kept	reference hit
+CECT5198_NODE_64_length_26404_cov_108.878_ID_127	26404	46.1	108.878	88.3	100.0	kept	reference hit
+CECT5198_NODE_65_length_25851_cov_117.889_ID_129	25851	49.2	117.889	99.5	94.8	kept	reference hit
+CECT5198_NODE_66_length_25081_cov_101.406_ID_131	25081	46.4	101.406	98.9	96.6	kept	reference hit
+CECT5198_NODE_67_length_24702_cov_88.5287_ID_133	24702	45.9	88.5287	99.6	96.2	kept	reference hit
+CECT5198_NODE_68_length_23434_cov_109.965_ID_135	23434	47.2	109.965	99.3	100.0	kept	reference hit
+CECT5198_NODE_69_length_21768_cov_101.189_ID_137	21768	42.4	101.189	65.3	94.3	kept	reference hit
+CECT5198_NODE_70_length_21449_cov_101.62_ID_139	21449	46.1	101.62	99.8	100.0	kept	reference hit
+CECT5198_NODE_71_length_20632_cov_106.994_ID_141	20632	45.6	106.994	95.1	96.9	kept	reference hit
+CECT5198_NODE_72_length_20498_cov_122.65_ID_143	20498	47.9	122.65	99.5	100.0	kept	reference hit
+CECT5198_NODE_73_length_20243_cov_112.779_ID_145	20243	47.0	112.779	91.9	100.0	kept	reference hit
+CECT5198_NODE_74_length_19531_cov_121.738_ID_147	19531	48.2	121.738	99.7	100.0	kept	reference hit
+CECT5198_NODE_75_length_19340_cov_584.627_ID_149	19340	48.0	584.627	89.2	95.5	kept	reference hit
+CECT5198_NODE_76_length_19252_cov_81.0763_ID_151	19252	46.2	81.0763	99.6	100.0	kept	reference hit
+CECT5198_NODE_77_length_19161_cov_131.214_ID_153	19161	43.4	131.214	99.7	96.9	kept	reference hit
+CECT5198_NODE_78_length_18967_cov_124.595_ID_155	18967	46.3	124.595	99.7	98.9	kept	reference hit
+CECT5198_NODE_79_length_18357_cov_121.126_ID_157	18357	46.3	121.126	99.4	96.6	kept	reference hit
+CECT5198_NODE_80_length_18329_cov_116.809_ID_159	18329	48.1	116.809	61.8	97.1	kept	reference hit
+CECT5198_NODE_81_length_17601_cov_119.25_ID_161	17601	46.0	119.25	99.8	98.7	kept	reference hit
+CECT5198_NODE_82_length_17494_cov_87.898_ID_163	17494	44.4	87.898	76.1	100.0	kept	reference hit
+CECT5198_NODE_83_length_17182_cov_78.3288_ID_165	17182	45.3	78.3288	29.7	84.7	kept	reference hit
+CECT5198_NODE_84_length_16733_cov_127.255_ID_167	16733	45.1	127.255	99.7	96.1	kept	reference hit
+CECT5198_NODE_85_length_16714_cov_127.847_ID_169	16714	46.2	127.847	99.7	98.1	kept	reference hit
+CECT5198_NODE_86_length_16051_cov_113.719_ID_171	16051	46.4	113.719	100.0	100.0	kept	reference hit
+CECT5198_NODE_87_length_15873_cov_122.878_ID_173	15873	47.5	122.878	76.9	100.0	kept	reference hit
+CECT5198_NODE_88_length_15539_cov_92.6574_ID_175	15539	45.9	92.6574	87.0	95.8	kept	reference hit
+CECT5198_NODE_89_length_14533_cov_106.669_ID_177	14533	44.6	106.669	99.6	100.0	kept	reference hit
+CECT5198_NODE_90_length_14229_cov_115.652_ID_179	14229	50.0	115.652	98.8	96.5	kept	reference hit
+CECT5198_NODE_91_length_14002_cov_100.671_ID_181	14002	47.1	100.671	91.4	95.8	kept	reference hit
+CECT5198_NODE_92_length_13547_cov_123.078_ID_183	13547	48.5	123.078	99.3	100.0	kept	reference hit
+CECT5198_NODE_93_length_12472_cov_870.729_ID_185	12472	44.6	870.729	85.1	100.0	kept	reference hit
+CECT5198_NODE_94_length_12171_cov_109.69_ID_187	12171	48.7	109.69	99.1	93.9	kept	reference hit
+CECT5198_NODE_95_length_11949_cov_117.925_ID_189	11949	44.6	117.925	84.3	100.0	kept	reference hit
+CECT5198_NODE_96_length_11815_cov_138.052_ID_191	11815	46.2	138.052	99.2	100.0	kept	reference hit
+CECT5198_NODE_97_length_11181_cov_78.0836_ID_193	11181	48.0	78.0836	98.4	96.8	kept	reference hit
+CECT5198_NODE_98_length_10631_cov_123.733_ID_195	10631	47.0	123.733	95.7	94.7	kept	reference hit
+CECT5198_NODE_99_length_10040_cov_123.49_ID_197	10040	42.7	123.49	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_100_length_9442_cov_81.8509_ID_199	9442	44.3	81.8509	97.8	100.0	kept	reference hit
+CECT5198_NODE_101_length_8933_cov_96.2569_ID_201	8933	47.8	96.2569	88.3	100.0	kept	reference hit
+CECT5198_NODE_102_length_8259_cov_93.5694_ID_203	8259	45.5	93.5694	100.0	100.0	kept	reference hit
+CECT5198_NODE_103_length_7215_cov_113.978_ID_205	7215	48.2	113.978	99.3	100.0	kept	reference hit
+CECT5198_NODE_104_length_7182_cov_98.9913_ID_207	7182	47.0	98.9913	99.3	96.2	kept	reference hit
+CECT5198_NODE_105_length_6962_cov_373.501_ID_209	6962	40.0	373.501	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_106_length_6719_cov_122.903_ID_211	6719	45.8	122.903	100.0	97.1	kept	reference hit
+CECT5198_NODE_107_length_6453_cov_133.125_ID_213	6453	39.2	133.125	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_108_length_6308_cov_104.724_ID_215	6308	52.0	104.724	98.1	94.9	kept	reference hit
+CECT5198_NODE_109_length_6076_cov_127.595_ID_217	6076	44.6	127.595	99.8	100.0	kept	reference hit
+CECT5198_NODE_110_length_5923_cov_692.651_ID_219	5923	39.0	692.651	4.3	97.6	removed	no reference hit + atypical GC
+CECT5198_NODE_111_length_5903_cov_86.9266_ID_221	5903	42.9	86.9266	88.9	91.8	kept	reference hit
+CECT5198_NODE_112_length_5900_cov_766.324_ID_223	5900	41.8	766.324	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_113_length_5820_cov_87.9362_ID_225	5820	39.1	87.9362	31.3	100.0	kept	reference hit
+CECT5198_NODE_114_length_5753_cov_108.847_ID_227	5753	48.2	108.847	74.7	94.5	kept	reference hit
+CECT5198_NODE_115_length_5672_cov_98.9612_ID_229	5672	46.9	98.9612	98.1	95.9	kept	reference hit
+CECT5198_NODE_116_length_5441_cov_270.368_ID_231	5441	44.7	270.368	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_117_length_5390_cov_131.86_ID_233	5390	48.5	131.86	2.6	87.6	kept	Vibrio-like GC
+CECT5198_NODE_118_length_5181_cov_109.425_ID_235	5181	34.5	109.425	9.4	92.4	removed	no reference hit + atypical GC
+CECT5198_NODE_119_length_5090_cov_148.034_ID_237	5090	40.3	148.034	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_120_length_5081_cov_116.945_ID_239	5081	42.1	116.945	97.8	92.2	kept	reference hit
+CECT5198_NODE_121_length_4846_cov_109.21_ID_241	4846	39.1	109.21	73.8	99.3	kept	reference hit
+CECT5198_NODE_122_length_4800_cov_86.1227_ID_243	4800	39.2	86.1227	21.6	100.0	kept	reference hit
+CECT5198_NODE_123_length_4640_cov_1049.05_ID_245	4640	40.9	1049.05	29.8	96.2	kept	reference hit
+CECT5198_NODE_124_length_4495_cov_91.27_ID_247	4495	47.4	91.27	98.9	95.1	kept	reference hit
+CECT5198_NODE_125_length_4410_cov_787.913_ID_249	4410	35.9	787.913	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_126_length_4321_cov_7.9932_ID_251	4321	39.5	7.9932	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_127_length_4115_cov_81.2569_ID_253	4115	42.0	81.2569	44.6	96.7	kept	reference hit
+CECT5198_NODE_128_length_4080_cov_83.2455_ID_255	4080	48.9	83.2455	97.1	96.3	kept	reference hit
+CECT5198_NODE_129_length_3990_cov_83.1687_ID_257	3990	40.9	83.1687	35.5	98.6	kept	reference hit
+CECT5198_NODE_130_length_3798_cov_79.0214_ID_259	3798	39.9	79.0214	35.9	100.0	kept	reference hit
+CECT5198_NODE_131_length_3731_cov_386.235_ID_261	3731	40.2	386.235	5.3	89.6	kept	Vibrio-like GC
+CECT5198_NODE_132_length_3692_cov_752.446_ID_263	3692	39.8	752.446	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_133_length_3612_cov_122.107_ID_265	3612	42.5	122.107	98.4	97.0	kept	reference hit
+CECT5198_NODE_134_length_3460_cov_81.6085_ID_267	3460	40.5	81.6085	22.7	96.4	kept	reference hit
+CECT5198_NODE_135_length_3431_cov_101.88_ID_269	3431	46.6	101.88	95.7	96.0	kept	reference hit
+CECT5198_NODE_136_length_3328_cov_77.1879_ID_271	3328	43.3	77.1879	26.5	100.0	kept	reference hit
+CECT5198_NODE_137_length_3284_cov_1176.44_ID_273	3284	50.3	1176.44	100.0	99.6	kept	reference hit
+CECT5198_NODE_138_length_3021_cov_128.793_ID_275	3021	46.2	128.793	100.0	100.0	kept	reference hit
+CECT5198_NODE_139_length_3013_cov_131.067_ID_277	3013	43.8	131.067	38.7	93.8	kept	reference hit
+CECT5198_NODE_140_length_2933_cov_1408.36_ID_279	2933	43.8	1408.36	100.0	99.4	kept	reference hit
+CECT5198_NODE_141_length_2821_cov_101.427_ID_281	2821	39.8	101.427	34.6	95.2	kept	reference hit
+CECT5198_NODE_142_length_2776_cov_720.186_ID_283	2776	42.9	720.186	41.5	93.9	kept	reference hit
+CECT5198_NODE_143_length_2708_cov_119.124_ID_285	2708	49.0	119.124	100.0	100.0	kept	reference hit
+CECT5198_NODE_144_length_2653_cov_142.021_ID_287	2653	41.8	142.021	93.2	96.0	kept	reference hit
+CECT5198_NODE_145_length_2529_cov_1935.7_ID_289	2529	48.8	1935.7	99.6	92.4	kept	reference hit
+CECT5198_NODE_146_length_2463_cov_119.146_ID_291	2463	46.6	119.146	100.0	100.0	kept	reference hit
+CECT5198_NODE_147_length_2423_cov_82.8737_ID_293	2423	45.2	82.8737	95.6	96.0	kept	reference hit
+CECT5198_NODE_148_length_2382_cov_129.191_ID_295	2382	44.6	129.191	100.0	100.0	kept	reference hit
+CECT5198_NODE_149_length_2351_cov_771.645_ID_297	2351	39.3	771.645	2.3	100.0	removed	no reference hit + atypical GC
+CECT5198_NODE_150_length_2243_cov_89.6586_ID_299	2243	39.6	89.6586	25.6	99.2	kept	reference hit
+CECT5198_NODE_151_length_2158_cov_80.5473_ID_301	2158	37.0	80.5473	12.4	100.0	removed	no reference hit + atypical GC
+CECT5198_NODE_152_length_2115_cov_126.858_ID_303	2115	46.1	126.858	99.4	92.5	kept	reference hit
+CECT5198_NODE_153_length_2078_cov_88.8003_ID_305	2078	38.8	88.8003	22.6	85.0	kept	reference hit
+CECT5198_NODE_154_length_2048_cov_118.485_ID_307	2048	33.3	118.485	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_155_length_2031_cov_85.6093_ID_309	2031	43.2	85.6093	4.5	96.7	kept	Vibrio-like GC
+CECT5198_NODE_156_length_2024_cov_82.6206_ID_311	2024	39.6	82.6206	18.5	94.9	removed	no reference hit + atypical GC
+CECT5198_NODE_157_length_1970_cov_85.8433_ID_313	1970	41.9	85.8433	74.3	100.0	kept	reference hit
+CECT5198_NODE_158_length_1901_cov_681.297_ID_315	1901	40.1	681.297	55.4	97.1	kept	reference hit
+CECT5198_NODE_159_length_1876_cov_79.8402_ID_317	1876	38.5	79.8402	48.3	98.1	kept	reference hit
+CECT5198_NODE_160_length_1835_cov_86.1888_ID_319	1835	41.3	86.1888	14.9	96.2	kept	Vibrio-like GC
+CECT5198_NODE_161_length_1785_cov_694.306_ID_321	1785	44.4	694.306	4.3	93.6	kept	Vibrio-like GC
+CECT5198_NODE_162_length_1694_cov_1042.55_ID_323	1694	52.5	1042.55	100.0	100.0	kept	reference hit
+CECT5198_NODE_163_length_1688_cov_87.7795_ID_325	1688	39.6	87.7795	18.8	98.7	removed	no reference hit + atypical GC
+CECT5198_NODE_164_length_1667_cov_94.7097_ID_327	1667	39.8	94.7097	43.3	96.4	kept	reference hit
+CECT5198_NODE_165_length_1660_cov_90.5196_ID_329	1660	43.0	90.5196	75.1	97.4	kept	reference hit
+CECT5198_NODE_166_length_1638_cov_2101.33_ID_331	1638	46.9	2101.33	8.0	100.0	kept	Vibrio-like GC
+CECT5198_NODE_167_length_1606_cov_88.1947_ID_333	1606	40.8	88.1947	56.4	97.6	kept	reference hit
+CECT5198_NODE_168_length_1598_cov_243.918_ID_335	1598	45.2	243.918	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_169_length_1558_cov_89.1996_ID_337	1558	42.7	89.1996	61.0	97.8	kept	reference hit
+CECT5198_NODE_170_length_1509_cov_103.068_ID_339	1509	37.6	103.068	28.9	92.7	kept	reference hit
+CECT5198_NODE_171_length_1493_cov_82.6641_ID_341	1493	38.8	82.6641	22.5	92.9	kept	reference hit
+CECT5198_NODE_172_length_1493_cov_1208.6_ID_343	1493	44.0	1208.6	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_173_length_1454_cov_666.66_ID_345	1454	38.2	666.66	4.5	91.2	removed	no reference hit + atypical GC
+CECT5198_NODE_174_length_1453_cov_81.7461_ID_347	1453	41.6	81.7461	46.9	97.9	kept	reference hit
+CECT5198_NODE_175_length_1449_cov_93.2181_ID_349	1449	41.2	93.2181	39.0	95.2	kept	reference hit
+CECT5198_NODE_176_length_1449_cov_85.1707_ID_351	1449	39.9	85.1707	99.9	97.1	kept	reference hit
+CECT5198_NODE_177_length_1421_cov_801.684_ID_353	1421	40.3	801.684	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_178_length_1392_cov_88.5669_ID_355	1392	38.2	88.5669	13.1	100.0	removed	no reference hit + atypical GC
+CECT5198_NODE_179_length_1361_cov_83.2121_ID_357	1361	39.5	83.2121	51.7	97.3	kept	reference hit
+CECT5198_NODE_180_length_1346_cov_649.541_ID_359	1346	49.6	649.541	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_181_length_1336_cov_87.8041_ID_361	1336	38.7	87.8041	15.2	96.4	removed	no reference hit + atypical GC
+CECT5198_NODE_182_length_1327_cov_80.6171_ID_363	1327	42.0	80.6171	34.7	92.9	kept	reference hit
+CECT5198_NODE_183_length_1292_cov_89.5085_ID_365	1292	40.2	89.5085	31.3	95.2	kept	reference hit
+CECT5198_NODE_184_length_1268_cov_149.721_ID_367	1268	47.1	149.721	99.8	83.7	kept	reference hit
+CECT5198_NODE_185_length_1241_cov_86.6644_ID_369	1241	41.7	86.6644	59.3	95.2	kept	reference hit
+CECT5198_NODE_186_length_1233_cov_87.5458_ID_371	1233	41.1	87.5458	100.0	98.1	kept	reference hit
+CECT5198_NODE_187_length_1232_cov_86.0221_ID_373	1232	40.4	86.0221	22.5	96.0	kept	reference hit
+CECT5198_NODE_188_length_1210_cov_84.4615_ID_375	1210	44.1	84.4615	6.5	94.9	kept	Vibrio-like GC
+CECT5198_NODE_189_length_1207_cov_87.8082_ID_377	1207	44.1	87.8082	83.0	99.0	kept	reference hit
+CECT5198_NODE_190_length_1192_cov_539.807_ID_379	1192	42.1	539.807	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_191_length_1192_cov_778.015_ID_381	1192	50.9	778.015	99.7	96.3	kept	reference hit
+CECT5198_NODE_192_length_1191_cov_97.6567_ID_383	1191	41.8	97.6567	27.5	100.0	kept	reference hit
+CECT5198_NODE_193_length_1171_cov_254.675_ID_385	1171	46.9	254.675	100.0	99.7	kept	reference hit
+CECT5198_NODE_194_length_1166_cov_99.8452_ID_387	1166	37.0	99.8452	90.9	96.1	kept	reference hit
+CECT5198_NODE_195_length_1161_cov_130.656_ID_389	1161	30.9	130.656	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_196_length_1148_cov_1387.47_ID_391	1148	46.4	1387.47	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_197_length_1147_cov_771.342_ID_393	1147	38.7	771.342	4.4	98.0	removed	no reference hit + atypical GC
+CECT5198_NODE_198_length_1125_cov_97.815_ID_395	1125	41.6	97.815	45.6	97.6	kept	reference hit
+CECT5198_NODE_199_length_1121_cov_94.4625_ID_397	1121	41.0	94.4625	95.7	98.0	kept	reference hit
+CECT5198_NODE_200_length_1063_cov_428.19_ID_399	1063	44.9	428.19	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_201_length_1054_cov_81.971_ID_401	1054	40.1	81.971	5.2	100.0	kept	Vibrio-like GC
+CECT5198_NODE_202_length_1017_cov_1451.75_ID_403	1017	43.5	1451.75	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_203_length_994_cov_79.9691_ID_405	994	42.9	79.9691	90.1	95.1	kept	reference hit
+CECT5198_NODE_204_length_962_cov_94.505_ID_407	962	38.3	94.505	89.2	97.0	kept	reference hit
+CECT5198_NODE_205_length_948_cov_137.863_ID_409	948	49.8	137.863	9.1	84.1	kept	Vibrio-like GC
+CECT5198_NODE_206_length_946_cov_83.6857_ID_411	946	39.3	83.6857	7.9	85.3	removed	no reference hit + atypical GC
+CECT5198_NODE_207_length_946_cov_129.667_ID_413	946	30.4	129.667	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_208_length_946_cov_1882.76_ID_415	946	45.2	1882.76	100.0	99.9	kept	reference hit
+CECT5198_NODE_209_length_940_cov_84.1424_ID_417	940	42.0	84.1424	26.7	95.2	kept	reference hit
+CECT5198_NODE_210_length_933_cov_235.777_ID_419	933	47.4	235.777	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_211_length_914_cov_724.6_ID_421	914	46.7	724.6	12.4	98.1	kept	Vibrio-like GC
+CECT5198_NODE_212_length_886_cov_87.9206_ID_423	886	40.6	87.9206	34.4	97.1	kept	reference hit
+CECT5198_NODE_213_length_884_cov_2.72497_ID_425	884	41.9	2.72497	21.6	88.5	kept	reference hit
+CECT5198_NODE_214_length_877_cov_5918.47_ID_427	877	44.4	5918.47	23.7	95.2	kept	reference hit
+CECT5198_NODE_215_length_868_cov_198.279_ID_429	868	47.7	198.279	100.0	98.7	kept	reference hit
+CECT5198_NODE_216_length_863_cov_90.2339_ID_431	863	33.7	90.2339	14.1	95.0	removed	no reference hit + atypical GC
+CECT5198_NODE_217_length_859_cov_2173.19_ID_433	859	47.0	2173.19	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_218_length_840_cov_87.5911_ID_435	840	41.2	87.5911	15.5	100.0	kept	Vibrio-like GC
+CECT5198_NODE_219_length_823_cov_96.1302_ID_437	823	41.6	96.1302	68.5	94.4	kept	reference hit
+CECT5198_NODE_220_length_819_cov_132.412_ID_439	819	43.6	132.412	76.3	98.2	kept	reference hit
+CECT5198_NODE_221_length_769_cov_1.09524_ID_441	769	52.1	1.09524	100.0	94.7	kept	reference hit
+CECT5198_NODE_222_length_764_cov_164.74_ID_443	764	46.3	164.74	21.5	92.7	kept	reference hit
+CECT5198_NODE_223_length_764_cov_576.973_ID_445	764	52.5	576.973	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_224_length_756_cov_83.067_ID_447	756	40.9	83.067	47.6	100.0	kept	reference hit
+CECT5198_NODE_225_length_726_cov_700.225_ID_449	726	42.1	700.225	99.4	84.9	kept	reference hit
+CECT5198_NODE_226_length_724_cov_1470.74_ID_451	724	45.2	1470.74	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_227_length_723_cov_561.906_ID_453	723	42.9	561.906	99.4	91.8	kept	reference hit
+CECT5198_NODE_228_length_711_cov_144.174_ID_455	711	49.2	144.174	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_229_length_703_cov_107.733_ID_457	703	39.3	107.733	92.7	96.4	kept	reference hit
+CECT5198_NODE_230_length_684_cov_84.4833_ID_459	684	42.0	84.4833	11.0	100.0	kept	Vibrio-like GC
+CECT5198_NODE_231_length_664_cov_129.975_ID_461	664	31.9	129.975	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_232_length_656_cov_224.599_ID_463	656	47.7	224.599	99.7	96.6	kept	reference hit
+CECT5198_NODE_233_length_651_cov_2.55872_ID_465	651	48.4	2.55872	100.0	94.2	kept	reference hit
+CECT5198_NODE_234_length_647_cov_65.4493_ID_467	647	40.2	65.4493	21.6	93.0	kept	reference hit
+CECT5198_NODE_235_length_642_cov_106.022_ID_469	642	41.6	106.022	36.1	92.5	kept	reference hit
+CECT5198_NODE_236_length_634_cov_95.5095_ID_471	634	40.1	95.5095	27.9	97.0	kept	reference hit
+CECT5198_NODE_237_length_634_cov_836.396_ID_473	634	36.9	836.396	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_238_length_632_cov_216.062_ID_475	632	50.5	216.062	100.0	96.5	kept	reference hit
+CECT5198_NODE_239_length_624_cov_100.692_ID_477	624	43.1	100.692	19.1	97.2	kept	Vibrio-like GC
+CECT5198_NODE_240_length_608_cov_167.06_ID_479	608	38.8	167.06	100.0	93.5	kept	reference hit
+CECT5198_NODE_241_length_598_cov_89.5727_ID_481	598	40.5	89.5727	99.7	94.5	kept	reference hit
+CECT5198_NODE_242_length_596_cov_355.73_ID_483	596	41.3	355.73	75.0	96.9	kept	reference hit
+CECT5198_NODE_243_length_595_cov_99.3093_ID_485	595	41.3	99.3093	100.0	97.2	kept	reference hit
+CECT5198_NODE_244_length_592_cov_158.981_ID_487	592	50.0	158.981	8.1	93.8	kept	Vibrio-like GC
+CECT5198_NODE_245_length_585_cov_107.642_ID_489	585	51.5	107.642	100.0	96.6	kept	reference hit
+CECT5198_NODE_246_length_585_cov_91.8491_ID_491	585	50.1	91.8491	100.0	95.2	kept	reference hit
+CECT5198_NODE_247_length_583_cov_126.174_ID_493	583	36.2	126.174	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_248_length_575_cov_96.7519_ID_495	575	40.7	96.7519	67.0	94.7	kept	reference hit
+CECT5198_NODE_249_length_570_cov_1.60777_ID_497	570	44.4	1.60777	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_250_length_565_cov_147.08_ID_499	565	41.8	147.08	100.0	89.6	kept	reference hit
+CECT5198_NODE_251_length_563_cov_1.37205_ID_501	563	50.3	1.37205	100.0	94.8	kept	reference hit
+CECT5198_NODE_252_length_563_cov_79.8091_ID_503	563	42.5	79.8091	85.6	93.2	kept	reference hit
+CECT5198_NODE_253_length_556_cov_169.76_ID_505	556	42.4	169.76	27.3	95.0	kept	reference hit
+CECT5198_NODE_254_length_545_cov_1.26531_ID_507	545	32.8	1.26531	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_255_length_531_cov_1.43067_ID_509	531	44.4	1.43067	100.0	99.4	kept	reference hit
+CECT5198_NODE_256_length_531_cov_1.18908_ID_511	531	54.2	1.18908	100.0	92.5	kept	reference hit
+CECT5198_NODE_257_length_519_cov_1.16379_ID_513	519	27.6	1.16379	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_258_length_517_cov_106.262_ID_515	517	47.2	106.262	71.2	94.4	kept	reference hit
+CECT5198_NODE_259_length_517_cov_280.92_ID_517	517	46.4	280.92	100.0	100.0	kept	reference hit
+CECT5198_NODE_260_length_515_cov_1695.96_ID_519	515	39.0	1695.96	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_261_length_511_cov_195.643_ID_521	511	51.5	195.643	100.0	100.0	kept	reference hit
+CECT5198_NODE_262_length_503_cov_1.20536_ID_523	503	35.4	1.20536	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_263_length_503_cov_1.25223_ID_525	503	41.6	1.25223	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_264_length_501_cov_1.28251_ID_527	501	47.1	1.28251	100.0	97.0	kept	reference hit
+CECT5198_NODE_265_length_501_cov_161.029_ID_529	501	31.9	161.029	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_266_length_500_cov_749.063_ID_531	500	45.6	749.063	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_267_length_497_cov_192.674_ID_533	497	53.9	192.674	100.0	93.6	kept	reference hit
+CECT5198_NODE_268_length_494_cov_0.94533_ID_535	494	43.1	0.94533	100.0	99.0	kept	reference hit
+CECT5198_NODE_269_length_490_cov_1.42529_ID_537	490	43.1	1.42529	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_270_length_483_cov_1.15421_ID_539	483	40.8	1.15421	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_271_length_479_cov_1.08726_ID_541	479	51.6	1.08726	100.0	92.3	kept	reference hit
+CECT5198_NODE_272_length_477_cov_1.54739_ID_543	477	54.9	1.54739	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_273_length_476_cov_83.1496_ID_545	476	38.9	83.1496	33.2	92.8	kept	reference hit
+CECT5198_NODE_274_length_474_cov_0.97136_ID_547	474	51.9	0.97136	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_275_length_473_cov_1.86603_ID_549	473	31.1	1.86603	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_276_length_472_cov_78.0839_ID_551	472	41.9	78.0839	100.0	88.4	kept	reference hit
+CECT5198_NODE_277_length_463_cov_1.69363_ID_553	463	45.6	1.69363	100.0	99.6	kept	reference hit
+CECT5198_NODE_278_length_459_cov_0.891089_ID_555	459	34.4	0.891089	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_279_length_457_cov_1.34328_ID_557	457	40.7	1.34328	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_280_length_454_cov_1.73183_ID_559	454	29.5	1.73183	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_281_length_454_cov_1.15288_ID_561	454	46.7	1.15288	99.8	95.1	kept	reference hit
+CECT5198_NODE_282_length_453_cov_1.12312_ID_563	453	35.8	1.12312	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_283_length_452_cov_0.969773_ID_565	452	68.8	0.969773	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_284_length_450_cov_133.443_ID_567	450	40.4	133.443	100.0	97.5	kept	reference hit
+CECT5198_NODE_285_length_447_cov_0.882653_ID_569	447	58.8	0.882653	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_286_length_446_cov_1.07417_ID_571	446	62.3	1.07417	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_287_length_446_cov_0.705882_ID_573	446	38.6	0.705882	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_288_length_446_cov_1.04348_ID_575	446	52.2	1.04348	100.0	95.5	kept	reference hit
+CECT5198_NODE_289_length_445_cov_1.77179_ID_577	445	37.1	1.77179	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_290_length_445_cov_1.3359_ID_579	445	52.1	1.3359	100.0	99.1	kept	reference hit
+CECT5198_NODE_291_length_444_cov_1.28021_ID_581	444	58.8	1.28021	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_292_length_439_cov_1.27083_ID_583	439	62.0	1.27083	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_293_length_435_cov_88.7605_ID_585	435	52.2	88.7605	100.0	92.2	kept	reference hit
+CECT5198_NODE_294_length_434_cov_1.36148_ID_587	434	56.2	1.36148	21.0	95.0	kept	reference hit
+CECT5198_NODE_295_length_432_cov_127.117_ID_589	432	46.8	127.117	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_296_length_430_cov_0.901333_ID_591	430	46.3	0.901333	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_297_length_428_cov_0.965147_ID_593	428	28.3	0.965147	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_298_length_427_cov_812.083_ID_595	427	40.7	812.083	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_299_length_426_cov_802.447_ID_597	426	37.1	802.447	22.1	95.7	kept	reference hit
+CECT5198_NODE_300_length_424_cov_1.3252_ID_599	424	40.1	1.3252	100.0	95.1	kept	reference hit
+CECT5198_NODE_301_length_422_cov_1.14714_ID_601	422	59.2	1.14714	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_302_length_422_cov_1.71662_ID_603	422	29.6	1.71662	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_303_length_420_cov_0.978082_ID_605	420	50.7	0.978082	100.0	92.4	kept	reference hit
+CECT5198_NODE_304_length_417_cov_0.861878_ID_607	417	52.0	0.861878	99.3	96.9	kept	reference hit
+CECT5198_NODE_305_length_412_cov_1.13445_ID_609	412	39.8	1.13445	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_306_length_409_cov_151.014_ID_611	409	46.2	151.014	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_307_length_408_cov_1.01983_ID_613	408	49.0	1.01983	96.6	95.4	kept	reference hit
+CECT5198_NODE_308_length_405_cov_1.9_ID_615	405	54.8	1.9	100.0	96.8	kept	reference hit
+CECT5198_NODE_309_length_401_cov_1.03468_ID_617	401	44.6	1.03468	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_310_length_401_cov_1.2948_ID_619	401	52.1	1.2948	99.0	92.7	kept	reference hit
+CECT5198_NODE_311_length_400_cov_0.608696_ID_621	400	36.0	0.608696	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_312_length_399_cov_1.48547_ID_623	399	43.1	1.48547	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_313_length_398_cov_86.8659_ID_625	398	43.7	86.8659	100.0	96.3	kept	reference hit
+CECT5198_NODE_314_length_397_cov_0.888889_ID_627	397	62.0	0.888889	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_315_length_396_cov_1.05572_ID_629	396	50.5	1.05572	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_316_length_395_cov_1.05882_ID_631	395	37.7	1.05882	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_317_length_394_cov_1.73451_ID_633	394	51.8	1.73451	100.0	95.9	kept	reference hit
+CECT5198_NODE_318_length_393_cov_1.86391_ID_635	393	41.7	1.86391	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_319_length_392_cov_1.11276_ID_637	392	44.4	1.11276	100.0	99.7	kept	reference hit
+CECT5198_NODE_320_length_392_cov_1.33531_ID_639	392	52.0	1.33531	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_321_length_391_cov_1_ID_641	391	51.2	1.0	99.5	94.1	kept	reference hit
+CECT5198_NODE_322_length_389_cov_0.991018_ID_643	389	49.9	0.991018	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_323_length_389_cov_1.17665_ID_645	389	58.4	1.17665	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_324_length_388_cov_3.16817_ID_647	388	67.5	3.16817	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_325_length_385_cov_1.36364_ID_649	385	46.8	1.36364	100.0	97.4	kept	reference hit
+CECT5198_NODE_326_length_385_cov_1.09091_ID_651	385	47.8	1.09091	100.0	97.1	kept	reference hit
+CECT5198_NODE_327_length_384_cov_1.13678_ID_653	384	47.9	1.13678	37.5	99.3	kept	reference hit
+CECT5198_NODE_328_length_383_cov_1.43293_ID_655	383	47.5	1.43293	100.0	94.5	kept	reference hit
+CECT5198_NODE_329_length_383_cov_1.18293_ID_657	383	32.6	1.18293	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_330_length_383_cov_98.2866_ID_659	383	41.5	98.2866	100.0	95.2	kept	reference hit
+CECT5198_NODE_331_length_382_cov_1.73394_ID_661	382	50.8	1.73394	99.7	97.6	kept	reference hit
+CECT5198_NODE_332_length_382_cov_660.584_ID_663	382	47.4	660.584	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_333_length_381_cov_1.34969_ID_665	381	51.2	1.34969	96.6	87.5	kept	reference hit
+CECT5198_NODE_334_length_381_cov_1.06135_ID_667	381	52.0	1.06135	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_335_length_380_cov_1.27692_ID_669	380	46.1	1.27692	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_336_length_376_cov_2.06231_ID_671	376	34.6	2.06231	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_337_length_375_cov_0.94375_ID_673	375	63.2	0.94375	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_338_length_375_cov_0.84375_ID_675	375	36.0	0.84375	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_339_length_373_cov_0.849057_ID_677	373	49.9	0.849057	100.0	98.4	kept	reference hit
+CECT5198_NODE_340_length_373_cov_0.849057_ID_679	373	45.6	0.849057	100.0	96.8	kept	reference hit
+CECT5198_NODE_341_length_372_cov_167.909_ID_681	372	40.3	167.909	76.3	100.0	kept	reference hit
+CECT5198_NODE_342_length_370_cov_10.5937_ID_683	370	59.2	10.5937	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_343_length_368_cov_1.05751_ID_685	368	48.1	1.05751	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_344_length_367_cov_1.06731_ID_687	367	64.3	1.06731	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_345_length_367_cov_154.971_ID_689	367	50.4	154.971	23.4	86.4	kept	reference hit
+CECT5198_NODE_346_length_364_cov_1.10356_ID_691	364	58.5	1.10356	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_347_length_364_cov_1.69579_ID_693	364	49.7	1.69579	97.3	94.9	kept	reference hit
+CECT5198_NODE_348_length_364_cov_1.40129_ID_695	364	37.9	1.40129	40.9	100.0	kept	reference hit
+CECT5198_NODE_349_length_364_cov_103.741_ID_697	364	40.4	103.741	23.4	98.8	kept	reference hit
+CECT5198_NODE_350_length_363_cov_2.02273_ID_699	363	45.7	2.02273	100.0	96.4	kept	reference hit
+CECT5198_NODE_351_length_363_cov_0.970779_ID_701	363	48.8	0.970779	100.0	97.0	kept	reference hit
+CECT5198_NODE_352_length_363_cov_1.75325_ID_703	363	38.8	1.75325	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_353_length_363_cov_173_ID_705	363	46.0	173.0	100.0	100.0	kept	reference hit
+CECT5198_NODE_354_length_362_cov_1.51792_ID_707	362	45.6	1.51792	100.0	97.8	kept	reference hit
+CECT5198_NODE_355_length_361_cov_1.66993_ID_709	361	39.3	1.66993	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_356_length_361_cov_0.882353_ID_711	361	44.9	0.882353	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_357_length_360_cov_1.38033_ID_713	360	44.4	1.38033	100.0	95.3	kept	reference hit
+CECT5198_NODE_358_length_359_cov_0.855263_ID_715	359	37.9	0.855263	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_359_length_359_cov_394.339_ID_717	359	47.6	394.339	100.0	97.2	kept	reference hit
+CECT5198_NODE_360_length_357_cov_0.880795_ID_719	357	62.2	0.880795	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_361_length_356_cov_1.34551_ID_721	356	48.9	1.34551	100.0	99.7	kept	reference hit
+CECT5198_NODE_362_length_355_cov_0.9_ID_723	355	60.8	0.9	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_363_length_354_cov_1.06689_ID_725	354	35.6	1.06689	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_364_length_351_cov_1.06419_ID_727	351	60.1	1.06419	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_365_length_350_cov_1.31525_ID_729	350	43.7	1.31525	100.0	97.4	kept	reference hit
+CECT5198_NODE_366_length_350_cov_0.915254_ID_731	350	62.0	0.915254	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_367_length_350_cov_1.83051_ID_733	350	44.0	1.83051	100.0	98.6	kept	reference hit
+CECT5198_NODE_368_length_350_cov_1.02373_ID_735	350	46.9	1.02373	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_369_length_349_cov_1.22449_ID_737	349	53.3	1.22449	100.0	95.7	kept	reference hit
+CECT5198_NODE_370_length_349_cov_0.816327_ID_739	349	42.7	0.816327	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_371_length_348_cov_1.22867_ID_741	348	42.8	1.22867	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_372_length_348_cov_1.38225_ID_743	348	46.8	1.38225	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_373_length_348_cov_1.37543_ID_745	348	49.4	1.37543	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_374_length_347_cov_1.26712_ID_747	347	50.1	1.26712	100.0	94.5	kept	reference hit
+CECT5198_NODE_375_length_347_cov_94.0753_ID_749	347	51.0	94.0753	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_376_length_346_cov_1.82131_ID_751	346	59.8	1.82131	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_377_length_346_cov_1.82474_ID_753	346	33.2	1.82474	99.1	98.3	kept	reference hit
+CECT5198_NODE_378_length_345_cov_86.9552_ID_755	345	40.9	86.9552	100.0	92.7	kept	reference hit
+CECT5198_NODE_379_length_343_cov_1.16667_ID_757	343	46.4	1.16667	100.0	93.3	kept	reference hit
+CECT5198_NODE_380_length_342_cov_1.62369_ID_759	342	43.9	1.62369	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_381_length_342_cov_1.80139_ID_761	342	45.9	1.80139	100.0	100.0	kept	reference hit
+CECT5198_NODE_382_length_342_cov_596.544_ID_763	342	60.2	596.544	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_383_length_341_cov_1.08392_ID_765	341	51.3	1.08392	100.0	94.1	kept	reference hit
+CECT5198_NODE_384_length_341_cov_1.25874_ID_767	341	46.6	1.25874	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_385_length_341_cov_1.26573_ID_769	341	50.1	1.26573	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_386_length_340_cov_1.57895_ID_771	340	36.8	1.57895	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_387_length_340_cov_1.26316_ID_773	340	59.1	1.26316	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_388_length_340_cov_1.73684_ID_775	340	39.4	1.73684	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_389_length_339_cov_0.950704_ID_777	339	42.2	0.950704	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_390_length_339_cov_1.58451_ID_779	339	44.8	1.58451	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_391_length_339_cov_1.15845_ID_781	339	50.1	1.15845	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_392_length_339_cov_808.169_ID_783	339	39.8	808.169	100.0	96.2	kept	reference hit
+CECT5198_NODE_393_length_338_cov_1.27562_ID_785	338	43.5	1.27562	100.0	96.7	kept	reference hit
+CECT5198_NODE_394_length_338_cov_119.569_ID_787	338	39.3	119.569	96.7	90.0	kept	reference hit
+CECT5198_NODE_395_length_337_cov_1.24823_ID_789	337	33.2	1.24823	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_396_length_335_cov_1.50357_ID_791	335	44.5	1.50357	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_397_length_335_cov_1.60714_ID_793	335	46.3	1.60714	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_398_length_335_cov_1.26429_ID_795	335	49.0	1.26429	100.0	96.1	kept	reference hit
+CECT5198_NODE_399_length_334_cov_1.45161_ID_797	334	41.9	1.45161	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_400_length_334_cov_0.967742_ID_799	334	38.6	0.967742	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_401_length_333_cov_0.931655_ID_801	333	46.5	0.931655	100.0	94.9	kept	reference hit
+CECT5198_NODE_402_length_333_cov_1.13309_ID_803	333	42.3	1.13309	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_403_length_332_cov_1.62455_ID_805	332	35.2	1.62455	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_404_length_331_cov_0.873188_ID_807	331	58.6	0.873188	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_405_length_330_cov_1.25455_ID_809	330	47.6	1.25455	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_406_length_330_cov_1.19636_ID_811	330	55.8	1.19636	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_407_length_330_cov_0.923636_ID_813	330	51.2	0.923636	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_408_length_328_cov_1.84615_ID_815	328	41.5	1.84615	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_409_length_328_cov_1.21245_ID_817	328	40.5	1.21245	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_410_length_328_cov_0.655678_ID_819	328	56.1	0.655678	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_411_length_327_cov_0.992647_ID_821	327	64.2	0.992647	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_412_length_326_cov_0.99631_ID_823	326	66.0	0.99631	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_413_length_326_cov_1.77491_ID_825	326	39.3	1.77491	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_414_length_326_cov_1.06273_ID_827	326	47.5	1.06273	99.7	93.8	kept	reference hit
+CECT5198_NODE_415_length_325_cov_1.33333_ID_829	325	47.7	1.33333	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_416_length_324_cov_1.33829_ID_831	324	43.5	1.33829	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_417_length_324_cov_1.28625_ID_833	324	53.4	1.28625	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_418_length_324_cov_1.25651_ID_835	324	49.4	1.25651	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_419_length_322_cov_0.932584_ID_837	322	50.3	0.932584	100.0	95.7	kept	reference hit
+CECT5198_NODE_420_length_322_cov_438.547_ID_839	322	49.1	438.547	100.0	100.0	kept	reference hit
+CECT5198_NODE_421_length_322_cov_160.21_ID_841	322	38.5	160.21	100.0	90.1	kept	reference hit
+CECT5198_NODE_422_length_322_cov_111.12_ID_843	322	40.1	111.12	100.0	100.0	kept	reference hit
+CECT5198_NODE_423_length_321_cov_0.845865_ID_845	321	48.6	0.845865	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_424_length_321_cov_74.2556_ID_847	321	45.2	74.2556	77.9	94.4	kept	reference hit
+CECT5198_NODE_425_length_319_cov_0.746212_ID_849	319	53.3	0.746212	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_426_length_318_cov_1.59316_ID_851	318	44.7	1.59316	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_427_length_318_cov_1.71103_ID_853	318	40.9	1.71103	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_428_length_318_cov_1.49049_ID_855	318	56.6	1.49049	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_429_length_318_cov_0.954373_ID_857	318	66.0	0.954373	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_430_length_318_cov_1.42586_ID_859	318	43.7	1.42586	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_431_length_318_cov_1.76046_ID_861	318	50.3	1.76046	100.0	93.4	kept	reference hit
+CECT5198_NODE_432_length_317_cov_1.37405_ID_863	317	61.2	1.37405	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_433_length_317_cov_1.40458_ID_865	317	49.8	1.40458	100.0	92.7	kept	reference hit
+CECT5198_NODE_434_length_316_cov_1.37931_ID_867	316	49.7	1.37931	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_435_length_316_cov_0.996169_ID_869	316	55.7	0.996169	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_436_length_316_cov_2.02682_ID_871	316	31.0	2.02682	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_437_length_315_cov_1.27308_ID_873	315	45.4	1.27308	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_438_length_315_cov_0.926923_ID_875	315	44.8	0.926923	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_439_length_314_cov_0.694981_ID_877	314	60.5	0.694981	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_440_length_313_cov_1.04651_ID_879	313	41.5	1.04651	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_441_length_313_cov_1824.59_ID_881	313	47.6	1824.59	100.0	99.7	kept	reference hit
+CECT5198_NODE_442_length_312_cov_1.28016_ID_883	312	54.8	1.28016	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_443_length_312_cov_1.40078_ID_885	312	38.1	1.40078	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_444_length_312_cov_0.941634_ID_887	312	43.6	0.941634	100.0	89.8	kept	reference hit
+CECT5198_NODE_445_length_312_cov_188.467_ID_889	312	40.1	188.467	100.0	87.3	kept	reference hit
+CECT5198_NODE_446_length_311_cov_1.05078_ID_891	311	37.0	1.05078	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_447_length_311_cov_1.75_ID_893	311	44.7	1.75	100.0	98.4	kept	reference hit
+CECT5198_NODE_448_length_311_cov_1.12891_ID_895	311	50.5	1.12891	99.7	94.8	kept	reference hit
+CECT5198_NODE_449_length_309_cov_0.681102_ID_897	309	52.8	0.681102	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_450_length_308_cov_89.913_ID_899	308	40.3	89.913	83.4	85.3	kept	reference hit
+CECT5198_NODE_451_length_308_cov_1.49802_ID_901	308	40.9	1.49802	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_452_length_308_cov_1.35178_ID_903	308	45.5	1.35178	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_453_length_306_cov_0.952191_ID_905	306	44.8	0.952191	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_454_length_306_cov_1.43426_ID_907	306	46.7	1.43426	100.0	98.0	kept	reference hit
+CECT5198_NODE_455_length_306_cov_0.916335_ID_909	306	53.3	0.916335	100.0	90.5	kept	reference hit
+CECT5198_NODE_456_length_305_cov_1.08_ID_911	305	34.1	1.08	100.0	98.4	kept	reference hit
+CECT5198_NODE_457_length_305_cov_1.26_ID_913	305	50.2	1.26	100.0	95.7	kept	reference hit
+CECT5198_NODE_458_length_305_cov_1.468_ID_915	305	51.1	1.468	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_459_length_305_cov_1.268_ID_917	305	48.2	1.268	100.0	99.0	kept	reference hit
+CECT5198_NODE_460_length_304_cov_1.72289_ID_919	304	41.8	1.72289	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_461_length_303_cov_1.58065_ID_921	303	39.3	1.58065	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_462_length_303_cov_1.08871_ID_923	303	33.7	1.08871	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_463_length_303_cov_0.907258_ID_925	303	40.3	0.907258	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_464_length_303_cov_1.81452_ID_927	303	40.6	1.81452	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_465_length_303_cov_0.935484_ID_929	303	38.9	0.935484	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_466_length_302_cov_0.910931_ID_931	302	41.4	0.910931	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_467_length_301_cov_1.06504_ID_933	301	61.5	1.06504	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_468_length_301_cov_0.979675_ID_935	301	41.2	0.979675	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_469_length_301_cov_1.4187_ID_937	301	59.8	1.4187	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_470_length_301_cov_115.728_ID_939	301	45.5	115.728	19.6	89.8	kept	Vibrio-like GC
+CECT5198_NODE_471_length_300_cov_1.35102_ID_941	300	47.3	1.35102	100.0	98.7	kept	reference hit
+CECT5198_NODE_472_length_298_cov_1.2428_ID_943	298	40.6	1.2428	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_473_length_298_cov_1.11111_ID_945	298	61.7	1.11111	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_474_length_298_cov_0.983539_ID_947	298	66.4	0.983539	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_475_length_298_cov_0.99177_ID_949	298	25.8	0.99177	61.4	95.7	kept	reference hit
+CECT5198_NODE_476_length_298_cov_1.05761_ID_951	298	46.0	1.05761	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_477_length_298_cov_1.74486_ID_953	298	49.3	1.74486	99.3	96.6	kept	reference hit
+CECT5198_NODE_478_length_298_cov_1.20988_ID_955	298	52.0	1.20988	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_479_length_297_cov_1.1157_ID_957	297	52.2	1.1157	99.7	90.2	kept	reference hit
+CECT5198_NODE_480_length_297_cov_1.14876_ID_959	297	43.1	1.14876	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_481_length_297_cov_0.987603_ID_961	297	48.1	0.987603	100.0	90.9	kept	reference hit
+CECT5198_NODE_482_length_296_cov_1.10788_ID_963	296	62.5	1.10788	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_483_length_296_cov_0.929461_ID_965	296	53.4	0.929461	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_484_length_296_cov_1.37344_ID_967	296	38.9	1.37344	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_485_length_296_cov_1.18672_ID_969	296	42.6	1.18672	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_486_length_296_cov_0.900415_ID_971	296	48.0	0.900415	100.0	96.3	kept	reference hit
+CECT5198_NODE_487_length_296_cov_2.79668_ID_973	296	56.8	2.79668	100.0	90.2	kept	reference hit
+CECT5198_NODE_488_length_295_cov_1.35_ID_975	295	62.0	1.35	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_489_length_295_cov_1.5_ID_977	295	61.7	1.5	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_490_length_295_cov_0.9_ID_979	295	57.6	0.9	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_491_length_295_cov_1.3125_ID_981	295	56.9	1.3125	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_492_length_295_cov_1.125_ID_983	295	62.4	1.125	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_493_length_295_cov_71.8292_ID_985	295	44.1	71.8292	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_494_length_294_cov_0.966527_ID_987	294	44.2	0.966527	100.0	95.7	kept	reference hit
+CECT5198_NODE_495_length_293_cov_1.63025_ID_989	293	39.6	1.63025	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_496_length_293_cov_1.32353_ID_991	293	48.8	1.32353	100.0	97.3	kept	reference hit
+CECT5198_NODE_497_length_293_cov_1.51681_ID_993	293	36.5	1.51681	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_498_length_293_cov_1.05042_ID_995	293	46.8	1.05042	100.0	97.6	kept	reference hit
+CECT5198_NODE_499_length_292_cov_0.949367_ID_997	292	57.9	0.949367	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_500_length_292_cov_1.01688_ID_999	292	32.9	1.01688	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_501_length_292_cov_0.759494_ID_1001	292	37.0	0.759494	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_502_length_291_cov_1.14407_ID_1003	291	39.5	1.14407	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_503_length_291_cov_1.59322_ID_1005	291	47.4	1.59322	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_504_length_291_cov_1.09746_ID_1007	291	67.7	1.09746	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_505_length_291_cov_1.11017_ID_1009	291	53.6	1.11017	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_506_length_289_cov_0.987179_ID_1011	289	58.8	0.987179	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_507_length_289_cov_1.1453_ID_1013	289	57.1	1.1453	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_508_length_289_cov_1.15385_ID_1015	289	50.9	1.15385	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_509_length_288_cov_1.12017_ID_1017	288	65.6	1.12017	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_510_length_288_cov_0.957082_ID_1019	288	53.1	0.957082	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_511_length_288_cov_137.021_ID_1021	288	38.5	137.021	100.0	94.1	kept	reference hit
+CECT5198_NODE_512_length_288_cov_394.163_ID_1023	288	47.9	394.163	83.7	100.0	kept	reference hit
+CECT5198_NODE_513_length_288_cov_378.223_ID_1025	288	47.6	378.223	83.7	100.0	kept	reference hit
+CECT5198_NODE_514_length_288_cov_1_ID_1027	288	59.7	1.0	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_515_length_287_cov_1.16379_ID_1029	287	37.6	1.16379	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_516_length_287_cov_1.35776_ID_1031	287	46.3	1.35776	100.0	99.0	kept	reference hit
+CECT5198_NODE_517_length_287_cov_0.974138_ID_1033	287	58.2	0.974138	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_518_length_286_cov_1.16017_ID_1035	286	33.2	1.16017	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_519_length_286_cov_1.36797_ID_1037	286	53.8	1.36797	99.7	94.7	kept	reference hit
+CECT5198_NODE_520_length_285_cov_1.56522_ID_1039	285	60.4	1.56522	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_521_length_285_cov_86.4348_ID_1041	285	43.9	86.4348	81.8	100.0	kept	reference hit
+CECT5198_NODE_522_length_284_cov_1.57205_ID_1043	284	49.3	1.57205	100.0	96.8	kept	reference hit
+CECT5198_NODE_523_length_284_cov_1.17904_ID_1045	284	49.3	1.17904	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_524_length_284_cov_1.17904_ID_1047	284	43.7	1.17904	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_525_length_284_cov_147.782_ID_1049	284	37.7	147.782	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_526_length_284_cov_1_ID_1051	284	54.9	1.0	100.0	94.7	kept	reference hit
+CECT5198_NODE_527_length_284_cov_296.057_ID_1053	284	49.3	296.057	100.0	100.0	kept	reference hit
+CECT5198_NODE_528_length_283_cov_1.84649_ID_1055	283	49.5	1.84649	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_529_length_283_cov_1_ID_1057	283	67.1	1.0	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_530_length_283_cov_0.899123_ID_1059	283	40.6	0.899123	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_531_length_283_cov_67.1491_ID_1061	283	44.5	67.1491	100.0	100.0	kept	reference hit
+CECT5198_NODE_532_length_282_cov_1.05727_ID_1063	282	48.9	1.05727	98.6	94.6	kept	reference hit
+CECT5198_NODE_533_length_282_cov_1.18943_ID_1065	282	54.3	1.18943	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_534_length_282_cov_1.98238_ID_1067	282	39.0	1.98238	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_535_length_281_cov_1.13717_ID_1069	281	59.4	1.13717	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_536_length_281_cov_1.19469_ID_1071	281	32.4	1.19469	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_537_length_281_cov_1.56195_ID_1073	281	50.9	1.56195	100.0	94.0	kept	reference hit
+CECT5198_NODE_538_length_281_cov_1.27434_ID_1075	281	50.2	1.27434	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_539_length_280_cov_1.07111_ID_1077	280	49.3	1.07111	100.0	92.1	kept	reference hit
+CECT5198_NODE_540_length_280_cov_1.04444_ID_1079	280	48.6	1.04444	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_541_length_279_cov_1.16071_ID_1081	279	32.3	1.16071	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_542_length_279_cov_1.07589_ID_1083	279	62.7	1.07589	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_543_length_279_cov_0.803571_ID_1085	279	66.3	0.803571	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_544_length_279_cov_1.04464_ID_1087	279	27.6	1.04464	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_545_length_279_cov_1.80804_ID_1089	279	40.1	1.80804	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_546_length_278_cov_0.807175_ID_1091	278	56.1	0.807175	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_547_length_278_cov_1.41256_ID_1093	278	62.6	1.41256	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_548_length_278_cov_1.21076_ID_1095	278	60.8	1.21076	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_549_length_277_cov_0.810811_ID_1097	277	63.5	0.810811	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_550_length_277_cov_1.21622_ID_1099	277	42.6	1.21622	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_551_length_277_cov_1_ID_1101	277	66.8	1.0	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_552_length_277_cov_1.08559_ID_1103	277	37.2	1.08559	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_553_length_277_cov_1.08559_ID_1105	277	46.6	1.08559	100.0	97.5	kept	reference hit
+CECT5198_NODE_554_length_277_cov_1.21622_ID_1107	277	53.4	1.21622	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_555_length_277_cov_0.810811_ID_1109	277	27.8	0.810811	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_556_length_277_cov_1.21622_ID_1111	277	48.7	1.21622	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_557_length_277_cov_1.98198_ID_1113	277	48.4	1.98198	100.0	99.3	kept	reference hit
+CECT5198_NODE_558_length_277_cov_132.658_ID_1115	277	44.8	132.658	100.0	98.9	kept	reference hit
+CECT5198_NODE_559_length_276_cov_0.959276_ID_1117	276	47.1	0.959276	100.0	98.2	kept	reference hit
+CECT5198_NODE_560_length_276_cov_1.22172_ID_1119	276	50.0	1.22172	100.0	98.9	kept	reference hit
+CECT5198_NODE_561_length_276_cov_0.81448_ID_1121	276	58.0	0.81448	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_562_length_276_cov_1.22172_ID_1123	276	53.3	1.22172	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_563_length_276_cov_1.47511_ID_1125	276	44.9	1.47511	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_564_length_276_cov_0.687783_ID_1127	276	68.8	0.687783	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_565_length_276_cov_0.832579_ID_1129	276	55.1	0.832579	98.6	95.2	kept	reference hit
+CECT5198_NODE_566_length_275_cov_0.818182_ID_1131	275	67.6	0.818182	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_567_length_275_cov_1.22727_ID_1133	275	58.5	1.22727	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_568_length_275_cov_1.51364_ID_1135	275	50.5	1.51364	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_569_length_275_cov_1.22727_ID_1137	275	61.1	1.22727	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_570_length_275_cov_1.09545_ID_1139	275	41.8	1.09545	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_571_length_275_cov_1.02727_ID_1141	275	51.6	1.02727	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_572_length_274_cov_1.0137_ID_1143	274	66.4	1.0137	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_573_length_274_cov_1.10046_ID_1145	274	67.2	1.10046	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_574_length_274_cov_1.47032_ID_1147	274	63.5	1.47032	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_575_length_274_cov_1.49315_ID_1149	274	40.1	1.49315	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_576_length_274_cov_1.51142_ID_1151	274	39.1	1.51142	17.5	93.8	removed	no reference hit + atypical GC
+CECT5198_NODE_577_length_274_cov_0.794521_ID_1153	274	61.7	0.794521	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_578_length_274_cov_1.02283_ID_1155	274	62.4	1.02283	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_579_length_274_cov_318.795_ID_1157	274	42.0	318.795	86.9	100.0	kept	reference hit
+CECT5198_NODE_580_length_273_cov_0.825688_ID_1159	273	60.4	0.825688	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_581_length_273_cov_1.41284_ID_1161	273	43.2	1.41284	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_582_length_273_cov_1.04587_ID_1163	273	60.1	1.04587	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_583_length_272_cov_1.65899_ID_1165	272	41.2	1.65899	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_584_length_272_cov_1.50691_ID_1167	272	56.2	1.50691	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_585_length_272_cov_0.820276_ID_1169	272	45.6	0.820276	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_586_length_271_cov_1.25_ID_1171	271	31.4	1.25	99.3	100.0	kept	reference hit
+CECT5198_NODE_587_length_271_cov_1.11574_ID_1173	271	59.4	1.11574	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_588_length_271_cov_0.833333_ID_1175	271	50.6	0.833333	98.5	83.9	kept	reference hit
+CECT5198_NODE_589_length_271_cov_2.3287_ID_1177	271	47.6	2.3287	99.3	98.5	kept	reference hit
+CECT5198_NODE_590_length_270_cov_1_ID_1179	270	57.4	1.0	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_591_length_270_cov_1.25581_ID_1181	270	59.6	1.25581	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_592_length_270_cov_1.12093_ID_1183	270	47.0	1.12093	100.0	91.1	kept	reference hit
+CECT5198_NODE_593_length_269_cov_142.977_ID_1185	269	39.8	142.977	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_594_length_268_cov_1.55399_ID_1187	268	47.4	1.55399	99.6	87.3	kept	reference hit
+CECT5198_NODE_595_length_268_cov_0.713615_ID_1189	268	46.3	0.713615	100.0	94.4	kept	reference hit
+CECT5198_NODE_596_length_268_cov_0.680751_ID_1191	268	61.9	0.680751	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_597_length_268_cov_663.972_ID_1193	268	39.2	663.972	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_598_length_267_cov_1.27358_ID_1195	267	57.3	1.27358	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_599_length_267_cov_1.53774_ID_1197	267	64.0	1.53774	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_600_length_267_cov_2.10377_ID_1199	267	33.7	2.10377	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_601_length_267_cov_1.48585_ID_1201	267	50.6	1.48585	100.0	96.6	kept	reference hit
+CECT5198_NODE_602_length_267_cov_2.2217_ID_1203	267	41.9	2.2217	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_603_length_267_cov_0.70283_ID_1205	267	56.2	0.70283	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_604_length_267_cov_1.41038_ID_1207	267	33.7	1.41038	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_605_length_267_cov_90.684_ID_1209	267	55.8	90.684	100.0	91.3	kept	reference hit
+CECT5198_NODE_606_length_267_cov_1233.23_ID_1211	267	44.9	1233.23	88.8	92.0	kept	reference hit
+CECT5198_NODE_607_length_266_cov_0.853081_ID_1213	266	60.2	0.853081	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_608_length_266_cov_2.55924_ID_1215	266	42.9	2.55924	99.6	95.1	kept	reference hit
+CECT5198_NODE_609_length_266_cov_1.14218_ID_1217	266	55.3	1.14218	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_610_length_266_cov_1.20853_ID_1219	266	59.4	1.20853	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_611_length_266_cov_1_ID_1221	266	31.6	1.0	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_612_length_266_cov_1.09005_ID_1223	266	61.7	1.09005	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_613_length_265_cov_0.857143_ID_1225	265	33.6	0.857143	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_614_length_265_cov_0.852381_ID_1227	265	58.5	0.852381	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_615_length_265_cov_0.719048_ID_1229	265	48.7	0.719048	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_616_length_265_cov_0.857143_ID_1231	265	63.0	0.857143	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_617_length_265_cov_1.14762_ID_1233	265	64.5	1.14762	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_618_length_265_cov_0.804762_ID_1235	265	58.1	0.804762	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_619_length_264_cov_1.15311_ID_1237	264	36.4	1.15311	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_620_length_264_cov_1.50718_ID_1239	264	31.4	1.50718	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_621_length_264_cov_0.861244_ID_1241	264	65.9	0.861244	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_622_length_264_cov_0.861244_ID_1243	264	51.1	0.861244	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_623_length_264_cov_0.861244_ID_1245	264	56.4	0.861244	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_624_length_264_cov_1.18182_ID_1247	264	45.5	1.18182	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_625_length_264_cov_1.43541_ID_1249	264	48.9	1.43541	100.0	96.6	kept	reference hit
+CECT5198_NODE_626_length_264_cov_183.852_ID_1251	264	48.9	183.852	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_627_length_263_cov_1.29808_ID_1253	263	39.9	1.29808	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_628_length_263_cov_1.29808_ID_1255	263	60.5	1.29808	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_629_length_263_cov_1.29808_ID_1257	263	57.8	1.29808	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_630_length_263_cov_0.783654_ID_1259	263	53.6	0.783654	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_631_length_262_cov_1.30435_ID_1261	262	62.6	1.30435	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_632_length_262_cov_1.15459_ID_1263	262	43.1	1.15459	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_633_length_262_cov_1.72464_ID_1265	262	48.1	1.72464	100.0	96.9	kept	reference hit
+CECT5198_NODE_634_length_262_cov_0.869565_ID_1267	262	56.5	0.869565	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_635_length_262_cov_1.0628_ID_1269	262	43.9	1.0628	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_636_length_262_cov_188.353_ID_1271	262	50.0	188.353	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_637_length_261_cov_1.09223_ID_1273	261	49.0	1.09223	100.0	97.3	kept	reference hit
+CECT5198_NODE_638_length_261_cov_1.1699_ID_1275	261	44.8	1.1699	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_639_length_261_cov_1.69903_ID_1277	261	35.6	1.69903	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_640_length_261_cov_0.873786_ID_1279	261	56.7	0.873786	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_641_length_261_cov_1.31068_ID_1281	261	42.9	1.31068	100.0	96.6	kept	reference hit
+CECT5198_NODE_642_length_261_cov_0.873786_ID_1283	261	41.8	0.873786	100.0	98.9	kept	reference hit
+CECT5198_NODE_643_length_261_cov_0.873786_ID_1285	261	65.1	0.873786	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_644_length_261_cov_1.51942_ID_1287	261	41.4	1.51942	99.6	94.3	kept	reference hit
+CECT5198_NODE_645_length_261_cov_176.277_ID_1289	261	42.1	176.277	100.0	94.4	kept	reference hit
+CECT5198_NODE_646_length_260_cov_1.0878_ID_1291	260	63.8	1.0878	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_647_length_260_cov_1.31707_ID_1293	260	32.7	1.31707	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_648_length_260_cov_0.814634_ID_1295	260	65.0	0.814634	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_649_length_260_cov_0.956098_ID_1297	260	54.2	0.956098	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_650_length_260_cov_2.27317_ID_1299	260	41.5	2.27317	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_651_length_260_cov_0.780488_ID_1301	260	57.7	0.780488	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_652_length_260_cov_1.33659_ID_1303	260	42.7	1.33659	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_653_length_260_cov_0.887805_ID_1305	260	48.1	0.887805	100.0	97.3	kept	reference hit
+CECT5198_NODE_654_length_260_cov_1.25366_ID_1307	260	52.3	1.25366	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_655_length_260_cov_106.02_ID_1309	260	40.8	106.02	100.0	100.0	kept	reference hit
+CECT5198_NODE_656_length_259_cov_1.27451_ID_1311	259	49.4	1.27451	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_657_length_259_cov_1.76471_ID_1313	259	39.4	1.76471	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_658_length_259_cov_1.54412_ID_1315	259	29.7	1.54412	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_659_length_259_cov_1.32353_ID_1317	259	64.1	1.32353	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_660_length_259_cov_2.20588_ID_1319	259	51.7	2.20588	97.3	83.7	kept	reference hit
+CECT5198_NODE_661_length_259_cov_1.26471_ID_1321	259	57.1	1.26471	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_662_length_259_cov_1.13725_ID_1323	259	62.2	1.13725	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_663_length_259_cov_1.53431_ID_1325	259	40.2	1.53431	100.0	91.3	kept	reference hit
+CECT5198_NODE_664_length_258_cov_0.8867_ID_1327	258	50.4	0.8867	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_665_length_258_cov_1.18719_ID_1329	258	50.8	1.18719	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_666_length_258_cov_0.8867_ID_1331	258	53.5	0.8867	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_667_length_258_cov_0.650246_ID_1333	258	53.1	0.650246	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_668_length_258_cov_1.19212_ID_1335	258	39.1	1.19212	100.0	98.5	kept	reference hit
+CECT5198_NODE_669_length_258_cov_1.05419_ID_1337	258	36.0	1.05419	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_670_length_258_cov_74.8966_ID_1339	258	44.6	74.8966	100.0	96.0	kept	reference hit
+CECT5198_NODE_671_length_257_cov_0.891089_ID_1341	257	48.6	0.891089	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_672_length_257_cov_1.52475_ID_1343	257	48.2	1.52475	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_673_length_257_cov_1.40099_ID_1345	257	40.1	1.40099	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_674_length_257_cov_95.4802_ID_1347	257	41.6	95.4802	100.0	96.8	kept	reference hit
+CECT5198_NODE_675_length_256_cov_0.845771_ID_1349	256	62.5	0.845771	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_676_length_256_cov_1.14925_ID_1351	256	61.3	1.14925	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_677_length_256_cov_0.850746_ID_1353	256	62.9	0.850746	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_678_length_256_cov_1.1393_ID_1355	256	59.0	1.1393	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_679_length_255_cov_0.9_ID_1357	255	59.6	0.9	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_680_length_255_cov_0.9_ID_1359	255	42.4	0.9	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_681_length_255_cov_1.005_ID_1361	255	58.8	1.005	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_682_length_255_cov_0.635_ID_1363	255	61.6	0.635	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_683_length_255_cov_0.74_ID_1365	255	44.7	0.74	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_684_length_254_cov_0.904523_ID_1367	254	53.1	0.904523	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_685_length_254_cov_1.13065_ID_1369	254	65.7	1.13065	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_686_length_254_cov_1.21106_ID_1371	254	61.4	1.21106	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_687_length_254_cov_1.21106_ID_1373	254	48.4	1.21106	99.2	98.4	kept	reference hit
+CECT5198_NODE_688_length_254_cov_0.904523_ID_1375	254	45.7	0.904523	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_689_length_254_cov_1.35678_ID_1377	254	47.6	1.35678	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_690_length_254_cov_283.07_ID_1379	254	53.9	283.07	100.0	92.5	kept	reference hit
+CECT5198_NODE_691_length_253_cov_0.848485_ID_1381	253	37.2	0.848485	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_692_length_253_cov_0.909091_ID_1383	253	60.5	0.909091	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_693_length_253_cov_0.909091_ID_1385	253	35.6	0.909091	100.0	96.0	kept	reference hit
+CECT5198_NODE_694_length_253_cov_0.909091_ID_1387	253	41.1	0.909091	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_695_length_253_cov_0.878788_ID_1389	253	54.5	0.878788	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_696_length_253_cov_0.747475_ID_1391	253	53.0	0.747475	100.0	94.1	kept	reference hit
+CECT5198_NODE_697_length_253_cov_0.934343_ID_1393	253	52.2	0.934343	97.2	95.5	kept	reference hit
+CECT5198_NODE_698_length_252_cov_0.766497_ID_1395	252	58.3	0.766497	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_699_length_252_cov_1.22335_ID_1397	252	50.8	1.22335	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_700_length_252_cov_0.807107_ID_1399	252	63.1	0.807107	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_701_length_251_cov_1.54082_ID_1401	251	38.2	1.54082	100.0	92.0	kept	reference hit
+CECT5198_NODE_702_length_251_cov_0.908163_ID_1403	251	39.4	0.908163	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_703_length_251_cov_0.994898_ID_1405	251	57.0	0.994898	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_704_length_251_cov_1.31122_ID_1407	251	48.6	1.31122	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_705_length_251_cov_318.255_ID_1409	251	39.0	318.255	100.0	100.0	kept	reference hit
+CECT5198_NODE_706_length_250_cov_0.923077_ID_1411	250	67.2	0.923077	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_707_length_250_cov_1.4359_ID_1413	250	57.6	1.4359	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_708_length_250_cov_2.07692_ID_1415	250	47.6	2.07692	98.8	95.1	kept	reference hit
+CECT5198_NODE_709_length_250_cov_0.923077_ID_1417	250	57.6	0.923077	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_710_length_250_cov_0.912821_ID_1419	250	46.8	0.912821	100.0	98.0	kept	reference hit
+CECT5198_NODE_711_length_250_cov_0.923077_ID_1421	250	60.8	0.923077	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_712_length_250_cov_0.810256_ID_1423	250	48.0	0.810256	100.0	96.0	kept	reference hit
+CECT5198_NODE_713_length_249_cov_0.778351_ID_1425	249	59.8	0.778351	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_714_length_249_cov_1.85567_ID_1427	249	32.5	1.85567	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_715_length_249_cov_0.927835_ID_1429	249	62.7	0.927835	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_716_length_249_cov_0.927835_ID_1431	249	51.4	0.927835	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_717_length_249_cov_1.24227_ID_1433	249	31.7	1.24227	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_718_length_249_cov_1.24227_ID_1435	249	47.8	1.24227	100.0	96.4	kept	reference hit
+CECT5198_NODE_719_length_249_cov_0.927835_ID_1437	249	51.8	0.927835	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_720_length_249_cov_1.84536_ID_1439	249	44.6	1.84536	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_721_length_249_cov_1.19588_ID_1441	249	61.8	1.19588	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_722_length_249_cov_0.860825_ID_1443	249	55.4	0.860825	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_723_length_249_cov_160.036_ID_1445	249	51.4	160.036	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_724_length_248_cov_1.86528_ID_1447	248	54.0	1.86528	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_725_length_248_cov_0.932642_ID_1449	248	59.3	0.932642	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_726_length_248_cov_0.932642_ID_1451	248	55.6	0.932642	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_727_length_248_cov_0.932642_ID_1453	248	44.4	0.932642	94.4	97.0	kept	reference hit
+CECT5198_NODE_728_length_248_cov_0.932642_ID_1455	248	46.4	0.932642	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_729_length_248_cov_0.699482_ID_1457	248	68.1	0.699482	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_730_length_248_cov_0.849741_ID_1459	248	68.1	0.849741	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_731_length_248_cov_0.943005_ID_1461	248	52.4	0.943005	100.0	98.0	kept	reference hit
+CECT5198_NODE_732_length_248_cov_179.057_ID_1463	248	37.9	179.057	100.0	92.0	kept	reference hit
+CECT5198_NODE_733_length_247_cov_0.9375_ID_1465	247	42.5	0.9375	100.0	100.0	kept	reference hit
+CECT5198_NODE_734_length_247_cov_0.9375_ID_1467	247	42.9	0.9375	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_735_length_247_cov_0.9375_ID_1469	247	60.3	0.9375	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_736_length_247_cov_0.9375_ID_1471	247	61.1	0.9375	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_737_length_247_cov_0.9375_ID_1473	247	47.8	0.9375	100.0	90.3	kept	reference hit
+CECT5198_NODE_738_length_247_cov_0.895833_ID_1475	247	50.6	0.895833	99.6	81.9	kept	reference hit
+CECT5198_NODE_739_length_247_cov_0.833333_ID_1477	247	56.7	0.833333	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_740_length_247_cov_0.833333_ID_1479	247	66.8	0.833333	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_741_length_247_cov_0.723958_ID_1481	247	53.4	0.723958	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_742_length_246_cov_0.942408_ID_1483	246	40.7	0.942408	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_743_length_246_cov_0.942408_ID_1485	246	50.4	0.942408	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_744_length_246_cov_0.942408_ID_1487	246	53.7	0.942408	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_745_length_246_cov_0.942408_ID_1489	246	50.8	0.942408	98.8	94.7	kept	reference hit
+CECT5198_NODE_746_length_246_cov_0.895288_ID_1491	246	63.8	0.895288	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_747_length_245_cov_0.947368_ID_1493	245	61.2	0.947368	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_748_length_245_cov_1.28421_ID_1495	245	49.8	1.28421	100.0	100.0	kept	reference hit
+CECT5198_NODE_749_length_245_cov_0.947368_ID_1497	245	44.1	0.947368	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_750_length_245_cov_1.2_ID_1499	245	42.9	1.2	100.0	98.0	kept	reference hit
+CECT5198_NODE_751_length_245_cov_0.947368_ID_1501	245	46.5	0.947368	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_752_length_245_cov_0.947368_ID_1503	245	42.4	0.947368	100.0	99.6	kept	reference hit
+CECT5198_NODE_753_length_245_cov_1.21579_ID_1505	245	36.3	1.21579	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_754_length_245_cov_0.947368_ID_1507	245	46.9	0.947368	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_755_length_245_cov_0.947368_ID_1509	245	60.4	0.947368	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_756_length_245_cov_0.894737_ID_1511	245	60.4	0.894737	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_757_length_245_cov_0.842105_ID_1513	245	63.7	0.842105	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_758_length_245_cov_0.957895_ID_1515	245	55.5	0.957895	100.0	95.5	kept	reference hit
+CECT5198_NODE_759_length_245_cov_777.374_ID_1517	245	35.9	777.374	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_760_length_244_cov_1.42857_ID_1519	244	27.0	1.42857	100.0	99.2	kept	reference hit
+CECT5198_NODE_761_length_244_cov_0.798942_ID_1521	244	52.5	0.798942	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_762_length_244_cov_0.952381_ID_1523	244	57.8	0.952381	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_763_length_244_cov_0.84127_ID_1525	244	59.8	0.84127	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_764_length_244_cov_1.42857_ID_1527	244	56.6	1.42857	100.0	95.9	kept	reference hit
+CECT5198_NODE_765_length_244_cov_0.952381_ID_1529	244	49.2	0.952381	100.0	97.5	kept	reference hit
+CECT5198_NODE_766_length_244_cov_0.952381_ID_1531	244	63.1	0.952381	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_767_length_244_cov_1.74603_ID_1533	244	54.5	1.74603	100.0	96.3	kept	reference hit
+CECT5198_NODE_768_length_244_cov_101.937_ID_1535	244	48.0	101.937	100.0	96.7	kept	reference hit
+CECT5198_NODE_769_length_244_cov_113.09_ID_1537	244	48.4	113.09	100.0	96.7	kept	reference hit
+CECT5198_NODE_770_length_243_cov_0.925532_ID_1539	243	60.1	0.925532	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_771_length_243_cov_0.957447_ID_1541	243	40.3	0.957447	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_772_length_243_cov_1.41489_ID_1543	243	53.9	1.41489	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_773_length_243_cov_0.824468_ID_1545	243	61.3	0.824468	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_774_length_243_cov_1.12766_ID_1547	243	64.6	1.12766	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_775_length_243_cov_316.133_ID_1549	243	53.5	316.133	100.0	100.0	kept	reference hit
+CECT5198_NODE_776_length_242_cov_1.20321_ID_1551	242	43.4	1.20321	96.7	99.1	kept	reference hit
+CECT5198_NODE_777_length_242_cov_0.962567_ID_1553	242	39.7	0.962567	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_778_length_242_cov_1.44385_ID_1555	242	41.7	1.44385	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_779_length_242_cov_1.28877_ID_1557	242	62.4	1.28877	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_780_length_242_cov_0.962567_ID_1559	242	59.5	0.962567	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_781_length_242_cov_0.807487_ID_1561	242	48.3	0.807487	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_782_length_242_cov_0.962567_ID_1563	242	46.3	0.962567	100.0	97.9	kept	reference hit
+CECT5198_NODE_783_length_242_cov_0.962567_ID_1565	242	38.4	0.962567	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_784_length_242_cov_0.962567_ID_1567	242	62.4	0.962567	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_785_length_242_cov_0.962567_ID_1569	242	52.9	0.962567	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_786_length_242_cov_1.44385_ID_1571	242	24.8	1.44385	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_787_length_242_cov_1.17112_ID_1573	242	54.5	1.17112	98.3	98.3	kept	reference hit
+CECT5198_NODE_788_length_242_cov_1.13904_ID_1575	242	48.3	1.13904	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_789_length_241_cov_0.967742_ID_1577	241	33.6	0.967742	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_790_length_241_cov_0.967742_ID_1579	241	50.6	0.967742	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_791_length_241_cov_0.967742_ID_1581	241	59.3	0.967742	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_792_length_241_cov_1.45161_ID_1583	241	42.7	1.45161	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_793_length_241_cov_0.967742_ID_1585	241	51.0	0.967742	56.0	81.5	kept	reference hit
+CECT5198_NODE_794_length_241_cov_0.956989_ID_1587	241	62.2	0.956989	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_795_length_241_cov_0.967742_ID_1589	241	55.2	0.967742	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_796_length_241_cov_0.967742_ID_1591	241	31.5	0.967742	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_797_length_241_cov_1.45161_ID_1593	241	46.1	1.45161	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_798_length_241_cov_0.967742_ID_1595	241	42.7	0.967742	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_799_length_241_cov_1.43011_ID_1597	241	50.6	1.43011	99.2	93.7	kept	reference hit
+CECT5198_NODE_800_length_241_cov_0.870968_ID_1599	241	68.5	0.870968	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_801_length_241_cov_72.5054_ID_1601	241	47.3	72.5054	97.5	91.8	kept	reference hit
+CECT5198_NODE_802_length_240_cov_0.972973_ID_1603	240	53.3	0.972973	97.9	96.2	kept	reference hit
+CECT5198_NODE_803_length_240_cov_0.805405_ID_1605	240	47.9	0.805405	100.0	98.3	kept	reference hit
+CECT5198_NODE_804_length_240_cov_0.697297_ID_1607	240	57.9	0.697297	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_805_length_240_cov_0.972973_ID_1609	240	39.6	0.972973	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_806_length_240_cov_0.972973_ID_1611	240	48.8	0.972973	100.0	97.1	kept	reference hit
+CECT5198_NODE_807_length_240_cov_1.7027_ID_1613	240	48.8	1.7027	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_808_length_240_cov_1.80541_ID_1615	240	50.4	1.80541	97.9	96.2	kept	reference hit
+CECT5198_NODE_809_length_240_cov_0.816216_ID_1617	240	60.0	0.816216	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_810_length_240_cov_1.45946_ID_1619	240	42.1	1.45946	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_811_length_240_cov_1.16216_ID_1621	240	60.4	1.16216	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_812_length_240_cov_0.848649_ID_1623	240	37.9	0.848649	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_813_length_240_cov_1.36216_ID_1625	240	60.8	1.36216	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_814_length_240_cov_2.48108_ID_1627	240	48.8	2.48108	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_815_length_240_cov_0.659459_ID_1629	240	65.0	0.659459	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_816_length_239_cov_0.978261_ID_1631	239	60.3	0.978261	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_817_length_239_cov_1.15761_ID_1633	239	51.9	1.15761	99.2	96.2	kept	reference hit
+CECT5198_NODE_818_length_239_cov_2.04348_ID_1635	239	47.3	2.04348	98.7	89.9	kept	reference hit
+CECT5198_NODE_819_length_239_cov_0.809783_ID_1637	239	64.0	0.809783	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_820_length_238_cov_0.825137_ID_1639	238	60.9	0.825137	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_821_length_238_cov_1.80874_ID_1641	238	47.9	1.80874	96.6	86.6	kept	reference hit
+CECT5198_NODE_822_length_238_cov_1.47541_ID_1643	238	60.9	1.47541	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_823_length_238_cov_0.983607_ID_1645	238	61.3	0.983607	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_824_length_238_cov_0.983607_ID_1647	238	52.5	0.983607	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_825_length_238_cov_0.983607_ID_1649	238	43.3	0.983607	100.0	93.7	kept	reference hit
+CECT5198_NODE_826_length_238_cov_0.765027_ID_1651	238	40.8	0.765027	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_827_length_238_cov_0.983607_ID_1653	238	38.7	0.983607	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_828_length_238_cov_0.95082_ID_1655	238	60.5	0.95082	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_829_length_238_cov_0.978142_ID_1657	238	45.4	0.978142	63.4	91.4	kept	reference hit
+CECT5198_NODE_830_length_237_cov_0.983516_ID_1659	237	58.6	0.983516	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_831_length_237_cov_1.16484_ID_1661	237	37.6	1.16484	100.0	100.0	kept	reference hit
+CECT5198_NODE_832_length_237_cov_1.23626_ID_1663	237	48.1	1.23626	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_833_length_237_cov_0.82967_ID_1665	237	43.0	0.82967	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_834_length_237_cov_0.78022_ID_1667	237	60.8	0.78022	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_835_length_237_cov_0.840659_ID_1669	237	35.9	0.840659	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_836_length_237_cov_1.30769_ID_1671	237	54.9	1.30769	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_837_length_237_cov_1.64835_ID_1673	237	42.2	1.64835	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_838_length_237_cov_1.8022_ID_1675	237	47.7	1.8022	100.0	100.0	kept	reference hit
+CECT5198_NODE_839_length_236_cov_1.46409_ID_1677	236	64.8	1.46409	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_840_length_236_cov_1.24309_ID_1679	236	25.4	1.24309	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_841_length_236_cov_0.994475_ID_1681	236	57.6	0.994475	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_842_length_236_cov_1.49171_ID_1683	236	62.3	1.49171	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_843_length_236_cov_0.883978_ID_1685	236	61.4	0.883978	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_844_length_236_cov_0.994475_ID_1687	236	45.8	0.994475	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_845_length_236_cov_0.767956_ID_1689	236	64.0	0.767956	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_846_length_236_cov_1.22652_ID_1691	236	39.0	1.22652	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_847_length_235_cov_1.45_ID_1693	235	56.2	1.45	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_848_length_235_cov_0.838889_ID_1695	235	48.9	0.838889	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_849_length_235_cov_1.58889_ID_1697	235	44.7	1.58889	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_850_length_235_cov_1.72778_ID_1699	235	39.6	1.72778	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_851_length_235_cov_1.63333_ID_1701	235	44.7	1.63333	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_852_length_235_cov_1.17222_ID_1703	235	48.9	1.17222	99.1	96.6	kept	reference hit
+CECT5198_NODE_853_length_235_cov_1.93333_ID_1705	235	46.0	1.93333	100.0	93.2	kept	reference hit
+CECT5198_NODE_854_length_235_cov_0.983333_ID_1707	235	51.9	0.983333	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_855_length_235_cov_0.877778_ID_1709	235	43.4	0.877778	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_856_length_234_cov_1.00559_ID_1711	234	54.3	1.00559	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_857_length_234_cov_1.00559_ID_1713	234	65.4	1.00559	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_858_length_234_cov_1.50838_ID_1715	234	65.8	1.50838	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_859_length_234_cov_0.977654_ID_1717	234	59.4	0.977654	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_860_length_234_cov_1.00559_ID_1719	234	61.5	1.00559	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_861_length_234_cov_1.00559_ID_1721	234	48.7	1.00559	99.1	90.9	kept	reference hit
+CECT5198_NODE_862_length_234_cov_0.75419_ID_1723	234	63.2	0.75419	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_863_length_234_cov_0.843575_ID_1725	234	48.3	0.843575	100.0	95.3	kept	reference hit
+CECT5198_NODE_864_length_234_cov_0.927374_ID_1727	234	62.4	0.927374	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_865_length_234_cov_1.18436_ID_1729	234	36.8	1.18436	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_866_length_234_cov_2282.89_ID_1731	234	42.7	2282.89	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_867_length_233_cov_1.01124_ID_1733	233	61.4	1.01124	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_868_length_233_cov_1.01124_ID_1735	233	50.6	1.01124	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_869_length_233_cov_1.01124_ID_1737	233	41.6	1.01124	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_870_length_233_cov_0.977528_ID_1739	233	60.9	0.977528	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_871_length_233_cov_0.949438_ID_1741	233	63.9	0.949438	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_872_length_233_cov_0.758427_ID_1743	233	58.4	0.758427	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_873_length_233_cov_1.51685_ID_1745	233	47.6	1.51685	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_874_length_233_cov_1.01124_ID_1747	233	64.8	1.01124	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_875_length_233_cov_0.848315_ID_1749	233	50.2	0.848315	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_876_length_233_cov_1.27528_ID_1751	233	57.5	1.27528	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_877_length_233_cov_1.05618_ID_1753	233	39.1	1.05618	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_878_length_233_cov_0.94382_ID_1755	233	60.5	0.94382	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_879_length_233_cov_294.433_ID_1757	233	44.2	294.433	100.0	100.0	kept	reference hit
+CECT5198_NODE_880_length_233_cov_1.37079_ID_1759	233	56.2	1.37079	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_881_length_233_cov_150.961_ID_1761	233	54.5	150.961	100.0	100.0	kept	reference hit
+CECT5198_NODE_882_length_233_cov_1156.8_ID_1763	233	48.9	1156.8	100.0	89.3	kept	reference hit
+CECT5198_NODE_883_length_232_cov_1.01695_ID_1765	232	50.9	1.01695	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_884_length_232_cov_1.01695_ID_1767	232	50.0	1.01695	100.0	99.1	kept	reference hit
+CECT5198_NODE_885_length_232_cov_0.853107_ID_1769	232	51.3	0.853107	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_886_length_232_cov_1.01695_ID_1771	232	41.4	1.01695	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_887_length_232_cov_1.01695_ID_1773	232	60.3	1.01695	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_888_length_232_cov_1.27119_ID_1775	232	29.7	1.27119	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_889_length_232_cov_1.52542_ID_1777	232	40.9	1.52542	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_890_length_232_cov_1.01695_ID_1779	232	57.8	1.01695	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_891_length_232_cov_1.52542_ID_1781	232	38.8	1.52542	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_892_length_232_cov_0.853107_ID_1783	232	56.0	0.853107	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_893_length_232_cov_1.50847_ID_1785	232	53.0	1.50847	97.0	95.6	kept	reference hit
+CECT5198_NODE_894_length_232_cov_1.35028_ID_1787	232	43.5	1.35028	100.0	94.0	kept	reference hit
+CECT5198_NODE_895_length_231_cov_0.965909_ID_1789	231	62.3	0.965909	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_896_length_231_cov_1.02273_ID_1791	231	32.5	1.02273	100.0	97.8	kept	reference hit
+CECT5198_NODE_897_length_231_cov_1.53409_ID_1793	231	61.9	1.53409	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_898_length_231_cov_1.53409_ID_1795	231	39.4	1.53409	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_899_length_231_cov_1.02273_ID_1797	231	61.9	1.02273	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_900_length_231_cov_1.53409_ID_1799	231	60.2	1.53409	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_901_length_231_cov_1.01136_ID_1801	231	61.0	1.01136	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_902_length_231_cov_78.3011_ID_1803	231	51.9	78.3011	99.6	96.1	kept	reference hit
+CECT5198_NODE_903_length_231_cov_78.892_ID_1805	231	51.9	78.892	99.6	97.4	kept	reference hit
+CECT5198_NODE_904_length_231_cov_297.847_ID_1807	231	45.9	297.847	83.5	81.4	kept	reference hit
+CECT5198_NODE_905_length_230_cov_1.02857_ID_1809	230	44.8	1.02857	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_906_length_230_cov_1.02857_ID_1811	230	26.5	1.02857	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_907_length_230_cov_1.37714_ID_1813	230	60.0	1.37714	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_908_length_230_cov_1.54286_ID_1815	230	55.2	1.54286	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_909_length_230_cov_1.63429_ID_1817	230	45.7	1.63429	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_910_length_230_cov_0.851429_ID_1819	230	61.7	0.851429	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_911_length_230_cov_1.32571_ID_1821	230	36.1	1.32571	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_912_length_229_cov_1.55172_ID_1823	229	68.1	1.55172	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_913_length_229_cov_1.03448_ID_1825	229	62.9	1.03448	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_914_length_229_cov_1.03448_ID_1827	229	48.9	1.03448	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_915_length_229_cov_1.03448_ID_1829	229	38.9	1.03448	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_916_length_229_cov_2.00575_ID_1831	229	34.5	2.00575	100.0	97.8	kept	reference hit
+CECT5198_NODE_917_length_229_cov_1.05172_ID_1833	229	45.4	1.05172	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_918_length_229_cov_1.35057_ID_1835	229	46.3	1.35057	100.0	92.1	kept	reference hit
+CECT5198_NODE_919_length_229_cov_1166.23_ID_1837	229	41.9	1166.23	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_920_length_228_cov_1.56069_ID_1839	228	34.6	1.56069	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_921_length_228_cov_1.04046_ID_1841	228	32.0	1.04046	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_922_length_228_cov_1.56069_ID_1843	228	30.7	1.56069	100.0	96.5	kept	reference hit
+CECT5198_NODE_923_length_228_cov_1.04046_ID_1845	228	46.5	1.04046	100.0	97.4	kept	reference hit
+CECT5198_NODE_924_length_228_cov_1.08092_ID_1847	228	59.2	1.08092	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_925_length_228_cov_1.04624_ID_1849	228	45.2	1.04624	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_926_length_228_cov_0.791908_ID_1851	228	56.1	0.791908	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_927_length_227_cov_1.56977_ID_1853	227	27.3	1.56977	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_928_length_227_cov_0.994186_ID_1855	227	56.8	0.994186	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_929_length_227_cov_0.94186_ID_1857	227	50.7	0.94186	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_930_length_227_cov_1.4593_ID_1859	227	37.4	1.4593	100.0	91.7	kept	reference hit
+CECT5198_NODE_931_length_226_cov_1.93567_ID_1861	226	44.7	1.93567	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_932_length_226_cov_1.05263_ID_1863	226	52.7	1.05263	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_933_length_226_cov_1.05263_ID_1865	226	56.2	1.05263	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_934_length_226_cov_1.04678_ID_1867	226	65.5	1.04678	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_935_length_226_cov_0.783626_ID_1869	226	61.1	0.783626	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_936_length_226_cov_1.04094_ID_1871	226	65.5	1.04094	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_937_length_226_cov_1.31579_ID_1873	226	49.6	1.31579	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_938_length_226_cov_0.789474_ID_1875	226	66.8	0.789474	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_939_length_226_cov_1.1462_ID_1877	226	63.7	1.1462	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_940_length_226_cov_1_ID_1879	226	67.7	1.0	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_941_length_226_cov_1.05263_ID_1881	226	50.0	1.05263	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_942_length_226_cov_0.883041_ID_1883	226	61.9	0.883041	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_943_length_226_cov_1.55556_ID_1885	226	31.9	1.55556	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_944_length_226_cov_1.56725_ID_1887	226	49.1	1.56725	99.1	96.9	kept	reference hit
+CECT5198_NODE_945_length_226_cov_0.912281_ID_1889	226	38.9	0.912281	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_946_length_225_cov_1.05882_ID_1891	225	54.2	1.05882	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_947_length_225_cov_0.841176_ID_1893	225	64.0	0.841176	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_948_length_225_cov_1.05882_ID_1895	225	57.8	1.05882	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_949_length_225_cov_1.02941_ID_1897	225	60.0	1.02941	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_950_length_225_cov_1.58824_ID_1899	225	43.6	1.58824	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_951_length_224_cov_0.87574_ID_1901	224	66.1	0.87574	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_952_length_224_cov_1.42604_ID_1903	224	37.9	1.42604	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_953_length_224_cov_1.06509_ID_1905	224	51.8	1.06509	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_954_length_224_cov_1.15976_ID_1907	224	62.1	1.15976	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_955_length_224_cov_2.07101_ID_1909	224	59.4	2.07101	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_956_length_224_cov_1.06509_ID_1911	224	57.1	1.06509	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_957_length_224_cov_1.25444_ID_1913	224	48.2	1.25444	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_958_length_224_cov_0.893491_ID_1915	224	42.9	0.893491	96.4	97.2	kept	reference hit
+CECT5198_NODE_959_length_224_cov_1.52663_ID_1917	224	54.0	1.52663	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_960_length_224_cov_1.06509_ID_1919	224	48.2	1.06509	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_961_length_224_cov_212.822_ID_1921	224	52.2	212.822	99.6	95.8	kept	reference hit
+CECT5198_NODE_962_length_223_cov_1.43452_ID_1923	223	57.8	1.43452	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_963_length_223_cov_0.803571_ID_1925	223	47.5	0.803571	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_964_length_223_cov_1.60714_ID_1927	223	60.1	1.60714	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_965_length_223_cov_0.89881_ID_1929	223	67.3	0.89881	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_966_length_223_cov_1.60714_ID_1931	223	43.9	1.60714	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_967_length_223_cov_0.64881_ID_1933	223	63.2	0.64881	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_968_length_223_cov_0.89881_ID_1935	223	48.0	0.89881	100.0	97.3	kept	reference hit
+CECT5198_NODE_969_length_223_cov_2.14286_ID_1937	223	55.6	2.14286	100.0	94.2	kept	reference hit
+CECT5198_NODE_970_length_223_cov_1.07143_ID_1939	223	49.3	1.07143	100.0	92.4	kept	reference hit
+CECT5198_NODE_971_length_223_cov_1.06548_ID_1941	223	42.2	1.06548	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_972_length_223_cov_1.14286_ID_1943	223	59.2	1.14286	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_973_length_223_cov_1.07143_ID_1945	223	62.3	1.07143	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_974_length_223_cov_1.07143_ID_1947	223	66.8	1.07143	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_975_length_223_cov_0.964286_ID_1949	223	39.9	0.964286	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_976_length_223_cov_1.25_ID_1951	223	44.8	1.25	76.2	94.1	kept	reference hit
+CECT5198_NODE_977_length_223_cov_5818.04_ID_1953	223	39.9	5818.04	100.0	96.9	kept	reference hit
+CECT5198_NODE_978_length_222_cov_1.07784_ID_1955	222	35.1	1.07784	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_979_length_222_cov_1.07784_ID_1957	222	55.4	1.07784	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_980_length_222_cov_0.904192_ID_1959	222	59.9	0.904192	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_981_length_222_cov_0.904192_ID_1961	222	64.4	0.904192	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_982_length_222_cov_1.71257_ID_1963	222	31.1	1.71257	100.0	93.7	kept	reference hit
+CECT5198_NODE_983_length_222_cov_1.0479_ID_1965	222	61.7	1.0479	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_984_length_222_cov_0.988024_ID_1967	222	59.0	0.988024	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_985_length_222_cov_0.892216_ID_1969	222	38.7	0.892216	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_986_length_221_cov_1.0241_ID_1971	221	68.8	1.0241	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_987_length_221_cov_0.909639_ID_1973	221	50.2	0.909639	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_988_length_221_cov_1.08434_ID_1975	221	50.7	1.08434	100.0	95.9	kept	reference hit
+CECT5198_NODE_989_length_221_cov_1.99398_ID_1977	221	37.6	1.99398	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_990_length_221_cov_1.45181_ID_1979	221	48.9	1.45181	100.0	93.7	kept	reference hit
+CECT5198_NODE_991_length_221_cov_1.04819_ID_1981	221	62.4	1.04819	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_992_length_221_cov_0.813253_ID_1983	221	55.2	0.813253	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_993_length_221_cov_1.62651_ID_1985	221	49.8	1.62651	100.0	96.4	kept	reference hit
+CECT5198_NODE_994_length_221_cov_0.891566_ID_1987	221	49.3	0.891566	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_995_length_221_cov_1.03012_ID_1989	221	67.4	1.03012	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_996_length_221_cov_0.945783_ID_1991	221	55.2	0.945783	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_997_length_221_cov_1.24096_ID_1993	221	53.8	1.24096	99.5	94.5	kept	reference hit
+CECT5198_NODE_998_length_221_cov_0.891566_ID_1995	221	56.6	0.891566	100.0	93.7	kept	reference hit
+CECT5198_NODE_999_length_221_cov_1471.47_ID_1997	221	41.6	1471.47	98.2	91.2	kept	reference hit
+CECT5198_NODE_1000_length_220_cov_92.0909_ID_1999	220	43.2	92.0909	75.0	93.3	kept	reference hit
+CECT5198_NODE_1001_length_220_cov_1.09091_ID_2001	220	37.7	1.09091	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1002_length_220_cov_2.18182_ID_2003	220	50.9	2.18182	99.1	96.3	kept	reference hit
+CECT5198_NODE_1003_length_220_cov_1.63636_ID_2005	220	40.5	1.63636	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1004_length_220_cov_1.63636_ID_2007	220	53.2	1.63636	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1005_length_220_cov_0.872727_ID_2009	220	68.6	0.872727	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1006_length_220_cov_1.09091_ID_2011	220	37.3	1.09091	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1007_length_220_cov_1.09091_ID_2013	220	51.4	1.09091	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1008_length_220_cov_1.24242_ID_2015	220	67.3	1.24242	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1009_length_220_cov_0.787879_ID_2017	220	62.7	0.787879	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1010_length_220_cov_1.05455_ID_2019	220	60.5	1.05455	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1011_length_220_cov_1.89697_ID_2021	220	36.8	1.89697	100.0	99.1	kept	reference hit
+CECT5198_NODE_1012_length_220_cov_1.48485_ID_2023	220	42.3	1.48485	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1013_length_220_cov_0.860606_ID_2025	220	50.0	0.860606	100.0	94.5	kept	reference hit
+CECT5198_NODE_1014_length_219_cov_1.09756_ID_2027	219	42.9	1.09756	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1015_length_219_cov_1.64634_ID_2029	219	48.9	1.64634	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1016_length_219_cov_1.09756_ID_2031	219	48.9	1.09756	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1017_length_219_cov_1.64634_ID_2033	219	40.2	1.64634	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1018_length_219_cov_1.64634_ID_2035	219	26.9	1.64634	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1019_length_219_cov_2.19512_ID_2037	219	51.1	2.19512	100.0	100.0	kept	reference hit
+CECT5198_NODE_1020_length_219_cov_1.09756_ID_2039	219	48.4	1.09756	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1021_length_219_cov_1.09756_ID_2041	219	37.4	1.09756	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1022_length_219_cov_1.01829_ID_2043	219	37.0	1.01829	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1023_length_219_cov_0.957317_ID_2045	219	63.0	0.957317	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1024_length_219_cov_1.09756_ID_2047	219	39.7	1.09756	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1025_length_219_cov_1.60976_ID_2049	219	61.6	1.60976	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1026_length_219_cov_1_ID_2051	219	65.3	1.0	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1027_length_219_cov_0.841463_ID_2053	219	49.8	0.841463	100.0	97.7	kept	reference hit
+CECT5198_NODE_1028_length_219_cov_2.46951_ID_2055	219	48.4	2.46951	99.5	93.1	kept	reference hit
+CECT5198_NODE_1029_length_218_cov_1.04908_ID_2057	218	63.8	1.04908	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1030_length_218_cov_1.10429_ID_2059	218	65.1	1.10429	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1031_length_218_cov_1.30061_ID_2061	218	64.2	1.30061	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1032_length_218_cov_1.65644_ID_2063	218	60.6	1.65644	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1033_length_218_cov_1.10429_ID_2065	218	58.3	1.10429	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1034_length_218_cov_1.10429_ID_2067	218	67.4	1.10429	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1035_length_218_cov_1.65644_ID_2069	218	42.2	1.65644	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1036_length_218_cov_0.92638_ID_2071	218	59.6	0.92638	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1037_length_218_cov_2.03067_ID_2073	218	41.7	2.03067	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1038_length_218_cov_0.865031_ID_2075	218	46.8	0.865031	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1039_length_218_cov_1.10429_ID_2077	218	50.5	1.10429	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1040_length_218_cov_1.07975_ID_2079	218	62.8	1.07975	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1041_length_218_cov_1.38037_ID_2081	218	58.3	1.38037	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1042_length_218_cov_1.05521_ID_2083	218	60.1	1.05521	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1043_length_218_cov_1.01227_ID_2085	218	60.6	1.01227	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1044_length_218_cov_0.920245_ID_2087	218	67.0	0.920245	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1045_length_218_cov_1.43558_ID_2089	218	48.6	1.43558	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1046_length_218_cov_77.7117_ID_2091	218	46.3	77.7117	86.2	96.8	kept	reference hit
+CECT5198_NODE_1047_length_218_cov_327.337_ID_2093	218	42.2	327.337	100.0	93.6	kept	reference hit
+CECT5198_NODE_1048_length_217_cov_1.11111_ID_2095	217	52.1	1.11111	100.0	93.5	kept	reference hit
+CECT5198_NODE_1049_length_217_cov_1.11111_ID_2097	217	54.4	1.11111	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1050_length_217_cov_1.66667_ID_2099	217	61.8	1.66667	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1051_length_217_cov_0.833333_ID_2101	217	60.4	0.833333	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1052_length_217_cov_1.11111_ID_2103	217	51.2	1.11111	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1053_length_217_cov_1.11111_ID_2105	217	68.2	1.11111	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1054_length_217_cov_1.48765_ID_2107	217	47.9	1.48765	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1055_length_217_cov_0.907407_ID_2109	217	60.8	0.907407	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1056_length_217_cov_0.802469_ID_2111	217	64.5	0.802469	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1057_length_217_cov_1.16049_ID_2113	217	47.9	1.16049	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1058_length_217_cov_0.740741_ID_2115	217	38.2	0.740741	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1059_length_217_cov_0.666667_ID_2117	217	49.8	0.666667	60.8	90.9	kept	reference hit
+CECT5198_NODE_1060_length_217_cov_0.882716_ID_2119	217	58.1	0.882716	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1061_length_217_cov_202.29_ID_2121	217	52.1	202.29	100.0	100.0	kept	reference hit
+CECT5198_NODE_1062_length_216_cov_1.49068_ID_2123	216	59.3	1.49068	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1063_length_216_cov_1.11801_ID_2125	216	56.9	1.11801	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1064_length_216_cov_1.11801_ID_2127	216	47.7	1.11801	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1065_length_216_cov_1.11801_ID_2129	216	68.5	1.11801	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1066_length_216_cov_0.757764_ID_2131	216	40.3	0.757764	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1067_length_216_cov_1.67702_ID_2133	216	44.0	1.67702	100.0	93.5	kept	reference hit
+CECT5198_NODE_1068_length_216_cov_1.11801_ID_2135	216	63.9	1.11801	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1069_length_216_cov_0.956522_ID_2137	216	65.7	0.956522	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1070_length_216_cov_1.11801_ID_2139	216	58.3	1.11801	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1071_length_216_cov_1.10559_ID_2141	216	59.3	1.10559	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1072_length_216_cov_2.0559_ID_2143	216	47.7	2.0559	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1073_length_216_cov_0.813665_ID_2145	216	69.9	0.813665	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1074_length_216_cov_1.26087_ID_2147	216	63.9	1.26087	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1075_length_216_cov_0.68323_ID_2149	216	52.3	0.68323	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1076_length_216_cov_0.838509_ID_2151	216	48.1	0.838509	100.0	93.1	kept	reference hit
+CECT5198_NODE_1077_length_216_cov_0.950311_ID_2153	216	51.9	0.950311	100.0	94.9	kept	reference hit
+CECT5198_NODE_1078_length_216_cov_0.919255_ID_2155	216	66.2	0.919255	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1079_length_216_cov_1.2236_ID_2157	216	47.7	1.2236	100.0	95.8	kept	reference hit
+CECT5198_NODE_1080_length_216_cov_204.553_ID_2159	216	51.9	204.553	100.0	100.0	kept	reference hit
+CECT5198_NODE_1081_length_215_cov_1.125_ID_2161	215	61.9	1.125	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1082_length_215_cov_1.125_ID_2163	215	36.3	1.125	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1083_length_215_cov_1.0625_ID_2165	215	62.8	1.0625	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1084_length_215_cov_1.6875_ID_2167	215	46.5	1.6875	97.7	91.9	kept	reference hit
+CECT5198_NODE_1085_length_215_cov_0.84375_ID_2169	215	45.6	0.84375	100.0	91.6	kept	reference hit
+CECT5198_NODE_1086_length_215_cov_1.125_ID_2171	215	54.4	1.125	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1087_length_215_cov_0.84375_ID_2173	215	47.9	0.84375	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1088_length_215_cov_1.125_ID_2175	215	47.9	1.125	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1089_length_215_cov_1.325_ID_2177	215	59.5	1.325	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1090_length_215_cov_1.11875_ID_2179	215	60.9	1.11875	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1091_length_215_cov_1.08125_ID_2181	215	50.2	1.08125	100.0	99.1	kept	reference hit
+CECT5198_NODE_1092_length_215_cov_1.9125_ID_2183	215	39.5	1.9125	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1093_length_214_cov_1.13208_ID_2185	214	51.9	1.13208	100.0	94.9	kept	reference hit
+CECT5198_NODE_1094_length_214_cov_0.949686_ID_2187	214	50.0	0.949686	99.1	97.2	kept	reference hit
+CECT5198_NODE_1095_length_214_cov_1.13208_ID_2189	214	23.8	1.13208	100.0	99.5	kept	reference hit
+CECT5198_NODE_1096_length_214_cov_0.855346_ID_2191	214	62.6	0.855346	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1097_length_214_cov_2.05031_ID_2193	214	40.2	2.05031	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1098_length_214_cov_0.849057_ID_2195	214	53.7	0.849057	100.0	93.9	kept	reference hit
+CECT5198_NODE_1099_length_214_cov_1.69811_ID_2197	214	51.4	1.69811	100.0	88.8	kept	reference hit
+CECT5198_NODE_1100_length_214_cov_0.949686_ID_2199	214	50.5	0.949686	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1101_length_214_cov_1.13208_ID_2201	214	43.5	1.13208	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1102_length_214_cov_0.830189_ID_2203	214	64.5	0.830189	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1103_length_214_cov_1.01258_ID_2205	214	36.9	1.01258	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1104_length_214_cov_0.974843_ID_2207	214	51.9	0.974843	100.0	94.9	kept	reference hit
+CECT5198_NODE_1105_length_214_cov_187.698_ID_2209	214	48.1	187.698	100.0	99.1	kept	reference hit
+CECT5198_NODE_1106_length_213_cov_1.13924_ID_2211	213	47.4	1.13924	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1107_length_213_cov_0.955696_ID_2213	213	61.0	0.955696	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1108_length_213_cov_1.13924_ID_2215	213	51.6	1.13924	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1109_length_213_cov_1.13924_ID_2217	213	68.5	1.13924	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1110_length_213_cov_1.13924_ID_2219	213	54.5	1.13924	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1111_length_213_cov_0.955696_ID_2221	213	42.7	0.955696	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1112_length_213_cov_2.1962_ID_2223	213	53.5	2.1962	85.9	92.3	kept	reference hit
+CECT5198_NODE_1113_length_213_cov_1.13924_ID_2225	213	40.8	1.13924	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1114_length_213_cov_1.13924_ID_2227	213	32.9	1.13924	98.1	93.8	kept	reference hit
+CECT5198_NODE_1115_length_213_cov_1.05696_ID_2229	213	46.0	1.05696	100.0	94.4	kept	reference hit
+CECT5198_NODE_1116_length_213_cov_1.42405_ID_2231	213	47.4	1.42405	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1117_length_213_cov_1.13924_ID_2233	213	47.4	1.13924	100.0	99.1	kept	reference hit
+CECT5198_NODE_1118_length_213_cov_0.949367_ID_2235	213	56.3	0.949367	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1119_length_213_cov_0.981013_ID_2237	213	59.6	0.981013	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1120_length_213_cov_2.84177_ID_2239	213	35.2	2.84177	100.0	96.7	kept	reference hit
+CECT5198_NODE_1121_length_213_cov_152.981_ID_2241	213	43.7	152.981	100.0	96.0	kept	reference hit
+CECT5198_NODE_1122_length_212_cov_1.71975_ID_2243	212	34.0	1.71975	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1123_length_212_cov_1.1465_ID_2245	212	58.5	1.1465	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1124_length_212_cov_1.1465_ID_2247	212	52.8	1.1465	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1125_length_212_cov_1.71975_ID_2249	212	47.6	1.71975	100.0	95.3	kept	reference hit
+CECT5198_NODE_1126_length_212_cov_2.00637_ID_2251	212	34.4	2.00637	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1127_length_212_cov_1.53503_ID_2253	212	59.9	1.53503	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1128_length_212_cov_1.12102_ID_2255	212	46.7	1.12102	99.5	96.2	kept	reference hit
+CECT5198_NODE_1129_length_212_cov_1.19108_ID_2257	212	53.8	1.19108	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1130_length_212_cov_0.707006_ID_2259	212	42.9	0.707006	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1131_length_211_cov_1.08974_ID_2261	211	48.8	1.08974	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1132_length_211_cov_0.967949_ID_2263	211	49.3	0.967949	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1133_length_211_cov_1.15385_ID_2265	211	59.2	1.15385	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1134_length_211_cov_0.967949_ID_2267	211	44.5	0.967949	99.1	89.0	kept	reference hit
+CECT5198_NODE_1135_length_211_cov_1.73077_ID_2269	211	48.8	1.73077	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1136_length_211_cov_1.15385_ID_2271	211	62.1	1.15385	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1137_length_211_cov_1.15385_ID_2273	211	31.8	1.15385	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1138_length_211_cov_0.865385_ID_2275	211	65.9	0.865385	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1139_length_211_cov_0.942308_ID_2277	211	44.5	0.942308	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1140_length_211_cov_0.967949_ID_2279	211	38.4	0.967949	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1141_length_211_cov_1.15385_ID_2281	211	32.2	1.15385	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1142_length_211_cov_1.15385_ID_2283	211	60.7	1.15385	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1143_length_211_cov_1.07692_ID_2285	211	61.6	1.07692	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1144_length_211_cov_0.967949_ID_2287	211	60.2	0.967949	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1145_length_211_cov_1.72436_ID_2289	211	42.7	1.72436	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1146_length_211_cov_0.974359_ID_2291	211	64.5	0.974359	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1147_length_211_cov_1.15385_ID_2293	211	41.7	1.15385	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1148_length_211_cov_1.15385_ID_2295	211	56.9	1.15385	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1149_length_211_cov_0.961538_ID_2297	211	58.3	0.961538	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1150_length_211_cov_1.54487_ID_2299	211	37.4	1.54487	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1151_length_211_cov_0.570513_ID_2301	211	65.4	0.570513	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1152_length_211_cov_1.64103_ID_2303	211	56.9	1.64103	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1153_length_211_cov_1.05769_ID_2305	211	64.9	1.05769	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1154_length_211_cov_1.89744_ID_2307	211	43.1	1.89744	43.6	100.0	kept	reference hit
+CECT5198_NODE_1155_length_211_cov_0.980769_ID_2309	211	42.7	0.980769	97.2	91.7	kept	reference hit
+CECT5198_NODE_1156_length_211_cov_1.26282_ID_2311	211	48.8	1.26282	100.0	96.2	kept	reference hit
+CECT5198_NODE_1157_length_210_cov_0.870968_ID_2313	210	60.0	0.870968	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1158_length_210_cov_0.870968_ID_2315	210	41.9	0.870968	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1159_length_210_cov_0.922581_ID_2317	210	59.0	0.922581	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1160_length_210_cov_1.16129_ID_2319	210	32.4	1.16129	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1161_length_210_cov_1.36774_ID_2321	210	48.1	1.36774	100.0	98.1	kept	reference hit
+CECT5198_NODE_1162_length_210_cov_1.55484_ID_2323	210	36.7	1.55484	96.7	89.2	kept	reference hit
+CECT5198_NODE_1163_length_210_cov_0.870968_ID_2325	210	49.5	0.870968	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1164_length_210_cov_1.55484_ID_2327	210	60.0	1.55484	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1165_length_210_cov_1.16129_ID_2329	210	37.1	1.16129	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1166_length_210_cov_0.974194_ID_2331	210	69.5	0.974194	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1167_length_210_cov_0.870968_ID_2333	210	37.1	0.870968	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1168_length_210_cov_1.16129_ID_2335	210	64.3	1.16129	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1169_length_210_cov_0.974194_ID_2337	210	45.7	0.974194	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1170_length_210_cov_1.16129_ID_2339	210	61.0	1.16129	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1171_length_210_cov_1.70968_ID_2341	210	29.0	1.70968	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1172_length_210_cov_0.916129_ID_2343	210	40.5	0.916129	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1173_length_209_cov_1.07792_ID_2345	209	51.7	1.07792	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1174_length_209_cov_1.75325_ID_2347	209	45.9	1.75325	98.6	94.7	kept	reference hit
+CECT5198_NODE_1175_length_209_cov_1.37013_ID_2349	209	54.5	1.37013	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1176_length_209_cov_1.16883_ID_2351	209	54.1	1.16883	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1177_length_209_cov_0.798701_ID_2353	209	61.7	0.798701	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1178_length_209_cov_1.16883_ID_2355	209	54.5	1.16883	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1179_length_209_cov_1.16883_ID_2357	209	66.0	1.16883	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1180_length_209_cov_1.16883_ID_2359	209	63.6	1.16883	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1181_length_209_cov_1.16883_ID_2361	209	59.8	1.16883	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1182_length_209_cov_1.56494_ID_2363	209	37.8	1.56494	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1183_length_209_cov_0.980519_ID_2365	209	46.9	0.980519	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1184_length_209_cov_0.980519_ID_2367	209	28.2	0.980519	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1185_length_209_cov_0.980519_ID_2369	209	49.3	0.980519	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1186_length_209_cov_0.714286_ID_2371	209	45.5	0.714286	100.0	93.8	kept	reference hit
+CECT5198_NODE_1187_length_209_cov_1.26623_ID_2373	209	64.6	1.26623	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1188_length_209_cov_0.980519_ID_2375	209	59.8	0.980519	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1189_length_209_cov_0.922078_ID_2377	209	60.3	0.922078	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1190_length_209_cov_244.006_ID_2379	209	48.3	244.006	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1191_length_209_cov_0.649351_ID_2381	209	46.9	0.649351	100.0	99.3	kept	reference hit
+CECT5198_NODE_1192_length_209_cov_0.733766_ID_2383	209	47.8	0.733766	36.4	88.3	kept	reference hit
+CECT5198_NODE_1193_length_209_cov_1.99351_ID_2385	209	43.1	1.99351	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1194_length_209_cov_75.7143_ID_2387	209	45.0	75.7143	100.0	97.4	kept	reference hit
+CECT5198_NODE_1195_length_208_cov_1.47059_ID_2389	208	35.6	1.47059	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1196_length_208_cov_1.17647_ID_2391	208	56.2	1.17647	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1197_length_208_cov_1.17647_ID_2393	208	43.8	1.17647	99.0	96.6	kept	reference hit
+CECT5198_NODE_1198_length_208_cov_1.57516_ID_2395	208	63.9	1.57516	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1199_length_208_cov_1.17647_ID_2397	208	50.5	1.17647	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1200_length_208_cov_0.986928_ID_2399	208	51.0	0.986928	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1201_length_208_cov_1.59477_ID_2401	208	60.1	1.59477	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1202_length_208_cov_1.17647_ID_2403	208	43.8	1.17647	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1203_length_208_cov_1.11111_ID_2405	208	61.5	1.11111	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1204_length_208_cov_0.647059_ID_2407	208	50.5	0.647059	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1205_length_208_cov_2.03268_ID_2409	208	49.5	2.03268	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1206_length_208_cov_0.784314_ID_2411	208	66.3	0.784314	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1207_length_207_cov_0.993421_ID_2413	207	52.7	0.993421	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1208_length_207_cov_1.18421_ID_2415	207	32.9	1.18421	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1209_length_207_cov_1.77632_ID_2417	207	43.5	1.77632	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1210_length_207_cov_1.18421_ID_2419	207	59.9	1.18421	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1211_length_207_cov_1.08553_ID_2421	207	61.4	1.08553	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1212_length_207_cov_1.18421_ID_2423	207	57.5	1.18421	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1213_length_207_cov_1.48026_ID_2425	207	56.0	1.48026	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1214_length_207_cov_1.17105_ID_2427	207	61.8	1.17105	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1215_length_207_cov_1.18421_ID_2429	207	57.0	1.18421	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1216_length_207_cov_1.13158_ID_2431	207	42.5	1.13158	99.0	95.6	kept	reference hit
+CECT5198_NODE_1217_length_207_cov_1.13158_ID_2433	207	52.7	1.13158	99.5	96.1	kept	reference hit
+CECT5198_NODE_1218_length_207_cov_1.05921_ID_2435	207	45.9	1.05921	100.0	98.6	kept	reference hit
+CECT5198_NODE_1219_length_207_cov_1.02632_ID_2437	207	53.6	1.02632	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1220_length_206_cov_1.19205_ID_2439	206	65.0	1.19205	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1221_length_206_cov_2.38411_ID_2441	206	40.8	2.38411	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1222_length_206_cov_1.78808_ID_2443	206	61.2	1.78808	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1223_length_206_cov_0.89404_ID_2445	206	54.9	0.89404	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1224_length_206_cov_1.49007_ID_2447	206	62.6	1.49007	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1225_length_206_cov_1.76821_ID_2449	206	49.0	1.76821	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1226_length_206_cov_2.19205_ID_2451	206	41.3	2.19205	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1227_length_206_cov_1.19205_ID_2453	206	64.1	1.19205	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1228_length_206_cov_1_ID_2455	206	48.1	1.0	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1229_length_206_cov_1_ID_2457	206	54.4	1.0	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1230_length_206_cov_1.01325_ID_2459	206	70.4	1.01325	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1231_length_206_cov_1.78808_ID_2461	206	58.7	1.78808	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1232_length_206_cov_1.78808_ID_2463	206	59.7	1.78808	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1233_length_206_cov_0.89404_ID_2465	206	61.2	0.89404	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1234_length_206_cov_1.19205_ID_2467	206	40.3	1.19205	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1235_length_206_cov_1.19205_ID_2469	206	51.5	1.19205	100.0	95.1	kept	reference hit
+CECT5198_NODE_1236_length_206_cov_1.28477_ID_2471	206	40.3	1.28477	0.0	0.0	kept	Vibrio-like GC
+CECT5198_NODE_1237_length_206_cov_1.52318_ID_2473	206	57.3	1.52318	0.0	0.0	removed	no reference hit + atypical GC
+CECT5198_NODE_1238_length_206_cov_1.45033_ID_2475	206	47.1	1.45033	100.0	93.2	kept	reference hit
+CECT5198_NODE_1239_length_204_cov_134.322_ID_2477	204	51.0	134.322	100.0	100.0	kept	reference hit
+CECT5198_NODE_1240_length_203_cov_124.831_ID_2479	203	40.9	124.831	100.0	82.4	kept	reference hit
+CECT5198_NODE_1241_length_202_cov_168.116_ID_2481	202	38.1	168.116	100.0	92.6	kept	reference hit
+CECT5198_NODE_1242_length_202_cov_185.442_ID_2483	202	49.0	185.442	100.0	100.0	kept	reference hit
+CECT5198_NODE_1243_length_202_cov_125.639_ID_2485	202	48.5	125.639	100.0	100.0	kept	reference hit
+CECT5198_NODE_1244_length_202_cov_116.381_ID_2487	202	50.0	116.381	100.0	100.0	kept	reference hit
+CECT5198_NODE_1245_length_200_cov_95.9517_ID_2489	200	52.5	95.9517	89.0	89.8	kept	reference hit
+CECT5198_NODE_1246_length_199_cov_202.944_ID_2491	199	52.8	202.944	100.0	100.0	removed	too short
+CECT5198_NODE_1247_length_199_cov_244.299_ID_2493	199	50.8	244.299	100.0	100.0	removed	too short
+CECT5198_NODE_1248_length_194_cov_445.295_ID_2495	194	41.8	445.295	0.0	0.0	removed	too short
+CECT5198_NODE_1249_length_194_cov_272.842_ID_2497	194	52.6	272.842	100.0	100.0	removed	too short
+CECT5198_NODE_1250_length_191_cov_80.7059_ID_2499	191	38.7	80.7059	0.0	0.0	removed	too short
+CECT5198_NODE_1251_length_186_cov_72.145_ID_2501	186	43.0	72.145	87.6	100.0	removed	too short
+CECT5198_NODE_1252_length_186_cov_1742.47_ID_2503	186	41.9	1742.47	100.0	99.5	removed	too short
+CECT5198_NODE_1253_length_186_cov_369.687_ID_2505	186	38.2	369.687	100.0	98.8	removed	too short
+CECT5198_NODE_1254_length_185_cov_72.4692_ID_2507	185	44.3	72.4692	100.0	98.1	removed	too short
+CECT5198_NODE_1255_length_180_cov_180_ID_2509	180	56.1	180.0	100.0	100.0	removed	too short
+CECT5198_NODE_1256_length_180_cov_199.664_ID_2511	180	51.1	199.664	99.4	95.8	removed	too short
+CECT5198_NODE_1257_length_179_cov_93.379_ID_2513	179	32.4	93.379	44.7	97.5	removed	too short
+CECT5198_NODE_1258_length_179_cov_165.169_ID_2515	179	51.4	165.169	99.4	95.8	removed	too short
+CECT5198_NODE_1259_length_178_cov_67.8943_ID_2517	178	49.4	67.8943	100.0	100.0	removed	too short
+CECT5198_NODE_1260_length_177_cov_299.893_ID_2519	177	46.9	299.893	31.1	100.0	removed	too short
+CECT5198_NODE_1261_length_175_cov_207.325_ID_2521	175	54.3	207.325	71.4	98.9	removed	too short
+CECT5198_NODE_1262_length_175_cov_169.3_ID_2523	175	28.6	169.3	100.0	100.0	removed	too short
+CECT5198_NODE_1263_length_175_cov_251.392_ID_2525	175	52.6	251.392	100.0	100.0	removed	too short
+CECT5198_NODE_1264_length_174_cov_225.345_ID_2527	174	48.3	225.345	55.7	100.0	removed	too short
+CECT5198_NODE_1265_length_173_cov_137.008_ID_2529	173	52.6	137.008	0.0	0.0	removed	too short
+CECT5198_NODE_1266_length_171_cov_150.526_ID_2531	171	48.5	150.526	100.0	100.0	removed	too short
+CECT5198_NODE_1267_length_170_cov_222.452_ID_2533	170	47.1	222.452	0.0	0.0	removed	too short
+CECT5198_NODE_1268_length_169_cov_155.561_ID_2535	169	50.3	155.561	100.0	92.3	removed	too short
+CECT5198_NODE_1269_length_169_cov_80.6053_ID_2537	169	39.6	80.6053	100.0	80.5	removed	too short
+CECT5198_NODE_1270_length_167_cov_213.67_ID_2539	167	49.1	213.67	100.0	100.0	removed	too short
+CECT5198_NODE_1271_length_167_cov_198.036_ID_2541	167	56.9	198.036	100.0	100.0	removed	too short
+CECT5198_NODE_1272_length_166_cov_76.3243_ID_2543	166	44.6	76.3243	100.0	96.2	removed	too short
+CECT5198_NODE_1273_length_165_cov_172.2_ID_2545	165	47.9	172.2	100.0	98.5	removed	too short
+CECT5198_NODE_1274_length_161_cov_78.0472_ID_2547	161	41.0	78.0472	39.1	98.1	removed	too short
+CECT5198_NODE_1275_length_160_cov_89.5333_ID_2549	160	51.2	89.5333	100.0	100.0	removed	too short
+CECT5198_NODE_1276_length_159_cov_104.106_ID_2551	159	50.3	104.106	95.6	88.2	removed	too short
+CECT5198_NODE_1277_length_159_cov_177.385_ID_2553	159	52.8	177.385	100.0	100.0	removed	too short
+CECT5198_NODE_1278_length_156_cov_375.04_ID_2555	156	33.3	375.04	100.0	100.0	removed	too short
+CECT5198_NODE_1279_length_154_cov_73.798_ID_2557	154	43.5	73.798	100.0	90.3	removed	too short
+CECT5198_NODE_1280_length_153_cov_306.061_ID_2559	153	51.6	306.061	0.0	0.0	removed	too short
+CECT5198_NODE_1281_length_153_cov_286.939_ID_2561	153	50.3	286.939	100.0	100.0	removed	too short
+CECT5198_NODE_1282_length_151_cov_251.469_ID_2563	151	45.7	251.469	100.0	96.7	removed	too short
+CECT5198_NODE_1283_length_151_cov_658.323_ID_2565	151	47.7	658.323	100.0	100.0	removed	too short
+CECT5198_NODE_1284_length_150_cov_302.158_ID_2567	150	42.7	302.158	100.0	90.9	removed	too short
+CECT5198_NODE_1285_length_147_cov_166.109_ID_2569	147	53.1	166.109	99.3	99.3	removed	too short
+CECT5198_NODE_1286_length_145_cov_189.933_ID_2571	145	50.3	189.933	100.0	100.0	removed	too short
+CECT5198_NODE_1287_length_144_cov_303.034_ID_2573	144	50.7	303.034	56.9	100.0	removed	too short
+CECT5198_NODE_1288_length_144_cov_270.528_ID_2575	144	45.8	270.528	100.0	91.0	removed	too short
+CECT5198_NODE_1289_length_143_cov_317.58_ID_2577	143	47.6	317.58	0.0	0.0	removed	too short
+CECT5198_NODE_1290_length_143_cov_71.3864_ID_2579	143	43.4	71.3864	100.0	96.7	removed	too short
+CECT5198_NODE_1291_length_143_cov_234.057_ID_2581	143	34.3	234.057	100.0	93.1	removed	too short
+CECT5198_NODE_1292_length_142_cov_203.425_ID_2583	142	51.4	203.425	0.0	0.0	removed	too short
+CECT5198_NODE_1293_length_140_cov_223.624_ID_2585	140	43.6	223.624	100.0	100.0	removed	too short
+CECT5198_NODE_1294_length_138_cov_189.133_ID_2587	138	48.6	189.133	100.0	100.0	removed	too short
+CECT5198_NODE_1295_length_138_cov_64.0482_ID_2589	138	39.9	64.0482	100.0	100.0	removed	too short
+CECT5198_NODE_1296_length_138_cov_152.916_ID_2591	138	42.0	152.916	100.0	100.0	removed	too short
+CECT5198_NODE_1297_length_138_cov_308.024_ID_2593	138	34.8	308.024	100.0	94.9	removed	too short
+CECT5198_NODE_1298_length_136_cov_154.926_ID_2595	136	47.8	154.926	0.0	0.0	removed	too short
+CECT5198_NODE_1299_length_132_cov_232.013_ID_2597	132	40.2	232.013	100.0	94.7	removed	too short
+CECT5198_NODE_1300_length_131_cov_125.697_ID_2599	131	49.6	125.697	0.0	0.0	removed	too short
+CECT5198_NODE_1301_length_128_cov_111.329_ID_2601	128	47.7	111.329	50.8	98.2	removed	too short
+CECT5198_NODE_1302_length_127_cov_508.403_ID_2603	127	45.7	508.403	0.0	0.0	removed	too short
+CECT5198_NODE_1303_length_127_cov_70.1806_ID_2605	127	36.2	70.1806	100.0	96.1	removed	too short
+CECT5198_NODE_1304_length_125_cov_130.943_ID_2607	125	42.4	130.943	99.2	95.2	removed	too short
+CECT5198_NODE_1305_length_123_cov_191.868_ID_2609	123	48.8	191.868	100.0	91.9	removed	too short
+CECT5198_NODE_1306_length_118_cov_143.746_ID_2611	118	49.2	143.746	0.0	0.0	removed	too short
+CECT5198_NODE_1307_length_118_cov_156.206_ID_2613	118	46.6	156.206	100.0	94.9	removed	too short
+CECT5198_NODE_1308_length_118_cov_161.365_ID_2615	118	39.0	161.365	0.0	0.0	removed	too short
+CECT5198_NODE_1309_length_118_cov_324.73_ID_2617	118	53.4	324.73	0.0	0.0	removed	too short
+CECT5198_NODE_1310_length_118_cov_67.3016_ID_2619	118	40.7	67.3016	100.0	100.0	removed	too short
+CECT5198_NODE_1311_length_114_cov_247.085_ID_2621	114	48.2	247.085	0.0	0.0	removed	too short
+CECT5198_NODE_1312_length_114_cov_178.695_ID_2623	114	56.1	178.695	100.0	91.2	removed	too short
+CECT5198_NODE_1313_length_114_cov_283.525_ID_2625	114	45.6	283.525	100.0	93.1	removed	too short
+CECT5198_NODE_1314_length_113_cov_82.9483_ID_2627	113	47.8	82.9483	100.0	93.8	removed	too short
+CECT5198_NODE_1315_length_112_cov_1370.47_ID_2629	112	47.3	1370.47	100.0	97.3	removed	too short
+CECT5198_NODE_1316_length_112_cov_1352.51_ID_2631	112	49.1	1352.51	100.0	99.1	removed	too short
+CECT5198_NODE_1317_length_112_cov_320.193_ID_2633	112	40.2	320.193	0.0	0.0	removed	too short
+CECT5198_NODE_1318_length_111_cov_231.107_ID_2635	111	50.5	231.107	0.0	0.0	removed	too short
+CECT5198_NODE_1319_length_111_cov_249.625_ID_2637	111	48.6	249.625	100.0	91.0	removed	too short
+CECT5198_NODE_1320_length_111_cov_704.607_ID_2639	111	29.7	704.607	100.0	98.9	removed	too short
+CECT5198_NODE_1321_length_111_cov_211.393_ID_2641	111	48.6	211.393	0.0	0.0	removed	too short
+CECT5198_NODE_1322_length_110_cov_120.236_ID_2643	110	47.3	120.236	100.0	100.0	removed	too short
+CECT5198_NODE_1323_length_110_cov_318.582_ID_2645	110	48.2	318.582	54.5	100.0	removed	too short
+CECT5198_NODE_1324_length_110_cov_192.673_ID_2647	110	44.5	192.673	100.0	100.0	removed	too short
+CECT5198_NODE_1325_length_109_cov_79.9815_ID_2649	109	39.4	79.9815	0.0	0.0	removed	too short
+CECT5198_NODE_1326_length_109_cov_148.093_ID_2651	109	25.7	148.093	100.0	99.1	removed	too short
+CECT5198_NODE_1327_length_109_cov_241.463_ID_2653	109	45.0	241.463	99.1	100.0	removed	too short
+CECT5198_NODE_1328_length_109_cov_228.463_ID_2655	109	39.4	228.463	97.2	91.5	removed	too short
+CECT5198_NODE_1329_length_108_cov_152.83_ID_2657	108	41.7	152.83	50.9	100.0	removed	too short
+CECT5198_NODE_1330_length_108_cov_552.434_ID_2659	108	38.0	552.434	0.0	0.0	removed	too short
+CECT5198_NODE_1331_length_108_cov_66.0189_ID_2661	108	37.0	66.0189	0.0	0.0	removed	too short
+CECT5198_NODE_1332_length_108_cov_6214.66_ID_2663	108	42.6	6214.66	100.0	98.1	removed	too short
+CECT5198_NODE_1333_length_108_cov_1840.51_ID_2665	108	49.1	1840.51	100.0	99.1	removed	too short
+CECT5198_NODE_1334_length_107_cov_71.3846_ID_2667	107	43.0	71.3846	0.0	0.0	removed	too short
+CECT5198_NODE_1335_length_107_cov_71_ID_2669	107	43.9	71.0	0.0	0.0	removed	too short
+CECT5198_NODE_1336_length_107_cov_602.865_ID_2671	107	45.8	602.865	0.0	0.0	removed	too short
+CECT5198_NODE_1337_length_107_cov_155.962_ID_2673	107	44.9	155.962	51.4	98.2	removed	too short
+CECT5198_NODE_1338_length_107_cov_224.827_ID_2675	107	51.4	224.827	0.0	0.0	removed	too short
+CECT5198_NODE_1339_length_106_cov_123.176_ID_2677	106	43.4	123.176	0.0	0.0	removed	too short
+CECT5198_NODE_1340_length_106_cov_2175.94_ID_2679	106	50.0	2175.94	0.0	0.0	removed	too short
+CECT5198_NODE_1341_length_105_cov_108.18_ID_2681	105	40.0	108.18	0.0	0.0	removed	too short
+CECT5198_NODE_1342_length_105_cov_81.98_ID_2683	105	37.1	81.98	0.0	0.0	removed	too short
+CECT5198_NODE_1343_length_105_cov_209.62_ID_2685	105	54.3	209.62	100.0	94.3	removed	too short
+CECT5198_NODE_1344_length_104_cov_100.306_ID_2687	104	43.3	100.306	52.9	100.0	removed	too short
+CECT5198_NODE_1345_length_104_cov_74.8367_ID_2689	104	44.2	74.8367	0.0	0.0	removed	too short
+CECT5198_NODE_1346_length_103_cov_138.5_ID_2691	103	44.7	138.5	0.0	0.0	removed	too short
+CECT5198_NODE_1347_length_103_cov_93.375_ID_2693	103	48.5	93.375	98.1	94.1	removed	too short
+CECT5198_NODE_1348_length_102_cov_345.234_ID_2695	102	71.6	345.234	0.0	0.0	removed	too short
+CECT5198_NODE_1349_length_102_cov_997.681_ID_2697	102	25.5	997.681	0.0	0.0	removed	too short
+CECT5198_NODE_1350_length_102_cov_214.787_ID_2699	102	52.0	214.787	100.0	100.0	removed	too short
+CECT5198_NODE_1351_length_101_cov_769.478_ID_2701	101	43.6	769.478	0.0	0.0	removed	too short
+CECT5198_NODE_1352_length_100_cov_77.3556_ID_2703	100	38.0	77.3556	0.0	0.0	removed	too short
+CECT5198_NODE_1353_length_100_cov_168.489_ID_2705	100	50.0	168.489	100.0	97.0	removed	too short
+CECT5198_NODE_1354_length_100_cov_62.7111_ID_2707	100	44.0	62.7111	69.0	100.0	removed	too short
+CECT5198_NODE_1355_length_100_cov_470.956_ID_2709	100	30.0	470.956	100.0	95.0	removed	too short
+CECT5198_NODE_1356_length_99_cov_183.614_ID_2711	99	57.6	183.614	100.0	100.0	removed	too short
+CECT5198_NODE_1357_length_99_cov_295.909_ID_2713	99	41.4	295.909	0.0	0.0	removed	too short
+CECT5198_NODE_1358_length_99_cov_962.636_ID_2715	99	39.4	962.636	55.6	100.0	removed	too short
+CECT5198_NODE_1359_length_99_cov_2901.68_ID_2717	99	43.4	2901.68	0.0	0.0	removed	too short
+CECT5198_NODE_1360_length_99_cov_289.909_ID_2719	99	37.4	289.909	100.0	97.0	removed	too short
+CECT5198_NODE_1361_length_98_cov_164.14_ID_2721	98	39.8	164.14	100.0	98.1	removed	too short
+CECT5198_NODE_1362_length_97_cov_1507.17_ID_2723	97	49.5	1507.17	0.0	0.0	removed	too short
+CECT5198_NODE_1363_length_97_cov_1941.86_ID_2725	97	46.4	1941.86	100.0	100.0	removed	too short
+CECT5198_NODE_1364_length_97_cov_168.238_ID_2727	97	53.6	168.238	100.0	97.9	removed	too short
+CECT5198_NODE_1365_length_97_cov_2.14286_ID_2729	97	56.7	2.14286	0.0	0.0	removed	too short
+CECT5198_NODE_1366_length_96_cov_297.683_ID_2731	96	52.1	297.683	0.0	0.0	removed	too short
+CECT5198_NODE_1367_length_94_cov_1642_ID_2733	94	57.4	1642.0	0.0	0.0	removed	too short
+CECT5198_NODE_1368_length_92_cov_126.946_ID_2735	92	50.0	126.946	0.0	0.0	removed	too short
+CECT5198_NODE_1369_length_92_cov_384.324_ID_2737	92	62.0	384.324	0.0	0.0	removed	too short
+CECT5198_NODE_1370_length_90_cov_119.829_ID_2739	90	35.6	119.829	0.0	0.0	removed	too short
+CECT5198_NODE_1371_length_90_cov_1.02857_ID_2741	90	64.4	1.02857	0.0	0.0	removed	too short
+CECT5198_NODE_1372_length_89_cov_439.588_ID_2743	89	28.1	439.588	100.0	100.0	removed	too short
+CECT5198_NODE_1373_length_89_cov_243.029_ID_2745	89	42.7	243.029	96.6	100.0	removed	too short
+CECT5198_NODE_1374_length_88_cov_229.212_ID_2747	88	45.5	229.212	0.0	0.0	removed	too short
+CECT5198_NODE_1375_length_87_cov_83.9375_ID_2749	87	35.6	83.9375	0.0	0.0	removed	too short
+CECT5198_NODE_1376_length_86_cov_253.548_ID_2751	86	37.2	253.548	98.8	96.5	removed	too short
+CECT5198_NODE_1377_length_86_cov_277.903_ID_2753	86	47.7	277.903	100.0	98.8	removed	too short
+CECT5198_NODE_1378_length_86_cov_78.6774_ID_2755	86	39.5	78.6774	100.0	100.0	removed	too short
+CECT5198_NODE_1379_length_84_cov_260.552_ID_2757	84	51.2	260.552	0.0	0.0	removed	too short
+CECT5198_NODE_1380_length_83_cov_1.64286_ID_2759	83	47.0	1.64286	0.0	0.0	removed	too short
+CECT5198_NODE_1381_length_82_cov_227.296_ID_2761	82	51.2	227.296	100.0	97.6	removed	too short
+CECT5198_NODE_1382_length_81_cov_126.462_ID_2763	81	42.0	126.462	96.3	100.0	removed	too short
+CECT5198_NODE_1383_length_80_cov_129.56_ID_2765	80	38.8	129.56	0.0	0.0	removed	too short
+CECT5198_NODE_1384_length_80_cov_224.76_ID_2767	80	52.5	224.76	100.0	95.0	removed	too short
+CECT5198_NODE_1385_length_78_cov_399.739_ID_2769	78	42.3	399.739	100.0	100.0	removed	too short
+CECT5198_NODE_1386_length_77_cov_125.545_ID_2771	77	50.6	125.545	0.0	0.0	removed	too short
+CECT5198_NODE_1387_length_77_cov_196.409_ID_2773	77	45.5	196.409	100.0	97.4	removed	too short
+CECT5198_NODE_1388_length_77_cov_551.5_ID_2775	77	32.5	551.5	100.0	97.4	removed	too short
+CECT5198_NODE_1389_length_76_cov_551.381_ID_2777	76	42.1	551.381	0.0	0.0	removed	too short
+CECT5198_NODE_1390_length_75_cov_288.75_ID_2779	75	48.0	288.75	100.0	95.8	removed	too short
+CECT5198_NODE_1391_length_74_cov_390_ID_2781	74	37.8	390.0	95.9	94.4	removed	too short
+CECT5198_NODE_1392_length_74_cov_140.895_ID_2783	74	45.9	140.895	95.9	100.0	removed	too short
+CECT5198_NODE_1393_length_71_cov_167.25_ID_2785	71	39.4	167.25	0.0	0.0	removed	too short
+CECT5198_NODE_1394_length_68_cov_173.154_ID_2787	68	41.2	173.154	95.6	95.4	removed	too short
+CECT5198_NODE_1395_length_66_cov_131.909_ID_2789	66	25.8	131.909	100.0	100.0	removed	too short
+CECT5198_NODE_1396_length_66_cov_148.455_ID_2791	66	31.8	148.455	100.0	95.5	removed	too short
+CECT5198_NODE_1397_length_62_cov_1993_ID_2793	62	43.5	1993.0	0.0	0.0	removed	too short
+CECT5198_NODE_1398_length_62_cov_10248.6_ID_2795	62	32.3	10248.6	0.0	0.0	removed	too short
+CECT5198_NODE_1399_length_62_cov_3.71429_ID_2797	62	56.5	3.71429	0.0	0.0	removed	too short
+CECT5198_NODE_1400_length_62_cov_9.42857_ID_2799	62	41.9	9.42857	0.0	0.0	removed	too short
+CECT5198_NODE_1401_length_62_cov_25.7143_ID_2801	62	41.9	25.7143	0.0	0.0	removed	too short
+CECT5198_NODE_1402_length_61_cov_562.167_ID_2803	61	50.8	562.167	100.0	98.4	removed	too short
+CECT5198_NODE_1403_length_61_cov_402.333_ID_2805	61	50.8	402.333	0.0	0.0	removed	too short
+CECT5198_NODE_1404_length_60_cov_591.4_ID_2807	60	43.3	591.4	0.0	0.0	removed	too short
+CECT5198_NODE_1405_length_60_cov_474.6_ID_2809	60	28.3	474.6	100.0	100.0	removed	too short
+CECT5198_NODE_1406_length_60_cov_436.2_ID_2811	60	46.7	436.2	100.0	95.1	removed	too short
+CECT5198_NODE_1407_length_59_cov_134.5_ID_2813	59	54.2	134.5	0.0	0.0	removed	too short
+CECT5198_NODE_1408_length_59_cov_780.5_ID_2815	59	28.8	780.5	100.0	100.0	removed	too short
+CECT5198_NODE_1409_length_59_cov_346_ID_2817	59	54.2	346.0	100.0	100.0	removed	too short
+CECT5198_NODE_1410_length_57_cov_78.5_ID_2819	57	31.6	78.5	87.7	96.0	removed	too short
+CECT5198_NODE_1411_length_57_cov_451_ID_2821	57	43.9	451.0	0.0	0.0	removed	too short
+CECT5198_NODE_1412_length_57_cov_136_ID_2823	57	50.9	136.0	100.0	100.0	removed	too short
+CECT5198_NODE_1413_length_57_cov_971_ID_2825	57	45.6	971.0	0.0	0.0	removed	too short
+CECT5198_NODE_1414_length_57_cov_140_ID_2827	57	45.6	140.0	100.0	100.0	removed	too short
+CECT5198_NODE_1415_length_57_cov_9281_ID_2829	57	35.1	9281.0	0.0	0.0	removed	too short
+CECT5198_NODE_1416_length_56_cov_504_ID_2831	56	48.2	504.0	0.0	0.0	removed	too short
+CECT5198_NODE_1417_length_56_cov_348_ID_2833	56	0.0	348.0	0.0	0.0	removed	too short

@@ -1,0 +1,15 @@
+--- a/scoary/methods.py	2026-10-25 11:03:31.262411235 +0100
++++ b/scoary/methods.py	2026-10-25 11:03:31.273937602 +0100
+@@ -16,6 +16,12 @@
+ import re
+ from multiprocessing import Pool, Value
+ from scipy import stats as ss
++# Compatibility shim (mics-vvulnificus): scipy.stats.binom_test was removed in
++# SciPy 1.12. binomtest(k, n, p).pvalue returns the identical two-sided value.
++if not hasattr(ss, "binom_test"):
++    def _binom_test(x, n=None, p=0.5, alternative="two-sided"):
++        return ss.binomtest(int(x), int(n), p, alternative=alternative).pvalue
++    ss.binom_test = _binom_test
+ from scipy import spatial
+ from .citation import citation
+ from .classes import Matrix

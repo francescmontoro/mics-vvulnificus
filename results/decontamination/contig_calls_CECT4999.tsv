@@ -1,0 +1,3 @@
+contig	length	GC	spades_cov	ref_cov_pct	ref_pident	decision	reason
+CECT4999_ChroII	1700225	47.1		90.3	100.0	kept	reference hit
+CECT4999_ChroI	3394464	46.3		88.3	100.0	kept	reference hit

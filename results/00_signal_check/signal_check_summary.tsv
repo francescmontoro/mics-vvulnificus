@@ -1,0 +1,3 @@
+antibiotic	n_resistant	monophyletic_clusters	fitch_changes	independent_events	topo_obs	topo_null	topo_p_clustered	parsimony_null_mean	parsimony_percentile	verdict
+GEN2	14	10	7	10	8.473	8.742	0.2857	10.19	3.3	Signal potentially recoverable (>=4 independent events)
+STZ	8	4	4	4	8.179	8.761	0.2418	7.25	0.2	Signal potentially recoverable (>=4 independent events)

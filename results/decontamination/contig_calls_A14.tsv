@@ -1,0 +1,125 @@
+contig	length	GC	spades_cov	ref_cov_pct	ref_pident	decision	reason
+NODE_1_length_756848_cov_2.10638_ID_11668	756848	46.4	2.10638	97.1	100.0	kept	reference hit
+NODE_2_length_471492_cov_2.06345_ID_11670	471492	46.5	2.06345	88.7	100.0	kept	reference hit
+NODE_3_length_468530_cov_2.18884_ID_11676	468530	47.7	2.18884	84.2	97.3	kept	reference hit
+NODE_4_length_455270_cov_2.14279_ID_11678	455270	47.4	2.14279	90.3	100.0	kept	reference hit
+NODE_5_length_335064_cov_2.0068_ID_11680	335064	46.2	2.0068	96.9	100.0	kept	reference hit
+NODE_6_length_277015_cov_2.07527_ID_11682	277015	46.5	2.07527	94.7	100.0	kept	reference hit
+NODE_7_length_260457_cov_2.06528_ID_11684	260457	46.7	2.06528	94.2	99.2	kept	reference hit
+NODE_8_length_245172_cov_2.08531_ID_11688	245172	46.8	2.08531	98.9	100.0	kept	reference hit
+NODE_9_length_216455_cov_2.02936_ID_11690	216455	45.9	2.02936	90.9	98.0	kept	reference hit
+NODE_10_length_210458_cov_2.05834_ID_11692	210458	46.7	2.05834	97.9	100.0	kept	reference hit
+NODE_11_length_185619_cov_2.0675_ID_11694	185619	47.4	2.0675	99.4	96.4	kept	reference hit
+NODE_12_length_176614_cov_2.03521_ID_11696	176614	46.8	2.03521	96.8	100.0	kept	reference hit
+NODE_13_length_148808_cov_2.05471_ID_11698	148808	46.2	2.05471	76.9	100.0	kept	reference hit
+NODE_14_length_140138_cov_2.11436_ID_11700	140138	47.8	2.11436	98.5	100.0	kept	reference hit
+NODE_15_length_120523_cov_2.10577_ID_11702	120523	47.1	2.10577	82.7	98.2	kept	reference hit
+NODE_16_length_80177_cov_2.07608_ID_11704	80177	48.1	2.07608	100.0	98.9	kept	reference hit
+NODE_17_length_74301_cov_2.05728_ID_11706	74301	47.3	2.05728	95.6	100.0	kept	reference hit
+NODE_18_length_64600_cov_2.09104_ID_11708	64600	46.8	2.09104	100.0	100.0	kept	reference hit
+NODE_19_length_34939_cov_2.07147_ID_11710	34939	48.0	2.07147	99.5	100.0	kept	reference hit
+NODE_20_length_29332_cov_6.23378_ID_11712	29332	47.6	6.23378	86.1	95.5	kept	reference hit
+NODE_21_length_27958_cov_2.06921_ID_11714	27958	46.5	2.06921	88.9	96.7	kept	reference hit
+NODE_22_length_22827_cov_2.06265_ID_11716	22827	47.0	2.06265	92.8	100.0	kept	reference hit
+NODE_23_length_21199_cov_2.05166_ID_11718	21199	40.7	2.05166	34.8	99.2	kept	reference hit
+NODE_24_length_21095_cov_11.4367_ID_11720	21095	39.7	11.4367	3.4	95.7	removed	no reference hit + atypical GC
+NODE_25_length_19909_cov_10.3935_ID_11722	19909	47.4	10.3935	86.4	96.0	kept	reference hit
+NODE_26_length_15313_cov_8.55889_ID_11730	15313	46.1	8.55889	100.0	100.0	kept	reference hit
+NODE_27_length_10165_cov_18.9165_ID_11732	10165	41.4	18.9165	84.2	97.9	kept	reference hit
+NODE_28_length_8097_cov_2.21518_ID_11724	8097	39.2	2.21518	27.9	98.0	kept	reference hit
+NODE_29_length_7215_cov_2.44786_ID_11738	7215	41.6	2.44786	75.1	98.9	kept	reference hit
+NODE_30_length_6887_cov_7.06467_ID_11742	6887	41.9	7.06467	30.2	96.4	kept	reference hit
+NODE_31_length_6773_cov_2.48525_ID_11726	6773	39.0	2.48525	51.3	98.9	kept	reference hit
+NODE_32_length_6256_cov_2.21157_ID_11748	6256	44.4	2.21157	100.0	100.0	kept	reference hit
+NODE_33_length_6242_cov_10.2305_ID_11750	6242	39.0	10.2305	4.1	97.6	removed	no reference hit + atypical GC
+NODE_34_length_6116_cov_4.41183_ID_11752	6116	42.1	4.41183	45.0	100.0	kept	reference hit
+NODE_35_length_6064_cov_7.78139_ID_11754	6064	48.4	7.78139	86.7	99.0	kept	reference hit
+NODE_36_length_5658_cov_2.18654_ID_11736	5658	41.3	2.18654	49.4	95.9	kept	reference hit
+NODE_37_length_5649_cov_2.35189_ID_11756	5649	39.6	2.35189	40.6	95.4	kept	reference hit
+NODE_38_length_5485_cov_8.00501_ID_11758	5485	44.6	8.00501	0.0	0.0	kept	Vibrio-like GC
+NODE_39_length_4693_cov_1.89573_ID_11764	4693	41.5	1.89573	53.3	96.0	kept	reference hit
+NODE_40_length_4497_cov_11.9327_ID_11766	4497	41.0	11.9327	4.2	88.5	kept	Vibrio-like GC
+NODE_41_length_4443_cov_2.10935_ID_11768	4443	39.7	2.10935	22.3	97.3	kept	reference hit
+NODE_42_length_4365_cov_152.817_ID_11770	4365	39.5	152.817	0.0	0.0	removed	no reference hit + atypical GC
+NODE_43_length_4036_cov_1.99441_ID_11772	4036	40.6	1.99441	45.5	100.0	kept	reference hit
+NODE_44_length_3917_cov_2.06024_ID_11774	3917	40.0	2.06024	58.2	100.0	kept	reference hit
+NODE_45_length_3912_cov_2.54681_ID_11744	3912	41.6	2.54681	51.5	98.9	kept	reference hit
+NODE_46_length_3640_cov_2.27761_ID_11776	3640	40.1	2.27761	47.3	99.2	kept	reference hit
+NODE_47_length_3238_cov_2.02134_ID_11778	3238	47.9	2.02134	100.0	93.2	kept	reference hit
+NODE_48_length_3234_cov_3.04019_ID_11780	3234	39.6	3.04019	64.7	95.2	kept	reference hit
+NODE_49_length_2953_cov_6.58619_ID_11674	2953	40.1	6.58619	61.9	100.0	kept	reference hit
+NODE_50_length_2916_cov_2.40611_ID_11782	2916	42.8	2.40611	47.5	96.7	kept	reference hit
+NODE_51_length_2878_cov_2.25045_ID_11762	2878	41.1	2.25045	65.0	96.8	kept	reference hit
+NODE_52_length_2868_cov_2.02384_ID_11784	2868	40.7	2.02384	59.7	99.2	kept	reference hit
+NODE_53_length_2865_cov_2.0987_ID_11734	2865	41.2	2.0987	52.5	97.6	kept	reference hit
+NODE_54_length_2842_cov_2.214_ID_11786	2842	41.7	2.214	43.0	100.0	kept	reference hit
+NODE_55_length_2823_cov_7.48091_ID_11788	2823	38.9	7.48091	0.0	0.0	removed	no reference hit + atypical GC
+NODE_56_length_2670_cov_2.26449_ID_11746	2670	41.1	2.26449	63.4	96.5	kept	reference hit
+NODE_57_length_2203_cov_2.02376_ID_11790	2203	41.2	2.02376	31.2	100.0	kept	reference hit
+NODE_58_length_2109_cov_1.99453_ID_11760	2109	39.9	1.99453	41.3	97.6	kept	reference hit
+NODE_59_length_1758_cov_2.08077_ID_11792	1758	40.2	2.08077	28.8	98.8	kept	reference hit
+NODE_60_length_1756_cov_1.98552_ID_11728	1756	42.4	1.98552	66.7	98.4	kept	reference hit
+NODE_61_length_1651_cov_2.08956_ID_11794	1651	39.6	2.08956	32.2	97.6	kept	reference hit
+NODE_62_length_1589_cov_2.09597_ID_11796	1589	42.0	2.09597	54.7	95.8	kept	reference hit
+NODE_63_length_1500_cov_0.696645_ID_11798	1500	45.1	0.696645	0.0	0.0	kept	Vibrio-like GC
+NODE_64_length_1151_cov_3.45817_ID_11740	1151	40.6	3.45817	100.0	96.5	kept	reference hit
+NODE_65_length_1124_cov_1.84683_ID_11800	1124	42.3	1.84683	52.7	95.2	kept	reference hit
+NODE_66_length_1059_cov_1.75625_ID_11802	1059	43.4	1.75625	93.6	94.4	kept	reference hit
+NODE_67_length_1017_cov_17.5327_ID_11804	1017	43.1	17.5327	0.0	0.0	kept	Vibrio-like GC
+NODE_68_length_954_cov_2.09006_ID_11806	954	42.6	2.09006	26.9	97.0	kept	reference hit
+NODE_69_length_935_cov_2.04545_ID_11808	935	43.1	2.04545	43.9	99.0	kept	reference hit
+NODE_70_length_841_cov_2.09569_ID_11810	841	39.0	2.09569	40.0	97.0	kept	reference hit
+NODE_71_length_730_cov_2.10301_ID_11816	730	41.9	2.10301	45.2	94.4	kept	reference hit
+NODE_72_length_673_cov_2.31185_ID_11818	673	42.5	2.31185	100.0	96.8	kept	reference hit
+NODE_73_length_665_cov_1.9735_ID_11820	665	39.8	1.9735	91.7	97.6	kept	reference hit
+NODE_74_length_624_cov_2.23238_ID_11822	624	46.5	2.23238	76.1	95.7	kept	reference hit
+NODE_75_length_607_cov_2.35236_ID_11686	607	37.9	2.35236	95.2	94.8	kept	reference hit
+NODE_76_length_575_cov_17.2311_ID_11824	575	44.0	17.2311	0.0	0.0	kept	Vibrio-like GC
+NODE_77_length_573_cov_1.96414_ID_11826	573	54.5	1.96414	100.0	95.0	kept	reference hit
+NODE_78_length_479_cov_1.97368_ID_11828	479	51.4	1.97368	99.6	95.2	kept	reference hit
+NODE_79_length_464_cov_1.68767_ID_11830	464	46.8	1.68767	100.0	90.3	kept	reference hit
+NODE_80_length_447_cov_4.15805_ID_11832	447	40.9	4.15805	100.0	96.0	kept	reference hit
+NODE_81_length_414_cov_76.2952_ID_11834	414	59.7	76.2952	0.0	0.0	removed	no reference hit + atypical GC
+NODE_82_length_408_cov_2.1877_ID_11814	408	41.7	2.1877	100.0	96.8	kept	reference hit
+NODE_83_length_388_cov_0.017301_ID_11836	388	55.4	0.017301	0.0	0.0	removed	no reference hit + atypical GC
+NODE_84_length_378_cov_1.83154_ID_11838	378	52.1	1.83154	99.5	95.7	kept	reference hit
+NODE_85_length_375_cov_1.97464_ID_11840	375	43.5	1.97464	100.0	96.8	kept	reference hit
+NODE_86_length_369_cov_1.92593_ID_11842	369	52.0	1.92593	98.6	95.6	kept	reference hit
+NODE_87_length_369_cov_2.15185_ID_11844	369	45.5	2.15185	100.0	93.2	kept	reference hit
+NODE_88_length_362_cov_2.1673_ID_11812	362	39.5	2.1673	80.4	100.0	kept	reference hit
+NODE_89_length_360_cov_0.0191571_ID_11846	360	63.9	0.0191571	0.0	0.0	removed	no reference hit + atypical GC
+NODE_90_length_354_cov_0.00784314_ID_11848	354	67.8	0.00784314	0.0	0.0	removed	no reference hit + atypical GC
+NODE_91_length_349_cov_2.208_ID_11850	349	47.0	2.208	100.0	94.3	kept	reference hit
+NODE_92_length_342_cov_0.0288066_ID_11852	342	62.0	0.0288066	0.0	0.0	removed	no reference hit + atypical GC
+NODE_93_length_328_cov_0.0131004_ID_11854	328	67.4	0.0131004	0.0	0.0	removed	no reference hit + atypical GC
+NODE_94_length_328_cov_0.0218341_ID_11856	328	61.0	0.0218341	0.0	0.0	removed	no reference hit + atypical GC
+NODE_95_length_315_cov_0.0138889_ID_11858	315	70.8	0.0138889	0.0	0.0	removed	no reference hit + atypical GC
+NODE_96_length_314_cov_0.027907_ID_11860	314	58.0	0.027907	0.0	0.0	removed	no reference hit + atypical GC
+NODE_97_length_310_cov_0.0236967_ID_11862	310	57.7	0.0236967	0.0	0.0	removed	no reference hit + atypical GC
+NODE_98_length_309_cov_0.0190476_ID_11864	309	67.0	0.0190476	0.0	0.0	removed	no reference hit + atypical GC
+NODE_99_length_305_cov_2.36408_ID_11866	305	42.0	2.36408	100.0	100.0	kept	reference hit
+NODE_100_length_299_cov_0.01_ID_11868	299	64.2	0.01	0.0	0.0	removed	no reference hit + atypical GC
+NODE_101_length_296_cov_1.43147_ID_11870	296	53.7	1.43147	100.0	100.0	kept	reference hit
+NODE_102_length_286_cov_0.0160428_ID_11872	286	47.2	0.0160428	0.0	0.0	kept	Vibrio-like GC
+NODE_103_length_286_cov_0.0160428_ID_11874	286	65.7	0.0160428	0.0	0.0	removed	no reference hit + atypical GC
+NODE_104_length_281_cov_0.010989_ID_11876	281	65.8	0.010989	0.0	0.0	removed	no reference hit + atypical GC
+NODE_105_length_275_cov_0.0227273_ID_11878	275	74.2	0.0227273	0.0	0.0	removed	no reference hit + atypical GC
+NODE_106_length_270_cov_3.61404_ID_11672	270	44.4	3.61404	100.0	96.6	kept	reference hit
+NODE_107_length_270_cov_3.40936_ID_11880	270	51.5	3.40936	100.0	100.0	kept	reference hit
+NODE_108_length_264_cov_0.0121212_ID_11882	264	69.7	0.0121212	0.0	0.0	removed	no reference hit + atypical GC
+NODE_109_length_262_cov_0.0184049_ID_11884	262	67.6	0.0184049	0.0	0.0	removed	no reference hit + atypical GC
+NODE_110_length_261_cov_0.0308642_ID_11886	261	54.8	0.0308642	0.0	0.0	removed	no reference hit + atypical GC
+NODE_111_length_260_cov_0.0124224_ID_11888	260	66.9	0.0124224	0.0	0.0	removed	no reference hit + atypical GC
+NODE_112_length_260_cov_0.0186335_ID_11890	260	68.1	0.0186335	0.0	0.0	removed	no reference hit + atypical GC
+NODE_113_length_256_cov_0.0191083_ID_11892	256	64.1	0.0191083	0.0	0.0	removed	no reference hit + atypical GC
+NODE_114_length_254_cov_0.0193548_ID_11894	254	59.8	0.0193548	0.0	0.0	removed	no reference hit + atypical GC
+NODE_115_length_254_cov_0.0258065_ID_11896	254	61.8	0.0258065	0.0	0.0	removed	no reference hit + atypical GC
+NODE_116_length_253_cov_0.025974_ID_11898	253	71.5	0.025974	0.0	0.0	removed	no reference hit + atypical GC
+NODE_117_length_252_cov_1.95425_ID_11900	252	42.9	1.95425	100.0	92.0	kept	reference hit
+NODE_118_length_252_cov_0.0261438_ID_11902	252	66.7	0.0261438	0.0	0.0	removed	no reference hit + atypical GC
+NODE_119_length_252_cov_0.0196078_ID_11904	252	62.3	0.0196078	0.0	0.0	removed	no reference hit + atypical GC
+NODE_120_length_251_cov_0.0131579_ID_11906	251	67.3	0.0131579	0.0	0.0	removed	no reference hit + atypical GC
+NODE_121_length_250_cov_0.0264901_ID_11908	250	65.6	0.0264901	0.0	0.0	removed	no reference hit + atypical GC
+NODE_122_length_250_cov_0.0198675_ID_11910	250	68.8	0.0198675	0.0	0.0	removed	no reference hit + atypical GC
+NODE_123_length_105_cov_6.83333_ID_11912	105	50.5	6.83333	0.0	0.0	removed	too short
+NODE_124_length_100_cov_7_ID_11914	100	100.0	7.0	0.0	0.0	removed	too short

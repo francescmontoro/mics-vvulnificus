@@ -1,0 +1,254 @@
+IQ-TREE 3.1.2 built May 17 2026
+
+Input file name: results/panaroo/core_snps.aln
+Type of analysis: tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 424953
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Hector Banos, Andrew J. Roger,
+Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman, Matthew W. Hahn,
+Gavin Huttley, Robert Lanfear, Bui Quang Minh (2025)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Submitted.
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+NOTE: Alignment sequence type is auto-detected. If in doubt, specify it via -st option.
+Input data: 30 sequences with 271891 nucleotide sites
+Number of constant sites: 0 (= 0% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 0 (= 0% of all sites)
+Number of parsimony informative sites: 212144
+Number of distinct site patterns: 21061
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: GTR+F+ASC+G4
+
+Rate parameter R:
+
+  A-C: 0.9983
+  A-G: 4.8939
+  A-T: 1.1757
+  C-G: 0.5367
+  C-T: 4.4775
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.2109
+  pi(C) = 0.2984
+  pi(G) = 0.2414
+  pi(T) = 0.2493
+
+Rate matrix Q:
+
+  A      -1.1    0.1848    0.7331    0.1819
+  C    0.1307   -0.9038    0.0804    0.6928
+  G    0.6405   0.09938   -0.8946    0.1547
+  T    0.1539     0.829    0.1498    -1.133
+
+Model of rate heterogeneity: Gamma with 4 categories
+Gamma shape alpha: 2.308
+
+ Category  Relative_rate  Proportion
+  1         0.3275         0.25
+  2         0.6842         0.25
+  3         1.076          0.25
+  4         1.912          0.25
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -2145422.9121 (s.e. 1756.5861)
+Unconstrained log-likelihood (without tree): -1933370.3144
+Number of free parameters (#branches + #model parameters): 66
+Akaike information criterion (AIC) score: 4290977.8243
+Corrected Akaike information criterion (AICc) score: 4290977.8568
+Bayesian information criterion (BIC) score: 4291671.6926
+
+Total tree length (sum of branch lengths): 1.1740
+Sum of internal branch lengths: 0.6656 (56.6981% of tree length)
+
+WARNING: 2 near-zero internal branches (<0.0000) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'CECT5763' is drawn at root
+Numbers in parentheses are  ultrafast bootstrap support (%)
+
++--CECT5763
+|
+|           +--CECT5198
+|        +--| (100)
+|        |  |  +--CECT4865
+|        |  +**| (81)
+|        |     +--CECT898
+|     +--| (100)
+|     |  |                                                          +------CG100
+|     |  |                                                       +--| (94)
+|     |  |                                                       |  +------YJ016
+|     |  |                                                    +--| (100)
+|     |  |                                                    |  +-------CECT4608
+|     |  |                                        +-----------| (100)
+|     |  |                                        |           +------V4
+|     |  |                        +---------------| (100)
+|     |  |                        |               |   +-----94385
+|     |  |                        |               +---| (100)
+|     |  |                        |                   +------RIU1
+|     |  |           +------------| (100)
+|     |  |           |            |            +**11028
+|     |  |           |            |         +--| (91)
+|     |  |           |            |         |  +--162
+|     |  |           |            |      +--| (90)
+|     |  |           |            |      |  +--32
+|     |  |           |            +------| (100)
+|     |  |           |                   +--12
+|     |  |        +--| (100)
+|     |  |        |  |            +--95-8-7
+|     |  |        |  |         +--| (92)
+|     |  |        |  |         |  +--95-8-161
+|     |  |        |  |     +---| (100)
+|     |  |        |  |     |   |  +--A14
+|     |  |        |  |     |   +--| (96)
+|     |  |        |  |     |      +--95-8-6
+|     |  |        |  |  +--| (100)
+|     |  |        |  |  |  +---94-9-119
+|     |  |        |  +--| (100)
+|     |  |        |     |    +--CECT5769
+|     |  |        |     +----| (100)
+|     |  |        |          +--CECT7030
+|     |  |     +--| (100)
+|     |  |     |  +---CECT4606
+|     |  |  +--| (100)
+|     |  |  |  +--960426-1_4C
+|     |  +--| (100)
+|     |     |     +--CECT4999
+|     |     |  +--| (100)
+|     |     |  |  +--CIP8190
+|     |     +--| (100)
+|     |        |  +**CECT4866
+|     |        +--| (100)
+|     |           +--94-9-112
+|  +**| (86)
+|  |  +--CECT4604
++--| (100)
+|  +--Ra_3
+|
++--PD-2-51
+
+Tree in newick format:
+
+(CECT5763:0.0000472636,((((CECT5198:0.0002528569,(CECT4865:0.0001150904,CECT898:0.0005694790)81:0.0000018720)100:0.0000245893,(((((((((CG100:0.0675660671,YJ016:0.0626369648)94:0.0123652905,CECT4608:0.0736499906)100:0.0153084394,V4:0.0681902114)100:0.1086310077,(94385:0.0570302236,RIU1:0.0663008376)100:0.0361581709)100:0.1450165465,(((11028:0.0000019146,162:0.0000065166)91:0.0000042224,32:0.0000926028)90:0.0000132651,12:0.0000339621)100:0.0675081944)100:0.1223702926,((((95-8-7:0.0000717394,95-8-161:0.0000409058)92:0.0000060180,(A14:0.0000113203,95-8-6:0.0000244261)96:0.0000074420)100:0.0386353848,94-9-119:0.0374155716)100:0.0083163958,(CECT5769:0.0000473666,CECT7030:0.0000493486)100:0.0445596623)100:0.0098636244)100:0.0098398310,CECT4606:0.0409217020)100:0.0133011311,960426-1_4C:0.0330020112)100:0.0320418680,((CECT4999:0.0000381686,CIP8190:0.0000267634)100:0.0000765350,(CECT4866:0.0000003678,94-9-112:0.0000133659)100:0.0000112086)100:0.0004933153)100:0.0010410705)100:0.0000202407,CECT4604:0.0000246148)86:0.0000021290,Ra_3:0.0000516960)100:0.0000267599,PD-2-51:0.0001376853);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -2145423.05885209
+Robinson-Foulds distance between ML tree and consensus tree: 0
+
+Branches with support >0.00000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++--CECT5763
+|
+|           +--CECT5198
+|        +--| (100)
+|        |  |  +--CECT4865
+|        |  +--| (81)
+|        |     +--CECT898
+|     +--| (100)
+|     |  |                                                          +------CG100
+|     |  |                                                       +--| (94)
+|     |  |                                                       |  +------YJ016
+|     |  |                                                    +--| (100)
+|     |  |                                                    |  +-------CECT4608
+|     |  |                                        +-----------| (100)
+|     |  |                                        |           +------V4
+|     |  |                        +---------------| (100)
+|     |  |                        |               |   +-----94385
+|     |  |                        |               +---| (100)
+|     |  |                        |                   +------RIU1
+|     |  |           +------------| (100)
+|     |  |           |            |            +--11028
+|     |  |           |            |         +--| (91)
+|     |  |           |            |         |  +--162
+|     |  |           |            |      +--| (90)
+|     |  |           |            |      |  +--32
+|     |  |           |            +------| (100)
+|     |  |           |                   +--12
+|     |  |        +--| (100)
+|     |  |        |  |            +--95-8-7
+|     |  |        |  |         +--| (92)
+|     |  |        |  |         |  +--95-8-161
+|     |  |        |  |     +---| (100)
+|     |  |        |  |     |   |  +--A14
+|     |  |        |  |     |   +--| (96)
+|     |  |        |  |     |      +--95-8-6
+|     |  |        |  |  +--| (100)
+|     |  |        |  |  |  +---94-9-119
+|     |  |        |  +--| (100)
+|     |  |        |     |    +--CECT5769
+|     |  |        |     +----| (100)
+|     |  |        |          +--CECT7030
+|     |  |     +--| (100)
+|     |  |     |  +---CECT4606
+|     |  |  +--| (100)
+|     |  |  |  +--960426-1_4C
+|     |  +--| (100)
+|     |     |     +--CECT4999
+|     |     |  +--| (100)
+|     |     |  |  +--CIP8190
+|     |     +--| (100)
+|     |        |  +**CECT4866
+|     |        +--| (100)
+|     |           +--94-9-112
+|  +--| (86)
+|  |  +--CECT4604
++--| (100)
+|  +--Ra_3
+|
++--PD-2-51
+
+
+Consensus tree in newick format: 
+
+(CECT5763:0.0000478249,((((CECT5198:0.0002532068,(CECT4865:0.0001154913,CECT898:0.0005700636)81:0.0000023089)100:0.0000249077,(((((((((CG100:0.0675747236,YJ016:0.0626457004)94:0.0123652223,CECT4608:0.0736600437)100:0.0153077098,V4:0.0681997489)100:0.1086389463,(94385:0.0570333782,RIU1:0.0663085934)100:0.0361629153)100:0.1450328484,(((11028:0.0000024020,162:0.0000070512)91:0.0000048573,32:0.0000929752)90:0.0000135958,12:0.0000339818)100:0.0675092086)100:0.1223831093,((((95-8-7:0.0000719748,95-8-161:0.0000413330)92:0.0000060695,(A14:0.0000117009,95-8-6:0.0000244990)96:0.0000076935)100:0.0386380552,94-9-119:0.0374177854)100:0.0083172778,(CECT5769:0.0000479608,CECT7030:0.0000495167)100:0.0445629208)100:0.0098637595)100:0.0098407867,CECT4606:0.0409242973)100:0.0133020109,960426-1_4C:0.0330041017)100:0.0320438864,((CECT4999:0.0000386564,CIP8190:0.0000271647)100:0.0000769071,(CECT4866:0.0000007816,94-9-112:0.0000138205)100:0.0000113256)100:0.0004936501)100:0.0010412784)100:0.0000203358,CECT4604:0.0000248995)86:0.0000023371,Ra_3:0.0000522283)100:0.0000271610,PD-2-51:0.0001380640);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t results/pyseer/core.treefile -m "GTR{0.998255,4.8939,1.17569,0.53674,4.47747}+F{0.210915,0.298363,0.241391,0.249331}+ASC+G4{2.30811}" --length 271891
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s results/panaroo/core_snps.aln --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s results/panaroo/core_snps.aln --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Wed Jul 29 15:42:25 2026
+Total CPU time used: 954.974738 seconds (0h:15m:54s)
+Total wall-clock time used: 225.221909 seconds (0h:3m:45s)
+

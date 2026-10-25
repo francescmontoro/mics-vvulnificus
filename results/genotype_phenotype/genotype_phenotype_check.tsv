@@ -1,0 +1,127 @@
+strain	mic_strain	gene	sources	intrinsic	assembly_mb	assembly_ratio	contamination_flag	contaminant_marker	antibiotic	mic_score	resistant	testable	note
+11028	BT3_11028	catB	AMRFinder	True	5.28	1.0	False					False	chromosomal/intrinsic
+11028	BT3_11028	tet(35)	AMRFinder	True	5.28	1.0	False					False	chromosomal/intrinsic
+11028	BT3_11028	varG	AMRFinder	True	5.28	1.0	False					False	chromosomal/intrinsic
+12	BT3_12	catB	AMRFinder	True	5.27	1.0	False					False	chromosomal/intrinsic
+12	BT3_12	tet(35)	AMRFinder	True	5.27	1.0	False					False	chromosomal/intrinsic
+12	BT3_12	varG	AMRFinder	True	5.27	1.0	False					False	chromosomal/intrinsic
+162	BT3_162	catB	AMRFinder	True	5.09	0.97	False					False	chromosomal/intrinsic
+162	BT3_162	tet(35)	AMRFinder	True	5.09	0.97	False					False	chromosomal/intrinsic
+162	BT3_162	varG	AMRFinder	True	5.09	0.97	False					False	chromosomal/intrinsic
+32	BT3_32	catB	AMRFinder	True	5.09	0.97	False					False	chromosomal/intrinsic
+32	BT3_32	tet(35)	AMRFinder	True	5.09	0.97	False					False	chromosomal/intrinsic
+32	BT3_32	varG	AMRFinder	True	5.09	0.97	False					False	chromosomal/intrinsic
+94-9-112	94-9-112	tet(35)	AMRFinder	True	5.28	1.0	False					False	chromosomal/intrinsic
+94-9-112	94-9-112	varG	AMRFinder	True	5.28	1.0	False					False	chromosomal/intrinsic
+94-9-119	94-9-119	catB	AMRFinder	True	4.88	0.93	False					False	chromosomal/intrinsic
+94-9-119	94-9-119	tet(35)	AMRFinder	True	4.88	0.93	False					False	chromosomal/intrinsic
+94-9-119	94-9-119	varG	AMRFinder	True	4.88	0.93	False					False	chromosomal/intrinsic
+94385	94-3-85	bla	AMRFinder	False	5.01	0.95	False		AMP	0.0	False	True	
+94385	94-3-85	bla	AMRFinder	False	5.01	0.95	False		AMOX	0.7143	True	True	
+94385	94-3-85	bla	AMRFinder	False	5.01	0.95	False		PIP	0.0	False	True	
+94385	94-3-85	catB	AMRFinder	True	5.01	0.95	False					False	chromosomal/intrinsic
+94385	94-3-85	tet(35)	AMRFinder	True	5.01	0.95	False					False	chromosomal/intrinsic
+94385	94-3-85	varG	AMRFinder	True	5.01	0.95	False					False	chromosomal/intrinsic
+95-8-161	95-8-161	catB	AMRFinder	True	5.05	0.96	False					False	chromosomal/intrinsic
+95-8-161	95-8-161	tet(35)	AMRFinder	True	5.05	0.96	False					False	chromosomal/intrinsic
+95-8-161	95-8-161	varG	AMRFinder	True	5.05	0.96	False					False	chromosomal/intrinsic
+95-8-6	95-8-6	catB	AMRFinder	True	5.08	0.97	False					False	chromosomal/intrinsic
+95-8-6	95-8-6	tet(35)	AMRFinder	True	5.08	0.97	False					False	chromosomal/intrinsic
+95-8-6	95-8-6	varG	AMRFinder	True	5.08	0.97	False					False	chromosomal/intrinsic
+95-8-7	95-8-7	catB	AMRFinder	True	5.06	0.96	False					False	chromosomal/intrinsic
+95-8-7	95-8-7	tet(35)	AMRFinder	True	5.06	0.96	False					False	chromosomal/intrinsic
+95-8-7	95-8-7	varG	AMRFinder	True	5.06	0.96	False					False	chromosomal/intrinsic
+960426-1_4C	960426_1/4C	catB	AMRFinder	True	5.05	0.96	False					False	chromosomal/intrinsic
+960426-1_4C	960426_1/4C	tet(35)	AMRFinder	True	5.05	0.96	False					False	chromosomal/intrinsic
+960426-1_4C	960426_1/4C	varG	AMRFinder	True	5.05	0.96	False					False	chromosomal/intrinsic
+A14	A14	catB	AMRFinder	True	5.02	0.95	False					False	chromosomal/intrinsic
+A14	A14	tet(35)	AMRFinder	True	5.02	0.95	False					False	chromosomal/intrinsic
+A14	A14	varG	AMRFinder	True	5.02	0.95	False					False	chromosomal/intrinsic
+CECT4604	CECT_4604	tet(35)	AMRFinder	True	5.0	0.95	False					False	chromosomal/intrinsic
+CECT4604	CECT_4604	varG	AMRFinder	True	5.0	0.95	False					False	chromosomal/intrinsic
+CECT4606	CECT_4606	aadA1	AMRFinder,ResFinder	False	5.15	0.98	False		STR	1.875	True	True	
+CECT4606	CECT_4606	aadA1	AMRFinder,ResFinder	False	5.15	0.98	False		SPE	5.0	True	True	
+CECT4606	CECT_4606	catB	AMRFinder	True	5.15	0.98	False					False	chromosomal/intrinsic
+CECT4606	CECT_4606	dfrA1	AMRFinder,ResFinder	False	5.15	0.98	False		SXT	5.0	True	True	
+CECT4606	CECT_4606	dfrA1	AMRFinder,ResFinder	False	5.15	0.98	False		SXT2	5.0	True	True	
+CECT4606	CECT_4606	gyrA_S83I	AMRFinder	False	5.15	0.98	False		CIP	0.0	False	True	
+CECT4606	CECT_4606	gyrA_S83I	AMRFinder	False	5.15	0.98	False		ENRO	0.0	False	True	
+CECT4606	CECT_4606	gyrA_S83I	AMRFinder	False	5.15	0.98	False		GAT	0.0	False	True	
+CECT4606	CECT_4606	merA	AMRFinder	False	5.15	0.98	False					False	drug not on Sensititre panel
+CECT4606	CECT_4606	merC	AMRFinder	False	5.15	0.98	False					False	drug not on Sensititre panel
+CECT4606	CECT_4606	merP	AMRFinder	False	5.15	0.98	False					False	drug not on Sensititre panel
+CECT4606	CECT_4606	sat2	AMRFinder	False	5.15	0.98	False					False	drug not on Sensititre panel
+CECT4606	CECT_4606	sul2	AMRFinder,ResFinder	False	5.15	0.98	False		STZ	5.0	True	True	
+CECT4606	CECT_4606	sul2	AMRFinder,ResFinder	False	5.15	0.98	False		SDM	5.0	True	True	
+CECT4606	CECT_4606	tet(35)	AMRFinder	True	5.15	0.98	False					False	chromosomal/intrinsic
+CECT4606	CECT_4606	tet(59)	AMRFinder,ResFinder	False	5.15	0.98	False		TET	5.0	True	True	
+CECT4606	CECT_4606	tet(59)	AMRFinder,ResFinder	False	5.15	0.98	False		OXY	5.0	True	True	
+CECT4606	CECT_4606	varG	AMRFinder	True	5.15	0.98	False					False	chromosomal/intrinsic
+CECT4608	CECT_4608	catB	AMRFinder	True	5.42	1.03	False					False	chromosomal/intrinsic
+CECT4608	CECT_4608	gyrA_S83R	AMRFinder	False	5.42	1.03	False		CIP	0.0	False	True	
+CECT4608	CECT_4608	gyrA_S83R	AMRFinder	False	5.42	1.03	False		ENRO	0.0	False	True	
+CECT4608	CECT_4608	gyrA_S83R	AMRFinder	False	5.42	1.03	False		GAT	0.0	False	True	
+CECT4608	CECT_4608	sul2	AMRFinder,ResFinder	False	5.42	1.03	False		STZ	5.0	True	True	
+CECT4608	CECT_4608	sul2	AMRFinder,ResFinder	False	5.42	1.03	False		SDM	0.0	False	True	
+CECT4608	CECT_4608	tet(35)	AMRFinder	True	5.42	1.03	False					False	chromosomal/intrinsic
+CECT4608	CECT_4608	tet(59)	AMRFinder,ResFinder	False	5.42	1.03	False		TET	3.3333	True	True	
+CECT4608	CECT_4608	tet(59)	AMRFinder,ResFinder	False	5.42	1.03	False		OXY	2.5	True	True	
+CECT4608	CECT_4608	varG	AMRFinder	True	5.42	1.03	False					False	chromosomal/intrinsic
+CECT4865	CECT_4865	blaTEM	AMRFinder	False	4.96	0.94	False		AMP	0.0	False	True	
+CECT4865	CECT_4865	blaTEM	AMRFinder	False	4.96	0.94	False		AMOX	0.7143	True	True	
+CECT4865	CECT_4865	blaTEM	AMRFinder	False	4.96	0.94	False		PIP	0.0	False	True	
+CECT4865	CECT_4865	blaTEM	AMRFinder	False	4.96	0.94	False		A/S2	0.0	False	True	
+CECT4865	CECT_4865	tet(35)	AMRFinder	True	4.96	0.94	False					False	chromosomal/intrinsic
+CECT4865	CECT_4865	varG	AMRFinder	True	4.96	0.94	False					False	chromosomal/intrinsic
+CECT4866	CECT_4866	tet(35)	AMRFinder	True	5.02	0.95	False					False	chromosomal/intrinsic
+CECT4866	CECT_4866	varG	AMRFinder	True	5.02	0.95	False					False	chromosomal/intrinsic
+CECT4999	CECT_4999	tet(35)	AMRFinder	True	5.09	0.97	False					False	chromosomal/intrinsic
+CECT4999	CECT_4999	varG	AMRFinder	True	5.09	0.97	False					False	chromosomal/intrinsic
+CECT5198	CECT_5198	tet(35)	AMRFinder	True	4.96	0.94	False					False	chromosomal/intrinsic
+CECT5198	CECT_5198	varG	AMRFinder	True	4.96	0.94	False					False	chromosomal/intrinsic
+CECT5763	CECT_5763	tet(35)	AMRFinder	True	5.02	0.96	False					False	chromosomal/intrinsic
+CECT5763	CECT_5763	varG	AMRFinder	True	5.02	0.96	False					False	chromosomal/intrinsic
+CECT5769	CECT_5769	tet(35)	AMRFinder	True	5.22	0.99	False					False	chromosomal/intrinsic
+CECT5769	CECT_5769	varG	AMRFinder	True	5.22	0.99	False					False	chromosomal/intrinsic
+CECT7030	CECT_7030	tet(35)	AMRFinder	True	5.07	0.96	False					False	chromosomal/intrinsic
+CECT7030	CECT_7030	varG	AMRFinder	True	5.07	0.96	False					False	chromosomal/intrinsic
+CECT898	CECT_898	aadA13	AMRFinder,ResFinder	False	5.16	0.98	False		STR	0.625	True	True	
+CECT898	CECT_898	aadA13	AMRFinder,ResFinder	False	5.16	0.98	False		SPE	5.0	True	True	
+CECT898	CECT_898	catA2	AMRFinder,ResFinder	False	5.16	0.98	False					False	drug not on Sensititre panel
+CECT898	CECT_898	merA	AMRFinder	False	5.16	0.98	False					False	drug not on Sensititre panel
+CECT898	CECT_898	merC	AMRFinder	False	5.16	0.98	False					False	drug not on Sensititre panel
+CECT898	CECT_898	merD	AMRFinder	False	5.16	0.98	False					False	drug not on Sensititre panel
+CECT898	CECT_898	merE	AMRFinder	False	5.16	0.98	False					False	drug not on Sensititre panel
+CECT898	CECT_898	merP	AMRFinder	False	5.16	0.98	False					False	drug not on Sensititre panel
+CECT898	CECT_898	merR	AMRFinder	False	5.16	0.98	False					False	drug not on Sensititre panel
+CECT898	CECT_898	merT	AMRFinder	False	5.16	0.98	False					False	drug not on Sensititre panel
+CECT898	CECT_898	qacE	AMRFinder	False	5.16	0.98	False					False	drug not on Sensititre panel
+CECT898	CECT_898	sul1	AMRFinder,ResFinder	False	5.16	0.98	False		STZ	5.0	True	True	
+CECT898	CECT_898	sul1	AMRFinder,ResFinder	False	5.16	0.98	False		SDM	5.0	True	True	
+CECT898	CECT_898	tet(35)	AMRFinder	True	5.16	0.98	False					False	chromosomal/intrinsic
+CECT898	CECT_898	varG	AMRFinder	True	5.16	0.98	False					False	chromosomal/intrinsic
+CG100	CG_100	catB	AMRFinder	True	5.19	0.99	False					False	chromosomal/intrinsic
+CG100	CG_100	tet(35)	AMRFinder	True	5.19	0.99	False					False	chromosomal/intrinsic
+CG100	CG_100	varG	AMRFinder	True	5.19	0.99	False					False	chromosomal/intrinsic
+CIP8190	C1P8190	tet(35)	AMRFinder	True	5.14	0.98	False					False	chromosomal/intrinsic
+CIP8190	C1P8190	varG	AMRFinder	True	5.14	0.98	False					False	chromosomal/intrinsic
+PD-2-51	PD-2-51	tet(35)	AMRFinder	True	5.06	0.96	False					False	chromosomal/intrinsic
+PD-2-51	PD-2-51	varG	AMRFinder	True	5.06	0.96	False					False	chromosomal/intrinsic
+RIU1	RIU1	bla	AMRFinder	False	4.91	0.93	False		AMP	0.0	False	True	
+RIU1	RIU1	bla	AMRFinder	False	4.91	0.93	False		AMOX	1.4286	True	True	
+RIU1	RIU1	bla	AMRFinder	False	4.91	0.93	False		PIP	0.0	False	True	
+RIU1	RIU1	catB	AMRFinder	True	4.91	0.93	False					False	chromosomal/intrinsic
+RIU1	RIU1	varG	AMRFinder	True	4.91	0.93	False					False	chromosomal/intrinsic
+Ra_3	Ra_3	tet(35)	AMRFinder	True	5.01	0.95	False					False	chromosomal/intrinsic
+Ra_3	Ra_3	varG	AMRFinder	True	5.01	0.95	False					False	chromosomal/intrinsic
+V4	V_4	blaTEM-116	AMRFinder,ResFinder	False	4.91	0.93	False		AMP	0.0	False	True	
+V4	V_4	blaTEM-116	AMRFinder,ResFinder	False	4.91	0.93	False		AMOX	0.7143	True	True	
+V4	V_4	blaTEM-116	AMRFinder,ResFinder	False	4.91	0.93	False		PIP	0.0	False	True	
+V4	V_4	blaTEM-116	AMRFinder,ResFinder	False	4.91	0.93	False		A/S2	0.0	False	True	
+V4	V_4	catA1	AMRFinder,ResFinder	False	4.91	0.93	False					False	drug not on Sensititre panel
+V4	V_4	catB	AMRFinder	True	4.91	0.93	False					False	chromosomal/intrinsic
+V4	V_4	tet(35)	AMRFinder	True	4.91	0.93	False					False	chromosomal/intrinsic
+V4	V_4	varG	AMRFinder	True	4.91	0.93	False					False	chromosomal/intrinsic
+YJ016	YJ016	catB	AMRFinder	True	5.26	1.0	False					False	chromosomal/intrinsic
+YJ016	YJ016	tet(35)	AMRFinder	True	5.26	1.0	False					False	chromosomal/intrinsic
+YJ016	YJ016	varG	AMRFinder	True	5.26	1.0	False					False	chromosomal/intrinsic

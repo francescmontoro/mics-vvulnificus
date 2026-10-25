@@ -1,0 +1,4 @@
+phenotype	tests	significant	min_p	bonferroni
+STZ_bin128	636	3	4.88e-05	7.861635220125787e-05
+STZ_ordinal	604	5	3.94e-06	8.278145695364238e-05
+GEN_bin	636	0	0.00464	7.861635220125787e-05

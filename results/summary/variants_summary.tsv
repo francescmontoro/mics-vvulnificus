@@ -1,0 +1,16 @@
+category	count
+drop_coding	2135197
+drop_indel	650638
+drop_other	2717
+raw_complex	633855
+raw_del	8300
+raw_ins	8452
+raw_mnp	31
+raw_snp	2612770
+region_coding	2425163
+region_noncoding	184890
+region_other	2717
+--	--
+kept_total	19525
+kept_coding	11456
+kept_noncoding	8069

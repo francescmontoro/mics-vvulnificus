@@ -1,0 +1,43 @@
+qseqid	sseqid	pident	length	evalue	bitscore	stitle	strain	taxon
+11028|11028_04615	gi|310975024|ref|NR_036888.1|	99.87	1535	0.0	2828	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	11028	vulnificus strain
+12|12_07415	gi|310975024|ref|NR_036888.1|	99.87	1535	0.0	2828	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	12	vulnificus strain
+12|12_07770	gi|343201086|ref|NR_041773.1|	100.0	1470	0.0	2715	Renibacterium salmoninarum strain ATCC 33209 16S ribosomal RNA, partial sequence	12	salmoninarum strain
+162|162_04697	gi|310975024|ref|NR_036888.1|	99.87	1535	0.0	2828	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	162	vulnificus strain
+32|32_04579	gi|310975024|ref|NR_036888.1|	99.805	1535	0.0	2822	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	32	vulnificus strain
+94-9-112|94-9-112_04373	gi|343201086|ref|NR_041773.1|	99.932	1470	0.0	2710	Renibacterium salmoninarum strain ATCC 33209 16S ribosomal RNA, partial sequence	94-9-112	salmoninarum strain
+94-9-112|94-9-112_04379	gi|310975024|ref|NR_036888.1|	99.87	1535	0.0	2828	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	94-9-112	vulnificus strain
+94-9-119|94-9-119_04336	gi|310975024|ref|NR_036888.1|	99.87	1535	0.0	2828	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	94-9-119	vulnificus strain
+94385|94385_00495	gi|310975024|ref|NR_036888.1|	99.089	1536	0.0	2761	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	94385	vulnificus strain
+95-8-161|95-8-161_04202	gi|310975024|ref|NR_036888.1|	99.87	1535	0.0	2828	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	95-8-161	vulnificus strain
+95-8-6|95-8-6_004530	gi|645320483|ref|NR_117678.1|	99.934	1526	0.0	2813	Pseudomonas aeruginosa strain DSM 50071 16S ribosomal RNA, partial sequence	95-8-6	aeruginosa strain
+95-8-6|95-8-6_005593	gi|310975024|ref|NR_036888.1|	99.87	1535	0.0	2828	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	95-8-6	vulnificus strain
+95-8-7|95-8-7_04562	gi|310975024|ref|NR_036888.1|	99.87	1535	0.0	2828	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	95-8-7	vulnificus strain
+960426-1_4C|960426-1_4C_01314	gi|310975024|ref|NR_036888.1|	99.87	1535	0.0	2828	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	960426-1_4C	vulnificus strain
+A14|A14_04386	gi|310975024|ref|NR_036888.1|	99.87	1535	0.0	2828	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	A14	vulnificus strain
+CECT4604|CECT4604_04539	gi|310975024|ref|NR_036888.1|	99.87	1535	0.0	2828	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	CECT4604	vulnificus strain
+CECT4606|CECT4606_04654	gi|310975024|ref|NR_036888.1|	99.87	1535	0.0	2828	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	CECT4606	vulnificus strain
+CECT4608|CECT4608_05055	gi|310975024|ref|NR_036888.1|	98.828	1536	0.0	2739	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	CECT4608	vulnificus strain
+CECT4865|CECT4865_01221	gi|310975024|ref|NR_036888.1|	99.87	1535	0.0	2828	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	CECT4865	vulnificus strain
+CECT4866|CECT4866_04414	gi|310975024|ref|NR_036888.1|	99.87	1535	0.0	2828	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	CECT4866	vulnificus strain
+CECT4999|CECT4999_00240	gi|310975024|ref|NR_036888.1|	99.739	1535	0.0	2817	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	CECT4999	vulnificus strain
+CECT4999|CECT4999_01520	gi|310975024|ref|NR_036888.1|	99.805	1535	0.0	2822	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	CECT4999	vulnificus strain
+CECT4999|CECT4999_01644	gi|310975024|ref|NR_036888.1|	99.87	1535	0.0	2828	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	CECT4999	vulnificus strain
+CECT4999|CECT4999_01875	gi|310975024|ref|NR_036888.1|	99.87	1535	0.0	2828	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	CECT4999	vulnificus strain
+CECT4999|CECT4999_01882	gi|310975024|ref|NR_036888.1|	99.87	1535	0.0	2828	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	CECT4999	vulnificus strain
+CECT4999|CECT4999_01985	gi|310975024|ref|NR_036888.1|	99.87	1535	0.0	2828	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	CECT4999	vulnificus strain
+CECT4999|CECT4999_04039	gi|310975024|ref|NR_036888.1|	99.805	1535	0.0	2822	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	CECT4999	vulnificus strain
+CECT4999|CECT4999_04594	gi|310975024|ref|NR_036888.1|	99.805	1535	0.0	2820	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	CECT4999	vulnificus strain
+CECT4999|CECT4999_04639	gi|310975024|ref|NR_036888.1|	99.87	1535	0.0	2828	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	CECT4999	vulnificus strain
+CECT5198|CECT5198_04354	gi|310975024|ref|NR_036888.1|	99.87	1535	0.0	2828	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	CECT5198	vulnificus strain
+CECT5763|CECT5763_02609	gi|310975024|ref|NR_036888.1|	99.87	1535	0.0	2828	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	CECT5763	vulnificus strain
+CECT5769|CECT5769_04548	gi|645322271|ref|NR_119061.1|	99.914	1161	0.0	2141	Vibrio vulnificus NBRC 15645 = ATCC 27562 16S ribosomal RNA, partial sequence	CECT5769	vulnificus NBRC
+CECT7030|CECT7030_04512	gi|310975024|ref|NR_036888.1|	99.87	1535	0.0	2828	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	CECT7030	vulnificus strain
+CECT898|CECT898_02944	gi|310975024|ref|NR_036888.1|	99.87	1535	0.0	2828	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	CECT898	vulnificus strain
+CG100|CG100_02364	gi|310975024|ref|NR_036888.1|	99.089	1536	0.0	2761	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	CG100	vulnificus strain
+CIP8190|CIP8190_05160	gi|343201086|ref|NR_041773.1|	99.916	1185	0.0	2183	Renibacterium salmoninarum strain ATCC 33209 16S ribosomal RNA, partial sequence	CIP8190	salmoninarum strain
+CIP8190|CIP8190_06034	gi|310975024|ref|NR_036888.1|	99.87	1535	0.0	2828	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	CIP8190	vulnificus strain
+PD-2-51|PD-2-51_04428	gi|310975024|ref|NR_036888.1|	99.87	1535	0.0	2828	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	PD-2-51	vulnificus strain
+RIU1|RIU1_00830	gi|310975024|ref|NR_036888.1|	99.089	1536	0.0	2761	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	RIU1	vulnificus strain
+RIU1|RIU1_04637	gi|645320483|ref|NR_117678.1|	100.0	598	0.0	1105	Pseudomonas aeruginosa strain DSM 50071 16S ribosomal RNA, partial sequence	RIU1	aeruginosa strain
+Ra_3|Ra_3_03122	gi|310975024|ref|NR_036888.1|	99.87	1535	0.0	2828	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	Ra_3	vulnificus strain
+V4|V4_04405	gi|310975024|ref|NR_036888.1|	98.828	1536	0.0	2739	Vibrio vulnificus strain 324 16S ribosomal RNA, partial sequence	V4	vulnificus strain
